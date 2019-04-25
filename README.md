@@ -1,9 +1,7 @@
 # Gotico-Antiqua, Proto-Roman, Hybrid. *15th century types between gothic and roman*
 
-Atelier national de recherche typographique
-École nationale supérieure d’art et de design de Nancy
-Symposium 25 & 26 April 2019
-Exhibition 25 April – 17 May 2019 
+Atelier national de recherche typographique <b/>
+École nationale supérieure d’art et de design de Nancy <b/>
 
 # Introduction
 
