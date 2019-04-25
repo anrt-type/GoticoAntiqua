@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="E" format="1">
+  <advance width="689"/>
+  <unicode hex="0045"/>
+  <outline>
+    <contour>
+      <point x="466" y="375" type="curve"/>
+      <point x="211" y="375" type="line"/>
+      <point x="212" y="333" type="line"/>
+      <point x="470" y="333" type="line" smooth="yes"/>
+      <point x="534" y="333"/>
+      <point x="573" y="327"/>
+      <point x="587" y="250" type="curve"/>
+      <point x="612" y="254" type="line"/>
+      <point x="603" y="345"/>
+      <point x="605" y="369"/>
+      <point x="613" y="461" type="curve"/>
+      <point x="588" y="464" type="line"/>
+      <point x="577" y="390"/>
+      <point x="541" y="375"/>
+    </contour>
+    <contour>
+      <point x="476" y="40" type="curve"/>
+      <point x="223" y="40" type="line"/>
+      <point x="223" y="656" type="line"/>
+      <point x="489" y="656" type="line" smooth="yes"/>
+      <point x="572" y="656"/>
+      <point x="587" y="631"/>
+      <point x="605" y="577" type="curve"/>
+      <point x="629" y="578" type="line"/>
+      <point x="629" y="700" type="line"/>
+      <point x="40" y="700" type="line"/>
+      <point x="40" y="670" type="line"/>
+      <point x="100" y="661"/>
+      <point x="133" y="654"/>
+      <point x="133" y="593" type="curve"/>
+      <point x="137" y="121" type="line" smooth="yes"/>
+      <point x="138" y="53"/>
+      <point x="115" y="32"/>
+      <point x="43" y="30" type="curve"/>
+      <point x="43" y="0" type="line"/>
+      <point x="659" y="0" type="line"/>
+      <point x="659" y="139" type="line"/>
+      <point x="635" y="139" type="line"/>
+      <point x="631" y="75"/>
+      <point x="583" y="40"/>
+    </contour>
+    <contour>
+      <point x="345" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="604" y="10" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="345" y="700" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="40" y="700" type="move" name="topleft"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-24 16:49:01 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <integer>1</integer>
+        <real>0.929</real>
+        <integer>1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

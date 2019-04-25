@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Q_strok" format="1">
+  <advance width="1045"/>
+  <outline>
+    <contour>
+      <point x="496" y="-35" type="curve"/>
+      <point x="496" y="-57" type="line"/>
+      <point x="607" y="-20"/>
+      <point x="667" y="-80"/>
+      <point x="610" y="-135" type="curve"/>
+      <point x="645" y="-130" type="line"/>
+      <point x="742" y="-22"/>
+      <point x="639" y="17"/>
+    </contour>
+    <component base="Q"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-03-11 21:20:57 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

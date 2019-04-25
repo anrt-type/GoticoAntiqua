@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="R_stroke" format="1">
+  <advance width="899"/>
+  <outline>
+    <contour>
+      <point x="177" y="-244" type="line"/>
+      <point x="187" y="-245" type="line"/>
+      <point x="492" y="-8"/>
+      <point x="648" y="253"/>
+      <point x="835" y="450" type="curve"/>
+      <point x="835" y="471" type="line"/>
+      <point x="781" y="464"/>
+      <point x="722" y="461"/>
+      <point x="674" y="462" type="curve"/>
+      <point x="674" y="432" type="line"/>
+      <point x="730" y="413"/>
+      <point x="725" y="412"/>
+      <point x="699" y="372" type="curve"/>
+      <point x="570" y="176"/>
+      <point x="402" y="-45"/>
+      <point x="171" y="-198" type="curve"/>
+    </contour>
+    <component base="R"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-19 22:04:51 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

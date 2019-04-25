@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="r_macr" format="1">
+  <advance width="330"/>
+  <outline>
+    <contour>
+      <point x="120.208" y="522.567" type="curve"/>
+      <point x="98.38" y="539.1108" type="line"/>
+      <point x="111.113" y="569.6532"/>
+      <point x="131.122" y="605.286"/>
+      <point x="158.407" y="642.1914" type="curve"/>
+      <point x="229.348" y="642.1914"/>
+      <point x="277.5515" y="626.9202"/>
+      <point x="317.5695" y="666.3708" type="curve"/>
+      <point x="343.0355" y="651.0996" type="line"/>
+      <point x="327.574" y="625.6476"/>
+      <point x="312.1125" y="582.3792"/>
+      <point x="289.375" y="544.2012" type="curve"/>
+      <point x="233.8955" y="539.1108"/>
+      <point x="164.7735" y="564.5628"/>
+    </contour>
+    <component base="r"/>
+    <contour>
+      <point x="216.615" y="338.04" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="216.615" y="685.4598" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>r</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-24 19:30:21 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

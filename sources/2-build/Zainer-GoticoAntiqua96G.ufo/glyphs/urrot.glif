@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="urrot" format="1">
+  <advance width="403"/>
+  <note>
+    urrot
+  </note>
+  <outline>
+    <contour>
+      <point x="39" y="635" type="curve"/>
+      <point x="39" y="640" type="line"/>
+      <point x="94" y="692" type="line"/>
+      <point x="155" y="690"/>
+      <point x="216" y="695"/>
+      <point x="277" y="700" type="curve"/>
+      <point x="277" y="694" type="line"/>
+      <point x="201" y="621" type="line"/>
+      <point x="255" y="621"/>
+      <point x="302" y="625"/>
+      <point x="355" y="632" type="curve"/>
+      <point x="355" y="626" type="line"/>
+      <point x="336" y="607"/>
+      <point x="325" y="591"/>
+      <point x="312" y="570" type="curve"/>
+      <point x="131" y="569" type="line"/>
+      <point x="131" y="574" type="line"/>
+      <point x="190" y="640" type="line"/>
+      <point x="143" y="642"/>
+      <point x="76" y="643"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-24 17:25:05 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

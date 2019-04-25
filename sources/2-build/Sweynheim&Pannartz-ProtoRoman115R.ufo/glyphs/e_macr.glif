@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="e_macr" format="1">
+  <advance width="422"/>
+  <unicode hex="0113"/>
+  <outline>
+    <contour>
+      <point x="61" y="488" type="curve"/>
+      <point x="82" y="464" type="line"/>
+      <point x="107" y="491"/>
+      <point x="159" y="498"/>
+      <point x="193" y="498" type="curve"/>
+      <point x="228" y="498"/>
+      <point x="242" y="494"/>
+      <point x="278" y="494" type="curve"/>
+      <point x="318" y="522"/>
+      <point x="347" y="554"/>
+      <point x="391" y="604" type="curve"/>
+      <point x="367" y="623" type="line"/>
+      <point x="335" y="592"/>
+      <point x="314" y="565"/>
+      <point x="283" y="565" type="curve"/>
+      <point x="250" y="565"/>
+      <point x="223" y="571"/>
+      <point x="191" y="571" type="curve"/>
+      <point x="152" y="546"/>
+      <point x="92" y="517"/>
+    </contour>
+    <component base="e"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>e</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-24 15:11:29 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>e</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>e</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

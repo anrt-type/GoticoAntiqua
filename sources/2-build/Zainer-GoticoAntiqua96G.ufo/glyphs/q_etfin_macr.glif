@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="q_etfin_macr" format="1">
+  <advance width="744"/>
+  <outline>
+    <contour>
+      <point x="518" y="571" type="curve"/>
+      <point x="651" y="579" type="line"/>
+      <point x="677" y="658" type="line"/>
+      <point x="675" y="664" type="line"/>
+      <point x="402" y="627" type="line"/>
+      <point x="371" y="596"/>
+      <point x="339" y="535"/>
+      <point x="320" y="498" type="curve"/>
+      <point x="341" y="491" type="line"/>
+      <point x="370" y="534"/>
+      <point x="435" y="567"/>
+    </contour>
+    <component base="q_etfin"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-23 14:01:23 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>q</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>etfin</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

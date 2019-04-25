@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="q_tilde" format="1">
+  <advance width="434"/>
+  <outline>
+    <contour>
+      <point x="387" y="465" type="curve"/>
+      <point x="454" y="573" type="line"/>
+      <point x="433" y="585" type="line"/>
+      <point x="375" y="509"/>
+      <point x="361" y="567"/>
+      <point x="325" y="602" type="curve"/>
+      <point x="225" y="473" type="line"/>
+      <point x="245" y="461" type="line"/>
+      <point x="306" y="525" type="line"/>
+      <point x="326" y="509"/>
+      <point x="348" y="498"/>
+    </contour>
+    <component base="q"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-03-28 15:38:46 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>q</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

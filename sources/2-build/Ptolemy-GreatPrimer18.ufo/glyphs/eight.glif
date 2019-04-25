@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eight" format="1">
+  <advance width="523"/>
+  <unicode hex="0038"/>
+  <outline>
+    <contour>
+      <point x="473" y="155" type="curve"/>
+      <point x="473" y="235"/>
+      <point x="409" y="293"/>
+      <point x="317" y="342" type="curve"/>
+      <point x="386" y="386"/>
+      <point x="457" y="432"/>
+      <point x="457" y="498" type="curve"/>
+      <point x="457" y="589"/>
+      <point x="354" y="635"/>
+      <point x="262" y="635" type="curve"/>
+      <point x="169" y="635"/>
+      <point x="61" y="588"/>
+      <point x="61" y="492" type="curve"/>
+      <point x="61" y="419"/>
+      <point x="141" y="355"/>
+      <point x="216" y="326" type="curve"/>
+      <point x="108" y="279"/>
+      <point x="50" y="226"/>
+      <point x="50" y="155" type="curve"/>
+      <point x="50" y="51"/>
+      <point x="133" y="-10"/>
+      <point x="262" y="-10" type="curve"/>
+      <point x="375" y="-10"/>
+      <point x="473" y="60"/>
+    </contour>
+    <contour>
+      <point x="252" y="600" type="curve"/>
+      <point x="345" y="600"/>
+      <point x="392" y="558"/>
+      <point x="392" y="495" type="curve"/>
+      <point x="392" y="440"/>
+      <point x="337" y="391"/>
+      <point x="285" y="360" type="curve"/>
+      <point x="214" y="396"/>
+      <point x="125" y="444"/>
+      <point x="125" y="520" type="curve"/>
+      <point x="125" y="577"/>
+      <point x="190" y="600"/>
+    </contour>
+    <contour>
+      <point x="262" y="24" type="curve"/>
+      <point x="179" y="24"/>
+      <point x="120" y="77"/>
+      <point x="120" y="155" type="curve"/>
+      <point x="120" y="209"/>
+      <point x="149" y="248"/>
+      <point x="255" y="306" type="curve"/>
+      <point x="348" y="250"/>
+      <point x="403" y="216"/>
+      <point x="403" y="135" type="curve"/>
+      <point x="403" y="60"/>
+      <point x="329" y="24"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-19 17:56:10 +0000</string>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,1</string>
+    </dict>
+  </lib>
+</glyph>

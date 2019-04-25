@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Odieresis" format="1">
+  <advance width="818"/>
+  <unicode hex="00D6"/>
+  <outline>
+    <contour>
+      <point x="407" y="710" type="curve"/>
+      <point x="200" y="710"/>
+      <point x="37" y="538"/>
+      <point x="37" y="332" type="curve"/>
+      <point x="37" y="144"/>
+      <point x="206" y="-10"/>
+      <point x="418" y="-10" type="curve"/>
+      <point x="619" y="-10"/>
+      <point x="783" y="153"/>
+      <point x="783" y="355" type="curve"/>
+      <point x="783" y="554"/>
+      <point x="612" y="710"/>
+    </contour>
+    <contour>
+      <point x="151" y="350" type="curve"/>
+      <point x="151" y="510"/>
+      <point x="267" y="650"/>
+      <point x="427" y="650" type="curve"/>
+      <point x="585" y="650"/>
+      <point x="726" y="542"/>
+      <point x="726" y="352" type="curve"/>
+      <point x="726" y="202"/>
+      <point x="594" y="77"/>
+      <point x="444" y="77" type="curve"/>
+      <point x="284" y="77"/>
+      <point x="151" y="190"/>
+    </contour>
+    <contour>
+      <point x="669" y="693" type="line"/>
+      <point x="671" y="697" type="line"/>
+      <point x="767" y="682" type="line"/>
+      <point x="793" y="508" type="line"/>
+      <point x="785" y="506" type="line"/>
+    </contour>
+    <contour>
+      <point x="215" y="699" type="line"/>
+      <point x="33" y="530" type="line"/>
+      <point x="25" y="533" type="line"/>
+      <point x="53" y="685" type="line"/>
+      <point x="214" y="706" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-21 17:12:49 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>O</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>O</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

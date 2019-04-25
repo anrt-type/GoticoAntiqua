@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="P" format="1">
+  <advance width="537"/>
+  <unicode hex="0050"/>
+  <outline>
+    <contour>
+      <point x="517" y="504" type="curve"/>
+      <point x="517" y="646"/>
+      <point x="385" y="710"/>
+      <point x="240" y="710" type="curve"/>
+      <point x="182" y="710"/>
+      <point x="116" y="701"/>
+      <point x="48" y="689" type="curve"/>
+      <point x="63" y="540"/>
+      <point x="63" y="221"/>
+      <point x="45" y="3" type="curve"/>
+      <point x="46" y="0" type="line"/>
+      <point x="188" y="0" type="line"/>
+      <point x="189" y="3" type="line"/>
+      <point x="177" y="94"/>
+      <point x="174" y="176"/>
+      <point x="171" y="267" type="curve"/>
+      <point x="352" y="273"/>
+      <point x="517" y="355"/>
+    </contour>
+    <contour>
+      <point x="171" y="327" type="curve"/>
+      <point x="163" y="650" type="line"/>
+      <point x="341" y="666"/>
+      <point x="397" y="577"/>
+      <point x="397" y="490" type="curve"/>
+      <point x="397" y="368"/>
+      <point x="290" y="327"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-24 17:43:03 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,59 @@
+# automatic
+@AllLetters = [ A Adieresis B C D D.ss01 E F G H H.ss01 I J K K.ss01 L M N O Odieresis P Q R S S.ss01 T U Udieresis V W X Y Z a adieresis a_e b c c_h c_k d e f f_f f_i f_l f_t g h i j k l m n o odieresis o_e p q r s longs longs_i longs_longs longs_t germandbls t t_z u udieresis v w x y y.ss01 z ];
+
+# Prefix: Languagesystems
+# automatic
+languagesystem DFLT dflt;
+
+feature aalt {
+# automatic
+feature salt;
+feature ss01;
+feature ss02;
+feature ss03;
+feature ss04;
+feature ss05;
+feature ss06;
+} aalt;
+
+feature liga {
+sub c h by c_h;
+sub c k by c_k;
+sub longs z by germandbls;
+sub f f by f_f;
+sub f i by f_i;
+sub f l by f_l;
+sub f t by f_t;
+sub t z by t_z;
+} liga;
+
+feature salt {
+sub D by D.ss01;
+sub H by H.ss01;
+sub K by K.ss01;
+sub S by S.ss01;
+sub s by longs;
+sub @AllLetters longs' [emspace enspace threeperemspace fourperemspace space thinspace hairspace comma colon period] by s;
+} salt;
+
+feature ss01 {
+sub D by D.ss01;
+} ss01;
+
+feature ss02 {
+sub H by H.ss01;
+} ss02;
+
+feature ss03 {
+sub K by K.ss01;
+} ss03;
+
+feature ss04 {
+sub S by S.ss01;
+} ss04;
+
+feature ss05 {
+sub s by longs;
+sub @AllLetters longs' [emspace enspace threeperemspace fourperemspace space thinspace hairspace comma colon period] by s;
+} ss05;
+

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="q_etfin" format="1">
+  <advance width="699"/>
+  <outline>
+    <contour>
+      <point x="573" y="350" type="curve"/>
+      <point x="513" y="350"/>
+      <point x="457" y="291"/>
+      <point x="407" y="266" type="curve"/>
+      <point x="419" y="247" type="line"/>
+      <point x="520" y="311"/>
+      <point x="580" y="277"/>
+      <point x="580" y="222" type="curve"/>
+      <point x="580" y="148"/>
+      <point x="514" y="117"/>
+      <point x="429" y="79" type="curve"/>
+      <point x="439" y="58" type="line"/>
+      <point x="539" y="91"/>
+      <point x="584" y="66"/>
+      <point x="584" y="18" type="curve"/>
+      <point x="584" y="-62"/>
+      <point x="493" y="-97"/>
+      <point x="434" y="-122" type="curve"/>
+      <point x="445" y="-150" type="line"/>
+      <point x="513" y="-121"/>
+      <point x="664" y="-58"/>
+      <point x="664" y="26" type="curve"/>
+      <point x="664" y="107"/>
+      <point x="578" y="124"/>
+      <point x="507" y="118" type="curve"/>
+      <point x="520" y="109" type="line"/>
+      <point x="549" y="110"/>
+      <point x="671" y="171"/>
+      <point x="674" y="258" type="curve"/>
+      <point x="676" y="323"/>
+      <point x="633" y="350"/>
+    </contour>
+    <component base="q"/>
+    <contour>
+      <point x="658" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="199" y="0" type="move" name="bottom_1"/>
+    </contour>
+    <contour>
+      <point x="596" y="0" type="move" name="bottom_2"/>
+    </contour>
+    <contour>
+      <point x="397.5" y="0" type="move" name="caret_1"/>
+    </contour>
+    <contour>
+      <point x="658" y="400" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="199" y="400" type="move" name="top_1"/>
+    </contour>
+    <contour>
+      <point x="596" y="400" type="move" name="top_2"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-03-21 16:55:23 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>q</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

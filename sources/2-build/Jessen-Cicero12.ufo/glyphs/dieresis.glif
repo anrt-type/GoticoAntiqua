@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresis" format="1">
+  <advance width="600"/>
+  <unicode hex="00A8"/>
+  <outline>
+    <contour>
+      <point x="177" y="565" type="line"/>
+      <point x="134" y="565" type="line"/>
+      <point x="179" y="750" type="line"/>
+      <point x="267" y="750" type="line"/>
+    </contour>
+    <contour>
+      <point x="304" y="565" type="line"/>
+      <point x="259" y="565" type="line"/>
+      <point x="304" y="750" type="line"/>
+      <point x="392" y="750" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-24 17:42:53 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

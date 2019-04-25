@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="e_macr" format="1">
+  <advance width="368"/>
+  <unicode hex="0113"/>
+  <outline>
+    <contour>
+      <point x="56" y="457" type="curve"/>
+      <point x="40" y="472" type="line"/>
+      <point x="139" y="589" type="line"/>
+      <point x="269" y="600"/>
+      <point x="304" y="608"/>
+      <point x="360" y="665" type="curve"/>
+      <point x="384" y="645" type="line"/>
+      <point x="347" y="594"/>
+      <point x="323" y="553"/>
+      <point x="298" y="518" type="curve"/>
+      <point x="176" y="506"/>
+      <point x="151" y="522"/>
+    </contour>
+    <component base="e"/>
+    <contour>
+      <point x="214" y="350" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="300" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="540" y="10" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="300" y="400" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>e</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-23 17:35:26 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

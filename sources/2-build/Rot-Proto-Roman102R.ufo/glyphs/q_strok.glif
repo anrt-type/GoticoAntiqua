@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="q_strok" format="1">
+  <advance width="699"/>
+  <unicode hex="A759"/>
+  <outline>
+    <contour>
+      <point x="414" y="243" type="curve"/>
+      <point x="423" y="220" type="line"/>
+      <point x="450" y="256"/>
+      <point x="485" y="296"/>
+      <point x="515" y="296" type="curve"/>
+      <point x="548" y="296"/>
+      <point x="590" y="263"/>
+      <point x="590" y="226" type="curve"/>
+      <point x="590" y="135"/>
+      <point x="498" y="43"/>
+      <point x="423" y="-25" type="curve"/>
+      <point x="423" y="-82" type="line"/>
+      <point x="515" y="33"/>
+      <point x="660" y="170"/>
+      <point x="679" y="274" type="curve"/>
+      <point x="669" y="318"/>
+      <point x="618" y="358"/>
+      <point x="577" y="368" type="curve"/>
+      <point x="531" y="368"/>
+      <point x="473" y="306"/>
+    </contour>
+    <component base="q"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-01-16 10:11:37 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>q</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>p</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="p_flour" format="1">
+  <advance width="719"/>
+  <unicode hex="A753"/>
+  <outline>
+    <contour>
+      <point x="281.025" y="110.701" type="curve"/>
+      <point x="307.5225" y="92.1235" type="line"/>
+      <point x="200.268" y="38.2915"/>
+      <point x="104.6265" y="-22.52"/>
+      <point x="124.737" y="-94.973" type="curve"/>
+      <point x="136.2615" y="-137.228"/>
+      <point x="177.8505" y="-140.5805"/>
+      <point x="216.0495" y="-130.862" type="curve"/>
+      <point x="224.9685" y="-153.6215" type="line"/>
+      <point x="186.5625" y="-190.163"/>
+      <point x="151.539" y="-228.8435"/>
+      <point x="123.147" y="-241.4855" type="curve"/>
+      <point x="85.155" y="-224.381"/>
+      <point x="59.2125" y="-193.406"/>
+      <point x="42.8475" y="-159.3815" type="curve"/>
+      <point x="2.442" y="-74.0945"/>
+      <point x="131.2935" y="40.3855"/>
+    </contour>
+    <component base="p" xOffset="139"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>p</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-24 19:30:03 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>p</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>p</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

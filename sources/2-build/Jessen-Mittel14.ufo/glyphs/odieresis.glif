@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="odieresis" format="1">
+  <advance width="388"/>
+  <unicode hex="00F6"/>
+  <outline>
+    <contour>
+      <point x="108" y="535" type="line"/>
+      <point x="144" y="691" type="line"/>
+      <point x="193" y="688" type="line"/>
+      <point x="129" y="535" type="line"/>
+    </contour>
+    <contour>
+      <point x="207" y="533" type="line"/>
+      <point x="254" y="688" type="line"/>
+      <point x="302" y="686" type="line"/>
+      <point x="229" y="533" type="line"/>
+    </contour>
+    <component base="o"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-24 17:58:14 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>o</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>o</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

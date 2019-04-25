@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="q_bardes" format="1">
+  <advance width="501"/>
+  <unicode hex="A757"/>
+  <outline>
+    <contour>
+      <point x="472" y="-137" type="line"/>
+      <point x="476" y="-167" type="line"/>
+      <point x="401" y="-188"/>
+      <point x="223" y="-239"/>
+      <point x="121" y="-274" type="curve"/>
+      <point x="122" y="-264" type="line"/>
+      <point x="150" y="-222" type="line"/>
+      <point x="261" y="-198"/>
+      <point x="397" y="-175"/>
+      <point x="467" y="-136" type="curve"/>
+    </contour>
+    <component base="q"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>q</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-24 08:17:58 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

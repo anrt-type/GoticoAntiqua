@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="F" format="1">
+  <advance width="558"/>
+  <unicode hex="0046"/>
+  <outline>
+    <contour>
+      <point x="374" y="0" type="line"/>
+      <point x="62" y="-1" type="line"/>
+      <point x="61" y="23" type="line"/>
+      <point x="79" y="40"/>
+      <point x="84" y="56"/>
+      <point x="85" y="79" type="curve"/>
+      <point x="93" y="252"/>
+      <point x="90" y="428"/>
+      <point x="86" y="600" type="curve"/>
+      <point x="85" y="640"/>
+      <point x="79" y="647"/>
+      <point x="66" y="653" type="curve"/>
+      <point x="50" y="660" type="line"/>
+      <point x="51" y="697" type="line"/>
+      <point x="216" y="697" type="line"/>
+      <point x="215" y="698"/>
+      <point x="556" y="696"/>
+      <point x="556" y="696" type="curve"/>
+      <point x="558" y="564" type="line"/>
+      <point x="534" y="564" type="line"/>
+      <point x="499" y="617"/>
+      <point x="466" y="654"/>
+      <point x="333" y="656" type="curve"/>
+      <point x="193" y="658" type="line"/>
+      <point x="192" y="401" type="line"/>
+      <point x="425" y="401" type="line" smooth="yes"/>
+      <point x="475" y="401"/>
+      <point x="485" y="418"/>
+      <point x="512" y="465" type="curve"/>
+      <point x="535" y="465" type="line"/>
+      <point x="512" y="308" type="line"/>
+      <point x="494" y="308" type="line"/>
+      <point x="479" y="339"/>
+      <point x="478" y="350"/>
+      <point x="449" y="350" type="curve"/>
+      <point x="193" y="350" type="line"/>
+      <point x="193" y="103" type="line" smooth="yes"/>
+      <point x="193" y="49"/>
+      <point x="197" y="47"/>
+      <point x="242" y="42" type="curve"/>
+      <point x="374" y="27" type="line"/>
+    </contour>
+    <contour>
+      <point x="276" y="25" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="276" y="722" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-02-28 16:05:16 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

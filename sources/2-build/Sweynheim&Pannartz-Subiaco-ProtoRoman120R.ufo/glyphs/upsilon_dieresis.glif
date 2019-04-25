@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="upsilon_dieresis" format="1">
+  <advance width="606"/>
+  <outline>
+    <contour>
+      <point x="393" y="505" type="curve"/>
+      <point x="420" y="505"/>
+      <point x="435" y="521"/>
+      <point x="435" y="545" type="curve"/>
+      <point x="435" y="568"/>
+      <point x="420" y="584"/>
+      <point x="393" y="584" type="curve"/>
+      <point x="368" y="584"/>
+      <point x="352" y="568"/>
+      <point x="352" y="545" type="curve"/>
+      <point x="352" y="521"/>
+      <point x="368" y="505"/>
+    </contour>
+    <contour>
+      <point x="245" y="505" type="curve"/>
+      <point x="272" y="505"/>
+      <point x="287" y="521"/>
+      <point x="287" y="545" type="curve"/>
+      <point x="287" y="568"/>
+      <point x="272" y="584"/>
+      <point x="245" y="584" type="curve"/>
+      <point x="220" y="584"/>
+      <point x="204" y="568"/>
+      <point x="204" y="545" type="curve"/>
+      <point x="204" y="521"/>
+      <point x="220" y="505"/>
+    </contour>
+    <component base="upsilon" xOffset="-6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-01-30 16:11:41 +0000</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

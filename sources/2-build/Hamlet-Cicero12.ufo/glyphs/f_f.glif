@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="f_f" format="1">
+  <advance width="471"/>
+  <outline>
+    <contour>
+      <point x="45" y="0" type="line"/>
+      <point x="145" y="0" type="line"/>
+      <point x="145" y="300" type="line"/>
+      <point x="266" y="300" type="line"/>
+      <point x="266" y="380" type="line"/>
+      <point x="145" y="380" type="line"/>
+      <point x="145" y="487" type="line" smooth="yes"/>
+      <point x="145" y="551"/>
+      <point x="148" y="611"/>
+      <point x="162" y="633" type="curve"/>
+      <point x="184" y="637"/>
+      <point x="247" y="626"/>
+      <point x="289" y="584" type="curve"/>
+      <point x="357" y="667" type="line"/>
+      <point x="324" y="695"/>
+      <point x="257" y="710"/>
+      <point x="217" y="710" type="curve"/>
+      <point x="45" y="612" type="line"/>
+      <point x="45" y="365" type="line"/>
+      <point x="10" y="317" type="line"/>
+      <point x="10" y="300" type="line"/>
+      <point x="45" y="300" type="line"/>
+    </contour>
+    <contour>
+      <point x="260" y="0" type="line"/>
+      <point x="360" y="0" type="line"/>
+      <point x="360" y="300" type="line"/>
+      <point x="491" y="300" type="line"/>
+      <point x="501" y="380" type="line"/>
+      <point x="360" y="380" type="line"/>
+      <point x="360" y="487" type="line" smooth="yes"/>
+      <point x="360" y="551"/>
+      <point x="359" y="638"/>
+      <point x="372" y="660" type="curve"/>
+      <point x="379" y="663"/>
+      <point x="460" y="642"/>
+      <point x="493" y="589" type="curve"/>
+      <point x="503" y="589" type="line"/>
+      <point x="571" y="655" type="line"/>
+      <point x="571" y="659" type="line"/>
+      <point x="537" y="696"/>
+      <point x="481" y="710"/>
+      <point x="422" y="710" type="curve"/>
+      <point x="260" y="646" type="line"/>
+      <point x="260" y="365" type="line"/>
+      <point x="215" y="327" type="line"/>
+      <point x="215" y="300" type="line"/>
+      <point x="260" y="300" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-24 18:54:44 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>f</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>f</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="adieresis" format="1">
+  <advance width="457"/>
+  <unicode hex="00E4"/>
+  <outline>
+    <contour>
+      <point x="159" y="554" type="line"/>
+      <point x="249" y="722" type="line"/>
+      <point x="307" y="728" type="line"/>
+      <point x="305" y="719" type="line"/>
+      <point x="195" y="560" type="line"/>
+    </contour>
+    <contour>
+      <point x="279" y="565" type="line"/>
+      <point x="374" y="736" type="line"/>
+      <point x="442" y="744" type="line"/>
+      <point x="441" y="736" type="line"/>
+      <point x="312" y="573" type="line"/>
+    </contour>
+    <component base="a"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>a</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-24 17:58:14 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>a</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>a</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

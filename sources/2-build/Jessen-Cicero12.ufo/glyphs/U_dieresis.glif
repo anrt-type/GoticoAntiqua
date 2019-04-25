@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Udieresis" format="1">
+  <advance width="688"/>
+  <unicode hex="00DC"/>
+  <outline>
+    <contour>
+      <point x="286" y="421" type="curve"/>
+      <point x="256" y="411" type="line"/>
+      <point x="236" y="700" type="line"/>
+      <point x="307" y="710" type="line"/>
+      <point x="298" y="611"/>
+      <point x="291" y="520"/>
+    </contour>
+    <contour>
+      <point x="411" y="409" type="curve"/>
+      <point x="381" y="399" type="line"/>
+      <point x="356" y="700" type="line"/>
+      <point x="435" y="710" type="line"/>
+      <point x="425" y="607"/>
+      <point x="418" y="512"/>
+    </contour>
+    <component base="U"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-24 17:43:03 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

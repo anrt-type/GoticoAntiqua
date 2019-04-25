@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="g_ra" format="1">
+  <advance width="510"/>
+  <outline>
+    <contour>
+      <point x="84" y="519" type="curve"/>
+      <point x="61" y="534" type="line"/>
+      <point x="74" y="544"/>
+      <point x="145" y="602"/>
+      <point x="169" y="622" type="curve"/>
+      <point x="196" y="607"/>
+      <point x="228" y="590"/>
+      <point x="254" y="577" type="curve"/>
+      <point x="316" y="625" type="line"/>
+      <point x="366" y="588"/>
+      <point x="391" y="572"/>
+      <point x="427" y="604" type="curve"/>
+      <point x="450" y="591" type="line"/>
+      <point x="422" y="562"/>
+      <point x="394" y="532"/>
+      <point x="359" y="502" type="curve"/>
+      <point x="319" y="526"/>
+      <point x="286" y="546"/>
+      <point x="253" y="552" type="curve"/>
+      <point x="220" y="537"/>
+      <point x="190" y="513"/>
+      <point x="175" y="504" type="curve"/>
+      <point x="122" y="538"/>
+      <point x="122" y="539"/>
+    </contour>
+    <component base="g"/>
+    <contour>
+      <point x="300" y="-250" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="300" y="400" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>g</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-23 16:18:02 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>g</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>g</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

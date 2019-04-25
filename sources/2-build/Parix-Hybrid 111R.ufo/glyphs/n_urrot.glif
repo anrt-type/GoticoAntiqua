@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="n_urrot" format="1">
+  <advance width="466"/>
+  <outline>
+    <contour>
+      <point x="139" y="683" type="curve"/>
+      <point x="140" y="714" type="line"/>
+      <point x="270" y="719" type="line"/>
+      <point x="274" y="714" type="line"/>
+      <point x="260" y="588" type="line" smooth="yes"/>
+      <point x="254" y="538"/>
+      <point x="261" y="538"/>
+      <point x="304" y="534" type="curve"/>
+      <point x="303" y="509" type="line"/>
+      <point x="191" y="489" type="line"/>
+      <point x="186" y="495" type="line"/>
+      <point x="184" y="636" type="line" smooth="yes"/>
+      <point x="183" y="683"/>
+      <point x="175" y="683"/>
+    </contour>
+    <contour>
+      <point x="113" y="337" type="curve"/>
+      <point x="122" y="302" type="line"/>
+      <point x="160" y="331"/>
+      <point x="200" y="342"/>
+      <point x="242" y="342" type="curve"/>
+      <point x="321" y="342"/>
+      <point x="327" y="288"/>
+      <point x="326" y="179" type="curve"/>
+      <point x="325" y="88"/>
+      <point x="321" y="43"/>
+      <point x="302" y="27" type="curve"/>
+      <point x="301" y="-3" type="line"/>
+      <point x="325" y="-1"/>
+      <point x="417" y="-2"/>
+      <point x="440" y="-3" type="curve"/>
+      <point x="441" y="27" type="line"/>
+      <point x="420" y="43"/>
+      <point x="418" y="56"/>
+      <point x="415" y="96" type="curve"/>
+      <point x="412" y="142"/>
+      <point x="417" y="240"/>
+      <point x="412" y="335" type="curve"/>
+      <point x="410" y="374"/>
+      <point x="356" y="413"/>
+      <point x="320" y="413" type="curve"/>
+      <point x="290" y="413"/>
+      <point x="181" y="378"/>
+    </contour>
+    <contour>
+      <point x="133" y="96" type="curve"/>
+      <point x="127" y="144"/>
+      <point x="122" y="311"/>
+      <point x="132" y="400" type="curve"/>
+      <point x="122" y="409" type="line"/>
+      <point x="82" y="392"/>
+      <point x="50" y="376"/>
+      <point x="28" y="363" type="curve"/>
+      <point x="32" y="275"/>
+      <point x="33" y="67"/>
+      <point x="25" y="-6" type="curve"/>
+      <point x="160" y="-3" type="line"/>
+      <point x="160" y="27" type="line"/>
+      <point x="134" y="47"/>
+      <point x="136" y="63"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-19 22:04:51 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>n</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>n</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

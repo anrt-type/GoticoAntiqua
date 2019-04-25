@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="e_macr" format="1">
+  <advance width="409"/>
+  <outline>
+    <contour>
+      <point x="166" y="521" type="curve"/>
+      <point x="142" y="534" type="line"/>
+      <point x="156" y="558"/>
+      <point x="178" y="586"/>
+      <point x="208" y="615" type="curve"/>
+      <point x="286" y="615"/>
+      <point x="339" y="603"/>
+      <point x="383" y="634" type="curve"/>
+      <point x="411" y="622" type="line"/>
+      <point x="394" y="602"/>
+      <point x="377" y="568"/>
+      <point x="352" y="538" type="curve"/>
+      <point x="291" y="534"/>
+      <point x="215" y="554"/>
+    </contour>
+    <component base="e"/>
+    <contour>
+      <point x="272" y="376" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="272" y="649" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>e</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-24 19:29:44 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="f_l" format="1">
+  <advance width="464"/>
+  <outline>
+    <contour>
+      <point x="43" y="0" type="curve"/>
+      <point x="163" y="0" type="line"/>
+      <point x="160" y="10"/>
+      <point x="153" y="20"/>
+      <point x="153" y="50" type="curve"/>
+      <point x="153" y="300" type="line"/>
+      <point x="238" y="300" type="line"/>
+      <point x="238" y="380" type="line"/>
+      <point x="153" y="380" type="line"/>
+      <point x="153" y="645" type="line"/>
+      <point x="204" y="645"/>
+      <point x="263" y="625"/>
+      <point x="268" y="583" type="curve"/>
+      <point x="280" y="583" type="line"/>
+      <point x="342" y="655" type="line"/>
+      <point x="342" y="659" type="line"/>
+      <point x="302" y="691"/>
+      <point x="269" y="704"/>
+      <point x="225" y="710" type="curve"/>
+      <point x="53" y="619" type="line"/>
+      <point x="53" y="379" type="line"/>
+      <point x="10" y="313" type="line"/>
+      <point x="14" y="304" type="line"/>
+      <point x="53" y="304" type="line"/>
+      <point x="53" y="50" type="line" smooth="yes"/>
+      <point x="53" y="20"/>
+      <point x="46" y="10"/>
+    </contour>
+    <contour>
+      <point x="360" y="710" type="line"/>
+      <point x="257" y="643" type="line"/>
+      <point x="268" y="614"/>
+      <point x="270" y="577"/>
+      <point x="270" y="485" type="curve"/>
+      <point x="270" y="90" type="line"/>
+      <point x="370" y="181" type="line"/>
+      <point x="370" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="370" y="181" type="curve"/>
+      <point x="270" y="90" type="line"/>
+      <point x="269" y="65"/>
+      <point x="318" y="0"/>
+      <point x="340" y="-10" type="curve"/>
+      <point x="347" y="-10" type="line"/>
+      <point x="464" y="75" type="line"/>
+      <point x="464" y="90" type="line"/>
+      <point x="417" y="90"/>
+      <point x="370" y="107"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-24 18:54:44 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>f</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>l</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

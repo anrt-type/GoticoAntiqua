@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="h_strok" format="1">
+  <advance width="553"/>
+  <outline>
+    <contour>
+      <point x="123" y="421" type="curve"/>
+      <point x="147" y="399" type="line"/>
+      <point x="226" y="463"/>
+      <point x="412" y="611"/>
+      <point x="412" y="625" type="curve"/>
+      <point x="412" y="639"/>
+      <point x="383" y="685"/>
+      <point x="347" y="722" type="curve"/>
+      <point x="341" y="722" type="line"/>
+      <point x="233" y="662" type="line"/>
+      <point x="233" y="657" type="line"/>
+      <point x="258" y="640"/>
+      <point x="290" y="620"/>
+      <point x="290" y="581" type="curve"/>
+      <point x="290" y="545"/>
+      <point x="153" y="450"/>
+    </contour>
+    <component base="h"/>
+    <contour>
+      <point x="274" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="274" y="215" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="274" y="430" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>h</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-23 08:57:09 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>h</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>h</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

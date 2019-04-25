@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="c_t" format="1">
+  <advance width="633"/>
+  <unicode hex="EEC5"/>
+  <outline>
+    <contour>
+      <point x="424" y="350" type="curve"/>
+      <point x="437" y="430" type="line"/>
+      <point x="493" y="428"/>
+      <point x="553" y="430"/>
+      <point x="609" y="432" type="curve"/>
+      <point x="605" y="350" type="line"/>
+      <point x="545" y="359"/>
+      <point x="484" y="359"/>
+    </contour>
+    <contour>
+      <point x="471" y="602" type="curve"/>
+      <point x="471" y="548"/>
+      <point x="451" y="307"/>
+      <point x="454" y="156" type="curve"/>
+      <point x="455" y="100"/>
+      <point x="469" y="85"/>
+      <point x="502" y="85" type="curve"/>
+      <point x="534" y="85"/>
+      <point x="577" y="108"/>
+      <point x="606" y="132" type="curve"/>
+      <point x="617" y="104" type="line"/>
+      <point x="576" y="65"/>
+      <point x="493" y="7"/>
+      <point x="436" y="-10" type="curve"/>
+      <point x="365" y="16"/>
+      <point x="347" y="55"/>
+      <point x="347" y="90" type="curve"/>
+      <point x="347" y="161"/>
+      <point x="363" y="256"/>
+      <point x="360" y="320" type="curve"/>
+      <point x="358" y="357"/>
+      <point x="340" y="366"/>
+      <point x="324" y="370" type="curve"/>
+      <point x="324" y="381" type="line"/>
+      <point x="343" y="401"/>
+      <point x="353" y="416"/>
+      <point x="358" y="430" type="curve"/>
+      <point x="366" y="453"/>
+      <point x="365" y="512"/>
+      <point x="362" y="548" type="curve"/>
+      <point x="359" y="588"/>
+      <point x="331" y="604"/>
+      <point x="286" y="604" type="curve"/>
+      <point x="245" y="604"/>
+      <point x="172" y="592"/>
+      <point x="80" y="559" type="curve"/>
+      <point x="74" y="585" type="line"/>
+      <point x="173" y="620"/>
+      <point x="292" y="674"/>
+      <point x="365" y="684" type="curve"/>
+      <point x="411" y="664"/>
+      <point x="451" y="644"/>
+    </contour>
+    <component base="c"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-24 15:12:21 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>c</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>t</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

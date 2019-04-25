@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="o_e" format="1">
+  <advance width="680"/>
+  <outline>
+    <contour>
+      <point x="336" y="206" type="curve"/>
+      <point x="336" y="296"/>
+      <point x="278" y="370"/>
+      <point x="178" y="370" type="curve"/>
+      <point x="148" y="370"/>
+      <point x="125" y="319"/>
+      <point x="125" y="259" type="curve"/>
+      <point x="125" y="169"/>
+      <point x="173" y="80"/>
+      <point x="273" y="80" type="curve"/>
+      <point x="303" y="80"/>
+      <point x="336" y="146"/>
+    </contour>
+    <contour>
+      <point x="58" y="341" type="curve"/>
+      <point x="243" y="460" type="line"/>
+      <point x="353" y="460"/>
+      <point x="432" y="366"/>
+      <point x="432" y="256" type="curve"/>
+      <point x="432" y="196"/>
+      <point x="420" y="148"/>
+      <point x="402" y="115" type="curve"/>
+      <point x="208" y="-10" type="line"/>
+      <point x="108" y="-10"/>
+      <point x="25" y="89"/>
+      <point x="25" y="189" type="curve"/>
+      <point x="25" y="259"/>
+      <point x="36" y="298"/>
+    </contour>
+    <component base="e" xOffset="301"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>e</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-19 16:09:21 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

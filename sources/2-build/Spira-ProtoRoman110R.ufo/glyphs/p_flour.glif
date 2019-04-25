@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="p_flour" format="1">
+  <advance width="496"/>
+  <unicode hex="A753"/>
+  <outline>
+    <contour>
+      <point x="88" y="10" type="curve"/>
+      <point x="86" y="-19" type="line"/>
+      <point x="-76" y="-62"/>
+      <point x="-116" y="-113"/>
+      <point x="-86" y="-177" type="curve"/>
+      <point x="-111" y="-188" type="line"/>
+      <point x="-129" y="-164"/>
+      <point x="-172" y="-126"/>
+      <point x="-172" y="-105" type="curve"/>
+      <point x="-172" y="-72"/>
+      <point x="-59" y="-27"/>
+    </contour>
+    <component base="p"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-01-14 12:34:56 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

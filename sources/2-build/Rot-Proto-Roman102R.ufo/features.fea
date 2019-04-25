@@ -1,0 +1,106 @@
+# automatic
+@AllLetters = [ A B C D E F G H I J K L M N O P Q Q.ss01 Q_strok R R_rot_ring S T U V W X Y Z a a_macr b c c_dieresis c_t d d_strok e e_macr f f_f f_l g h i i_dieresis i_macr j k l l_strok m n n_macr o o_macr o_dieresis p p_bardes p_flour p_macr q q_acute q_bardes q_dieresis q_etfin q_bardes_dieresis q_strok r r.ss01 r_rot_c_dieresis s s_dieresis longs longs_i longs_longs longs_t t t_macr u u_macr v v_strok w x y z z.ss01 con etfin rum ];
+
+# Prefix: Languagesystems
+languagesystem DFLT dflt;
+
+feature aalt {
+# automatic
+feature hist;
+feature salt;
+feature ss01;
+feature ss02;
+feature ss03;
+} aalt;
+
+feature dlig {
+sub a m by a_macr;
+sub c r a by c_dieresis;
+sub d e by d_strok;
+sub d e s by d_strok;
+sub d i c i t by d_strok;
+sub d i c t u s by d_strok;
+sub d i s by d_strok;
+sub d i t by d_strok;
+sub d u m by d_strok;
+sub u n d by d_strok;
+sub e m by e_macr;
+sub e n by e_macr;
+sub space e s t space by e_macr;
+sub i n by i_macr;
+sub i n i by i_macr;
+sub i m by i_macr;
+sub i m u by i_macr;
+sub i r e by i_macr;
+sub m i by i_macr;
+sub m i n by i_macr;
+sub n i by i_macr;
+sub n i m by i_macr;
+sub a n by n_macr;
+sub e n e by n_macr;
+sub o n by o_macr;
+sub o m by o_macr;
+sub i o by o_macr;
+sub o d o by o_macr;
+sub p a r by p_bardes;
+sub p e r by p_bardes;
+sub p r a e by p_macr;
+sub p r e by p_macr;
+sub p r o by p_flour;
+sub p r o p by p_flour;
+sub q u a e by q_acute;
+sub q u e by q_acute;
+sub q u a by q_dieresis;
+sub q u i d by q_bardes;
+sub q u i d a m by q_bardes_dieresis;
+sub q u o d by q_strok;
+sub @AllLetters q u e by q_etfin;
+sub r u m by rum;
+sub v e r by v_strok;
+} dlig;
+
+feature liga {
+sub c t by c_t;
+sub f f by f_f;
+sub f l by f_l;
+sub longs i by longs_i;
+sub longs longs by longs_longs;
+sub longs t by longs_t;
+} liga;
+
+feature hlig {
+sub c t by c_t;
+sub f f by f_f;
+sub f l by f_l;
+sub longs i by longs_i;
+sub longs longs by longs_longs;
+sub longs t by longs_t;
+} hlig;
+
+feature hist {
+sub Q by Q.ss01;
+sub r by r.ss01;
+sub s by longs;
+sub @AllLetters longs' [emspace enspace threeperemspace fourperemspace space thinspace hairspace period] by s;
+} hist;
+
+feature salt {
+sub Q by Q.ss01;
+sub r by r.ss01;
+sub s by longs;
+sub @AllLetters longs' [emspace enspace threeperemspace fourperemspace space thinspace hairspace period] by s;
+} salt;
+
+feature ss01 {
+sub Q by Q.ss01;
+} ss01;
+
+feature ss02 {
+sub r by r.ss01;
+} ss02;
+
+feature ss03 {
+sub s by longs;
+sub @AllLetters longs' [emspace enspace threeperemspace fourperemspace space thinspace hairspace period] by s;
+} ss03;
+

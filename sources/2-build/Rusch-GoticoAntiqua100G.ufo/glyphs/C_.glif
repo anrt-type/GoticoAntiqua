@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="C" format="1">
+  <advance width="696"/>
+  <unicode hex="0043"/>
+  <outline>
+    <contour>
+      <point x="686" y="521" type="line"/>
+      <point x="656" y="521" type="line"/>
+      <point x="603" y="610"/>
+      <point x="548" y="668"/>
+      <point x="413" y="668" type="curve"/>
+      <point x="237" y="668"/>
+      <point x="135" y="529"/>
+      <point x="135" y="355" type="curve"/>
+      <point x="135" y="153"/>
+      <point x="224" y="29"/>
+      <point x="398" y="29" type="curve"/>
+      <point x="512" y="29"/>
+      <point x="603" y="61"/>
+      <point x="647" y="164" type="curve"/>
+      <point x="676" y="163" type="line"/>
+      <point x="669" y="98"/>
+      <point x="654" y="7"/>
+      <point x="654" y="7" type="curve"/>
+      <point x="569" y="3"/>
+      <point x="484" y="-9"/>
+      <point x="410" y="-9" type="curve"/>
+      <point x="200" y="-9"/>
+      <point x="20" y="92"/>
+      <point x="20" y="355" type="curve"/>
+      <point x="20" y="536"/>
+      <point x="158" y="708"/>
+      <point x="422" y="708" type="curve"/>
+      <point x="503" y="708"/>
+      <point x="601" y="691"/>
+      <point x="682" y="689" type="curve"/>
+    </contour>
+    <contour>
+      <point x="348" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="348" y="700" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-01-15 14:46:54 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <integer>1</integer>
+        <real>0.929</real>
+        <integer>1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

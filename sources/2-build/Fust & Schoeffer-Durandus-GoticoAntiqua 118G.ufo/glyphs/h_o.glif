@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="h_o" format="1">
+  <advance width="871"/>
+  <outline>
+    <component base="h"/>
+    <component base="o" xOffset="418"/>
+    <contour>
+      <point x="218" y="0" type="move" name="bottom_1"/>
+    </contour>
+    <contour>
+      <point x="653" y="0" type="move" name="bottom_2"/>
+    </contour>
+    <contour>
+      <point x="435.5" y="0" type="move" name="caret_1"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="center_1"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="center_2"/>
+    </contour>
+    <contour>
+      <point x="218" y="430" type="move" name="top_1"/>
+    </contour>
+    <contour>
+      <point x="653" y="430" type="move" name="top_2"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>h</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>o</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-24 19:10:27 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>h</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=o</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

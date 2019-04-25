@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>730</integer>
+	<key>capHeight</key>
+	<integer>700</integer>
+	<key>copyright</key>
+	<string>Copyright © 2019 ANRT. All rights reserved.</string>
+	<key>descender</key>
+	<integer>-330</integer>
+	<key>familyName</key>
+	<string>Sweynheim &amp; Pannartz</string>
+	<key>openTypeHeadCreated</key>
+	<string>2019/04/19 18:32:25</string>
+	<key>openTypeNameDescription</key>
+	<string>Sweynheim &amp; Pannartz ‘Subiaco’ 120R, Proto-Roman first used in Subiaco by Konrad Sweynheim &amp; Arnold Pannartz, for an edition of Donatus in 1465 (no longer preserved) and used until 1467 in four editions in total.
+
+Type design workshop with students of ANRT at Biblioteca Statale del Monumento Nazionale di Santa Scolastica, Subiaco, May 2018.
+
+Sources: De divinis institutionibus adversus gentes, Lactantius, 1465 &amp; De Civitate Dei, Augustinus, 1467.
+
+Workshop participants: Alexis Faudot, Rémi Forte, Morgane Pierson, Rafael Ribas, Tanguy Vanlaeys, Rosalie Wagner, Eloïsa Pérez, Francis Ramel.
+
+Font designed and produced by Alexis Faudot and Rafael Ribas, directed by Jérôme Knebusch, Atelier National de Recherche Typographqiue (ANRT), Nancy.
+
+Copyright (c) 2019 ANRT. All rights reserved.</string>
+	<key>openTypeNameDesigner</key>
+	<string>Alexis Faudot, Rafael Ribas</string>
+	<key>openTypeNameDesignerURL</key>
+	<string>http://www.anrt-nancy.fr</string>
+	<key>openTypeNameManufacturer</key>
+	<string>ANRT</string>
+	<key>openTypeNameManufacturerURL</key>
+	<string>http://www.anrt-nancy.fr</string>
+	<key>openTypeNamePreferredFamilyName</key>
+	<string>Sweynheim &amp; Pannartz</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Subiaco Proto-Roman 120R</string>
+	<key>openTypeOS2CodePageRanges</key>
+	<array>
+		<integer>0</integer>
+	</array>
+	<key>openTypeOS2Type</key>
+	<array>
+		<integer>2</integer>
+	</array>
+	<key>openTypeOS2UnicodeRanges</key>
+	<array>
+		<integer>0</integer>
+	</array>
+	<key>openTypeOS2VendorID</key>
+	<string>ANRT</string>
+	<key>openTypeOS2WeightClass</key>
+	<integer>400</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
+	<key>openTypeOS2WinAscent</key>
+	<integer>720</integer>
+	<key>openTypeOS2WinDescent</key>
+	<integer>340</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+		<integer>-10</integer>
+		<integer>0</integer>
+		<integer>430</integer>
+		<integer>440</integer>
+		<integer>700</integer>
+		<integer>710</integer>
+	</array>
+	<key>postscriptFontName</key>
+	<string>Sweynheim&amp;Pannartz-SubiacoProto-Roman120R</string>
+	<key>postscriptOtherBlues</key>
+	<array>
+		<integer>-340</integer>
+		<integer>-330</integer>
+	</array>
+	<key>styleMapFamilyName</key>
+	<string>Sweynheim &amp; Pannartz Subiaco Proto-Roman 120R</string>
+	<key>styleMapStyleName</key>
+	<string>regular</string>
+	<key>styleName</key>
+	<string>Subiaco Proto-Roman 120R</string>
+	<key>unitsPerEm</key>
+	<integer>1000</integer>
+	<key>versionMajor</key>
+	<integer>1</integer>
+	<key>versionMinor</key>
+	<integer>0</integer>
+	<key>xHeight</key>
+	<integer>430</integer>
+</dict>
+</plist>

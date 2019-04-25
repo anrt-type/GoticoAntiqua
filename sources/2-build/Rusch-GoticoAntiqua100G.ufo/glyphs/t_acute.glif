@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t_acute" format="1">
+  <advance width="328"/>
+  <outline>
+    <contour>
+      <point x="121.4067" y="630.94" type="line"/>
+      <point x="123.4165" y="610.842" type="line"/>
+      <point x="167.6321" y="614.8616"/>
+      <point x="213.8575" y="613.8567"/>
+      <point x="213.8575" y="571.6509" type="curve"/>
+      <point x="213.8575" y="556.5774"/>
+      <point x="203.8085" y="545.5235"/>
+      <point x="188.735" y="522.4108" type="curve"/>
+      <point x="205.8183" y="507.3373" type="line"/>
+      <point x="234.9604" y="531.4549"/>
+      <point x="263.0976" y="561.6019"/>
+      <point x="293.2446" y="602.8028" type="curve"/>
+      <point x="303.2936" y="675.1556"/>
+      <point x="256.0633" y="702.2879"/>
+      <point x="186.7252" y="702.2879" type="curve"/>
+    </contour>
+    <component base="t"/>
+    <contour>
+      <point x="196.7742" y="429.96" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="196.7742" y="747.5084" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>t</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-24 19:30:24 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

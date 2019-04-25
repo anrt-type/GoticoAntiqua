@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="p_bardes" format="1">
+  <advance width="485"/>
+  <unicode hex="A750"/>
+  <outline>
+    <contour>
+      <point x="399" y="-184" type="line"/>
+      <point x="390" y="-213" type="line"/>
+      <point x="297" y="-223"/>
+      <point x="101" y="-214"/>
+      <point x="19" y="-169" type="curve"/>
+      <point x="24" y="-160" type="line"/>
+      <point x="71" y="-125" type="line"/>
+      <point x="170" y="-167"/>
+      <point x="315" y="-186"/>
+      <point x="395" y="-181" type="curve"/>
+    </contour>
+    <component base="p" xOffset="27"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-24 07:12:45 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>p</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>r</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

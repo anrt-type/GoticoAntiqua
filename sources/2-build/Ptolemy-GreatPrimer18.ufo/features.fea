@@ -1,0 +1,23 @@
+# Prefix: Languagesystems
+languagesystem DFLT dflt;
+
+feature dlig {
+sub c t by c_t;
+sub f f by f_f;
+sub f i by f_i;  
+sub f l by f_l;
+sub f f l by f_f_l;
+sub r a by r_a;
+sub r o by r_o;
+sub t a by t_a;
+sub t i by t_i;
+} dlig;
+
+feature salt {
+sub z by z.ss01;
+} salt;
+
+feature ss01 {
+sub z by z.ss01;
+} ss01;
+

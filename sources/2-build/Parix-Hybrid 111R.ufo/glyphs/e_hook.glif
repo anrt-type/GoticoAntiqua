@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="e_hook" format="1">
+  <advance width="406"/>
+  <outline>
+    <contour>
+      <point x="144" y="592" type="curve"/>
+      <point x="133" y="592" type="line"/>
+      <point x="75" y="512" type="line"/>
+      <point x="120" y="486"/>
+      <point x="182" y="475"/>
+      <point x="215" y="475" type="curve"/>
+      <point x="285" y="475"/>
+      <point x="338" y="526"/>
+      <point x="363" y="586" type="curve"/>
+      <point x="326" y="596" type="line"/>
+      <point x="317" y="555"/>
+      <point x="290" y="524"/>
+      <point x="252" y="524" type="curve"/>
+      <point x="215" y="524"/>
+      <point x="174" y="549"/>
+    </contour>
+    <component base="e"/>
+    <contour>
+      <point x="405.061" y="480.716" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="219.321" y="668.757" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-19 22:04:51 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

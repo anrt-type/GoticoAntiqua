@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="a_macr" format="1">
+  <advance width="456"/>
+  <unicode hex="0101"/>
+  <outline>
+    <contour>
+      <point x="151" y="488" type="curve"/>
+      <point x="172" y="464" type="line"/>
+      <point x="197" y="491"/>
+      <point x="219" y="498"/>
+      <point x="253" y="498" type="curve"/>
+      <point x="288" y="498"/>
+      <point x="302" y="494"/>
+      <point x="338" y="494" type="curve"/>
+      <point x="378" y="522"/>
+      <point x="407" y="554"/>
+      <point x="451" y="604" type="curve"/>
+      <point x="427" y="623" type="line"/>
+      <point x="395" y="592"/>
+      <point x="374" y="565"/>
+      <point x="343" y="565" type="curve"/>
+      <point x="300" y="565"/>
+      <point x="287" y="572"/>
+      <point x="243" y="572" type="curve"/>
+      <point x="204" y="540"/>
+      <point x="182" y="517"/>
+    </contour>
+    <component base="a"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>a</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-03-27 15:28:05 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>a</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>a</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

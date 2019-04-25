@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="p_p_flour" format="1">
+  <advance width="784"/>
+  <unicode hex="EED7"/>
+  <outline>
+    <contour>
+      <point x="-43" y="-218" type="curve"/>
+      <point x="-37" y="-218"/>
+      <point x="55" y="-181"/>
+      <point x="80" y="-181" type="curve"/>
+      <point x="80" y="-147" type="line"/>
+      <point x="64" y="-161"/>
+      <point x="47" y="-165"/>
+      <point x="31" y="-165" type="curve"/>
+      <point x="-11" y="-165"/>
+      <point x="-39" y="-127"/>
+      <point x="-39" y="-81" type="curve"/>
+      <point x="-39" y="-31"/>
+      <point x="5" y="9"/>
+      <point x="33" y="9" type="curve"/>
+      <point x="42" y="9"/>
+      <point x="68" y="-3"/>
+      <point x="84" y="-11" type="curve"/>
+      <point x="100" y="6" type="line"/>
+      <point x="74" y="117" type="line"/>
+      <point x="56" y="47"/>
+      <point x="-115" y="-21"/>
+      <point x="-115" y="-124" type="curve"/>
+      <point x="-115" y="-179"/>
+      <point x="-74" y="-218"/>
+    </contour>
+    <component base="p_p"/>
+    <contour>
+      <point x="131" y="0" type="move" name="bottom_1"/>
+    </contour>
+    <contour>
+      <point x="394" y="0" type="move" name="bottom_2"/>
+    </contour>
+    <contour>
+      <point x="657" y="0" type="move" name="bottom_3"/>
+    </contour>
+    <contour>
+      <point x="262.667" y="0" type="move" name="caret_1"/>
+    </contour>
+    <contour>
+      <point x="525.333" y="0" type="move" name="caret_2"/>
+    </contour>
+    <contour>
+      <point x="131" y="430" type="move" name="top_1"/>
+    </contour>
+    <contour>
+      <point x="394" y="430" type="move" name="top_2"/>
+    </contour>
+    <contour>
+      <point x="657" y="430" type="move" name="top_3"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>p_p</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-23 09:35:42 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>p</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

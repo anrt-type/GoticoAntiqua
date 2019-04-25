@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="I" format="1">
+  <advance width="317"/>
+  <unicode hex="0049"/>
+  <outline>
+    <contour>
+      <point x="44" y="30" type="curve"/>
+      <point x="44" y="0" type="line"/>
+      <point x="121" y="9"/>
+      <point x="198" y="9"/>
+      <point x="275" y="0" type="curve"/>
+      <point x="275" y="30" type="line"/>
+      <point x="229" y="41"/>
+      <point x="211" y="82"/>
+      <point x="209" y="108" type="curve"/>
+      <point x="201" y="210"/>
+      <point x="207" y="523"/>
+      <point x="212" y="611" type="curve"/>
+      <point x="214" y="650"/>
+      <point x="238" y="661"/>
+      <point x="277" y="670" type="curve"/>
+      <point x="277" y="700" type="line"/>
+      <point x="198" y="691"/>
+      <point x="119" y="691"/>
+      <point x="40" y="700" type="curve"/>
+      <point x="40" y="670" type="line"/>
+      <point x="101" y="646"/>
+      <point x="114" y="644"/>
+      <point x="117" y="593" type="curve"/>
+      <point x="122" y="514"/>
+      <point x="119" y="209"/>
+      <point x="114" y="113" type="curve"/>
+      <point x="112" y="78"/>
+      <point x="93" y="42"/>
+    </contour>
+    <contour>
+      <point x="159" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="285" y="10" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="162" y="700" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="20" y="700" type="move" name="topleft"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-03-19 06:56:51 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>H</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.6</real>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

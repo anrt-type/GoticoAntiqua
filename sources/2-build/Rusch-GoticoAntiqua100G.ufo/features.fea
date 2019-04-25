@@ -1,0 +1,186 @@
+# automatic
+@AllLetters = [ A A.ss01 B B.ss01 C D D.ss01 D.ss02 E F G H I J K L L.ss01 M M.ss01 N N.ss01 O P P.ss01 Q Q_bardes Q_strok R R.ss01 S S.ss01 T U V V.ss01 W X X.ss01 Y.ss01 Z a a_macr b b_hook c c_hook c_macr c_ra c_t d d_strok e e_hook e_macr f f_f g g_hook g_ra g_i h h_hook i idotless i.ss01 i_macr i_n j k l l_hook m m_macr n n_hook n_macr o o_macr p p_bardes p_hook p_flour p_macr p_p p_p_flour p_ra p_urrot q q_hook q_macr q_ra q_strok q_strok_ra r r.ss01 r_hook r_macr s longs longs_i longs_longs longs_strok longs_t t t_acute t_macr t_ra t_tilde u u_hook u_macr v v_hook w x y z con etfin rum usmod ];
+
+# Prefix: Languagesystems
+languagesystem DFLT dflt;
+
+feature aalt {
+# automatic
+feature hist;
+feature salt;
+feature ss01;
+feature ss02;
+feature ss03;
+feature ss04;
+feature ss05;
+feature ss06;
+feature ss07;
+feature ss08;
+feature ss09;
+feature ss10;
+feature ss11;
+feature ss12;
+feature ss13;
+} aalt;
+
+feature dlig {
+sub a m by a_macr;
+sub b i s by b_hook;
+sub c u m by c_macr;
+sub c r a by c_ra;
+sub d e by d_strok;
+sub d e s by d_strok;
+sub d i c i t by d_strok;
+sub d i c t u s by d_strok;
+sub d i s by d_strok;
+sub d i t by d_strok;
+sub d u m by d_strok;
+sub u n d by d_strok;
+sub e m by e_macr;
+sub e n by e_macr;
+sub space e s t space by e_macr;
+sub i n by i_macr;
+sub i n i by i_macr;
+sub i m by i_macr;
+sub i m u by i_macr;
+sub i r e by i_macr;
+sub m i by i_macr;
+sub m i n by i_macr;
+sub n i by i_macr;
+sub n i m by i_macr;
+sub u l by l_hook;
+sub l u by l_hook;
+sub m e n by m_macr;
+sub m n by m_macr;
+sub m n e by m_macr;
+sub m n i by m_macr;
+sub m u n by m_macr;
+sub t u m by m_macr;
+sub o n by o_macr;
+sub o m by o_macr;
+sub i o by o_macr;
+sub o d o by o_macr;
+sub p a r by p_bardes;
+sub p e r by p_bardes;
+sub p r a e by p_macr;
+sub p r e by p_macr;
+sub p r o by p_flour;
+sub p r o p by p_flour;
+sub p u by p_urrot;
+sub p u r by p_urrot;
+sub p u t by p_urrot;
+sub p a p a by p_p;
+sub p o p u l o by p_p;
+sub p r o p t e r by p_p_flour;
+sub q u a e by q_macr;
+sub q u a m by q_strok_ra;
+sub q u o d by q_strok;
+sub Q u o d by Q_strok;
+sub e r by r_macr;
+sub t e r by t_acute;
+sub t i o by t_macr;
+sub t r a by t_ra;
+sub e t by ampersand;
+sub c o n by con;
+sub @AllLetters e t by etfin;
+sub u m by u_macr;
+sub r u m by rum;
+sub u s by usmod;
+} dlig;
+
+feature hlig {
+sub c t by c_t;
+sub f f by f_f;
+sub g i by g_i;
+sub i n by i_n;
+sub longs i by longs_i;
+sub longs longs by longs_longs;
+sub longs t by longs_t;
+} hlig;
+
+feature liga {
+sub c t by c_t;
+sub f f by f_f;
+sub g i by g_i;
+sub i n by i_n;
+sub longs i by longs_i;
+sub longs longs by longs_longs;
+sub longs t by longs_t;
+} liga;
+
+feature hist {
+sub r by r.ss01;
+sub s by longs;
+sub @AllLetters longs' [emspace enspace threeperemspace fourperemspace space thinspace hairspace period comma colon] by s;
+} hist;
+
+feature salt {
+sub A by A.ss01;
+sub B by B.ss01;
+sub D by D.ss01;
+sub L by L.ss01;
+sub M by M.ss01;
+sub N by N.ss01;
+sub P by P.ss01;
+sub R by R.ss01;
+sub S by S.ss01;
+sub V by V.ss01;
+sub X by X.ss01;
+sub r by r.ss01;
+sub s by longs;
+sub @AllLetters longs' [emspace enspace threeperemspace fourperemspace space thinspace hairspace period comma colon] by s;
+} salt;
+
+feature ss01 {
+sub A by A.ss01;
+} ss01;
+
+feature ss02 {
+sub B by B.ss01;
+} ss02;
+
+feature ss03 {
+sub D by D.ss01;
+} ss03;
+
+feature ss04 {
+sub L by L.ss01;
+} ss04;
+
+feature ss05 {
+sub M by M.ss01;
+} ss05;
+
+feature ss06 {
+sub N by N.ss01;
+} ss06;
+
+feature ss07 {
+sub P by P.ss01;
+} ss07;
+
+feature ss08 {
+sub R by R.ss01;
+} ss08;
+
+feature ss09 {
+sub S by S.ss01;
+} ss09;
+
+feature ss10 {
+sub V by V.ss01;
+} ss10;
+
+feature ss11 {
+sub X by X.ss01;
+} ss11;
+
+feature ss12 {
+sub r by r.ss01;
+} ss12;
+
+feature ss13 {
+sub s by longs;
+sub @AllLetters longs' [emspace enspace threeperemspace fourperemspace space thinspace hairspace period comma colon] by s;
+} ss13;
+

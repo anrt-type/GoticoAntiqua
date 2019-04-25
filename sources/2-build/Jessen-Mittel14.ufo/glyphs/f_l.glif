@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="f_l" format="1">
+  <advance width="431"/>
+  <outline>
+    <contour>
+      <point x="54" y="350" type="line"/>
+      <point x="56" y="454" type="line"/>
+      <point x="9" y="357" type="line"/>
+      <point x="10" y="350" type="line"/>
+    </contour>
+    <contour>
+      <point x="109" y="430" type="line"/>
+      <point x="108" y="350" type="line"/>
+      <point x="221" y="350" type="line"/>
+      <point x="221" y="430" type="line"/>
+    </contour>
+    <contour>
+      <point x="171" y="74" type="line"/>
+      <point x="118" y="97" type="line"/>
+      <point x="118" y="185"/>
+      <point x="123" y="590"/>
+      <point x="131" y="640" type="curve"/>
+      <point x="160" y="630"/>
+      <point x="202" y="608"/>
+      <point x="227" y="595" type="curve"/>
+      <point x="298" y="656" type="line"/>
+      <point x="260" y="675"/>
+      <point x="182" y="705"/>
+      <point x="147" y="711" type="curve"/>
+      <point x="31" y="636" type="line"/>
+      <point x="53" y="614"/>
+      <point x="54" y="123"/>
+      <point x="26" y="44" type="curve"/>
+      <point x="61" y="27"/>
+      <point x="84" y="12"/>
+      <point x="112" y="-10" type="curve"/>
+    </contour>
+    <component base="l" xOffset="212"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>l</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-24 17:58:14 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>f</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>l</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

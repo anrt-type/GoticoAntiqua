@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="u_ring" format="1">
+  <advance width="458"/>
+  <outline>
+    <contour>
+      <point x="209" y="494" type="curve"/>
+      <point x="261" y="494"/>
+      <point x="291" y="534"/>
+      <point x="291" y="577" type="curve"/>
+      <point x="291" y="620"/>
+      <point x="265" y="661"/>
+      <point x="209" y="661" type="curve"/>
+      <point x="152" y="661"/>
+      <point x="127" y="617"/>
+      <point x="127" y="574" type="curve"/>
+      <point x="127" y="530"/>
+      <point x="153" y="494"/>
+    </contour>
+    <contour>
+      <point x="208" y="525" type="curve"/>
+      <point x="179" y="525"/>
+      <point x="161" y="545"/>
+      <point x="161" y="568" type="curve"/>
+      <point x="161" y="591"/>
+      <point x="179" y="611"/>
+      <point x="208" y="611" type="curve"/>
+      <point x="237" y="611"/>
+      <point x="255" y="591"/>
+      <point x="255" y="568" type="curve"/>
+      <point x="255" y="545"/>
+      <point x="237" y="525"/>
+    </contour>
+    <component base="u"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-14 13:24:25 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

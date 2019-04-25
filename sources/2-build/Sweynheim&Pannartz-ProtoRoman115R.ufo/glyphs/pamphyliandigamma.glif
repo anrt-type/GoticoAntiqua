@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pamphyliandigamma" format="1">
+  <advance width="483"/>
+  <unicode hex="0377"/>
+  <outline>
+    <contour>
+      <point x="141" y="457" type="curve"/>
+      <point x="48" y="457" type="line"/>
+      <point x="74" y="328"/>
+      <point x="97" y="172"/>
+      <point x="56" y="6" type="curve"/>
+      <point x="83" y="-11" type="line"/>
+      <point x="157" y="99"/>
+      <point x="265" y="258"/>
+      <point x="348" y="342" type="curve"/>
+      <point x="333" y="347" type="line"/>
+      <point x="325" y="263"/>
+      <point x="325" y="97"/>
+      <point x="325" y="0" type="curve"/>
+      <point x="417" y="0" type="line"/>
+      <point x="412" y="180"/>
+      <point x="411" y="335"/>
+      <point x="443" y="515" type="curve"/>
+      <point x="406" y="519" type="line"/>
+      <point x="350" y="421"/>
+      <point x="231" y="257"/>
+      <point x="135" y="147" type="curve"/>
+      <point x="146" y="126" type="line"/>
+      <point x="176" y="212"/>
+      <point x="161" y="369"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-24 15:11:29 +0000</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

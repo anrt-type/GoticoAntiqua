@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="k" format="1">
+  <advance width="426"/>
+  <unicode hex="006B"/>
+  <outline>
+    <contour>
+      <point x="174" y="242" type="curve"/>
+      <point x="174" y="215" type="line"/>
+      <point x="304" y="183"/>
+      <point x="309" y="92"/>
+      <point x="309" y="1" type="curve"/>
+      <point x="415" y="1" type="line"/>
+      <point x="415" y="83"/>
+      <point x="392" y="195"/>
+      <point x="298" y="249" type="curve"/>
+      <point x="337" y="280"/>
+      <point x="416" y="334"/>
+      <point x="416" y="351" type="curve"/>
+      <point x="416" y="375"/>
+      <point x="365" y="456"/>
+      <point x="320" y="456" type="curve"/>
+      <point x="301" y="456"/>
+      <point x="221" y="396"/>
+      <point x="163" y="370" type="curve"/>
+      <point x="168" y="333" type="line"/>
+      <point x="168" y="334"/>
+      <point x="226" y="376"/>
+      <point x="259" y="376" type="curve"/>
+      <point x="298" y="376"/>
+      <point x="311" y="353"/>
+      <point x="311" y="324" type="curve"/>
+      <point x="311" y="294"/>
+      <point x="270" y="234"/>
+    </contour>
+    <contour>
+      <point x="85" y="1" type="curve"/>
+      <point x="188" y="1" type="line"/>
+      <point x="183" y="259"/>
+      <point x="182" y="376"/>
+      <point x="185" y="635" type="curve"/>
+      <point x="182" y="640" type="line"/>
+      <point x="45" y="623" type="line"/>
+      <point x="45" y="599" type="line"/>
+      <point x="66" y="583"/>
+      <point x="81" y="596"/>
+      <point x="86" y="501" type="curve"/>
+      <point x="94" y="355"/>
+      <point x="88" y="179"/>
+    </contour>
+    <contour>
+      <point x="236" y="1" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="236" y="445" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-03-11 17:51:36 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>h</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <integer>1</integer>
+        <real>0.929</real>
+        <integer>1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

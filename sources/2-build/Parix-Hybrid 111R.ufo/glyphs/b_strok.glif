@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="b_strok" format="1">
+  <advance width="504"/>
+  <outline>
+    <contour>
+      <point x="203" y="704" type="line"/>
+      <point x="203" y="673" type="line"/>
+      <point x="268" y="655"/>
+      <point x="296" y="650"/>
+      <point x="286" y="611" type="curve"/>
+      <point x="266" y="532"/>
+      <point x="176" y="481"/>
+      <point x="85" y="440" type="curve"/>
+      <point x="95" y="416" type="line"/>
+      <point x="235" y="474"/>
+      <point x="355" y="560"/>
+      <point x="365" y="694" type="curve"/>
+    </contour>
+    <component base="b"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-19 22:04:51 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>b</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>b</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

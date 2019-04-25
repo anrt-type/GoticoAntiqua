@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="p_bardes" format="1">
+  <advance width="534"/>
+  <unicode hex="A750"/>
+  <outline>
+    <contour>
+      <point x="94" y="-160" type="curve"/>
+      <point x="15" y="-236" type="line"/>
+      <point x="15" y="-251" type="line"/>
+      <point x="143" y="-242"/>
+      <point x="230" y="-243"/>
+      <point x="378" y="-244" type="curve"/>
+      <point x="433" y="-185" type="line"/>
+      <point x="433" y="-166" type="line"/>
+      <point x="310" y="-166"/>
+      <point x="217" y="-170"/>
+    </contour>
+    <component base="p" xOffset="10"/>
+    <contour>
+      <point x="98" y="0" type="move" name="bottom_1"/>
+    </contour>
+    <contour>
+      <point x="274" y="0" type="move" name="bottom_2"/>
+    </contour>
+    <contour>
+      <point x="450" y="0" type="move" name="bottom_3"/>
+    </contour>
+    <contour>
+      <point x="186" y="0" type="move" name="caret_1"/>
+    </contour>
+    <contour>
+      <point x="362" y="0" type="move" name="caret_2"/>
+    </contour>
+    <contour>
+      <point x="98" y="430" type="move" name="top_1"/>
+    </contour>
+    <contour>
+      <point x="274" y="430" type="move" name="top_2"/>
+    </contour>
+    <contour>
+      <point x="450" y="430" type="move" name="top_3"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-13 12:36:56 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>p</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>p</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="p_hook" format="1">
+  <advance width="514"/>
+  <outline>
+    <contour>
+      <point x="174" y="482" type="curve"/>
+      <point x="183" y="469" type="line"/>
+      <point x="217" y="485"/>
+      <point x="309" y="525"/>
+      <point x="309" y="599" type="curve"/>
+      <point x="309" y="648"/>
+      <point x="260" y="686"/>
+      <point x="210" y="686" type="curve"/>
+      <point x="145" y="634" type="line"/>
+      <point x="148" y="618" type="line"/>
+      <point x="185" y="618"/>
+      <point x="233" y="606"/>
+      <point x="233" y="559" type="curve"/>
+      <point x="233" y="521"/>
+      <point x="210" y="508"/>
+    </contour>
+    <component base="p"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-23 14:01:23 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="longs_strok" format="1">
+  <advance width="416"/>
+  <outline>
+    <contour>
+      <point x="175" y="350" type="curve"/>
+      <point x="161" y="365" type="line"/>
+      <point x="291" y="416" type="line"/>
+      <point x="329" y="392"/>
+      <point x="374" y="369"/>
+      <point x="374" y="325" type="curve"/>
+      <point x="374" y="240"/>
+      <point x="145" y="128"/>
+      <point x="21" y="60" type="curve"/>
+      <point x="20" y="99" type="line"/>
+      <point x="127" y="143"/>
+      <point x="305" y="227"/>
+      <point x="305" y="300" type="curve"/>
+      <point x="305" y="324"/>
+      <point x="286" y="359"/>
+      <point x="251" y="359" type="curve"/>
+      <point x="219" y="359"/>
+      <point x="206" y="353"/>
+    </contour>
+    <component base="longs"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-03-11 19:27:02 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

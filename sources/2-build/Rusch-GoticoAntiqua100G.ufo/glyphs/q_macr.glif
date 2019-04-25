@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="q_macr" format="1">
+  <advance width="512"/>
+  <outline>
+    <contour>
+      <point x="191.04" y="550.95" type="curve"/>
+      <point x="164.4" y="565.38" type="line"/>
+      <point x="179.94" y="592.02"/>
+      <point x="204.36" y="623.1"/>
+      <point x="237.66" y="655.29" type="curve"/>
+      <point x="324.24" y="655.29"/>
+      <point x="383.07" y="641.97"/>
+      <point x="431.91" y="676.38" type="curve"/>
+      <point x="462.99" y="663.06" type="line"/>
+      <point x="444.12" y="640.86"/>
+      <point x="425.25" y="603.12"/>
+      <point x="397.5" y="569.82" type="curve"/>
+      <point x="329.79" y="565.38"/>
+      <point x="245.43" y="587.58"/>
+    </contour>
+    <component base="q"/>
+    <contour>
+      <point x="308.7" y="390" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="308.7" y="693.03" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>q</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-24 19:30:13 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

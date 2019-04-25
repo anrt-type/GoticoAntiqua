@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="period" format="1">
+  <advance width="167"/>
+  <unicode hex="002E"/>
+  <outline>
+    <contour>
+      <point x="89" y="105" type="curve"/>
+      <point x="68" y="93"/>
+      <point x="42" y="71"/>
+      <point x="25" y="50" type="curve"/>
+      <point x="41" y="29"/>
+      <point x="66" y="2"/>
+      <point x="80" y="-16" type="curve"/>
+      <point x="103" y="1"/>
+      <point x="125" y="23"/>
+      <point x="143" y="40" type="curve"/>
+      <point x="128" y="63"/>
+      <point x="111" y="88"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-03-11 19:49:30 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <integer>1</integer>
+        <real>0.929</real>
+        <integer>1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="q_etfin" format="1">
+  <advance width="631"/>
+  <outline>
+    <contour>
+      <point x="508" y="-53" type="curve"/>
+      <point x="484" y="-31" type="line"/>
+      <point x="512" y="-4"/>
+      <point x="555" y="30"/>
+      <point x="555" y="64" type="curve"/>
+      <point x="555" y="123"/>
+      <point x="508" y="143"/>
+      <point x="469" y="143" type="curve"/>
+      <point x="465" y="143"/>
+      <point x="443" y="138"/>
+      <point x="436" y="133" type="curve"/>
+      <point x="429" y="161" type="line"/>
+      <point x="471" y="172"/>
+      <point x="518" y="206"/>
+      <point x="518" y="255" type="curve"/>
+      <point x="518" y="293"/>
+      <point x="489" y="314"/>
+      <point x="469" y="314" type="curve"/>
+      <point x="469" y="327" type="line"/>
+      <point x="519" y="380" type="line"/>
+      <point x="573" y="380"/>
+      <point x="599" y="342"/>
+      <point x="599" y="311" type="curve"/>
+      <point x="599" y="294"/>
+      <point x="557" y="245"/>
+      <point x="533" y="207" type="curve"/>
+      <point x="586" y="190"/>
+      <point x="626" y="163"/>
+      <point x="626" y="108" type="curve"/>
+      <point x="626" y="72"/>
+      <point x="552" y="-5"/>
+    </contour>
+    <contour>
+      <point x="1358" y="-65" type="move"/>
+    </contour>
+    <component base="q"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-03-27 17:03:16 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>q</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>z</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

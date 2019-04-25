@@ -1,0 +1,10 @@
+# Prefix: Languagesystems
+languagesystem DFLT dflt;
+
+feature liga {
+sub c h by c_h;
+sub c k by c_k;
+sub f f by f_f;
+sub s z by germandbls;
+} liga;
+

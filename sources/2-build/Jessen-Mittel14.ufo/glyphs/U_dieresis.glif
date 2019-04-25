@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Udieresis" format="1">
+  <advance width="737"/>
+  <unicode hex="00DC"/>
+  <outline>
+    <contour>
+      <point x="295" y="443" type="line"/>
+      <point x="274" y="605" type="line"/>
+      <point x="331" y="698" type="line"/>
+      <point x="350" y="697" type="line"/>
+      <point x="311" y="442" type="line"/>
+    </contour>
+    <contour>
+      <point x="422" y="432" type="line"/>
+      <point x="419" y="619" type="line"/>
+      <point x="486" y="702" type="line"/>
+      <point x="503" y="700" type="line"/>
+      <point x="439" y="434" type="line"/>
+    </contour>
+    <contour>
+      <point x="688" y="10" type="curve"/>
+      <point x="688" y="0" type="line"/>
+      <point x="549" y="0" type="line"/>
+      <point x="546" y="310"/>
+      <point x="568" y="587"/>
+      <point x="559" y="697" type="curve"/>
+      <point x="697" y="700" type="line"/>
+      <point x="697" y="693" type="line"/>
+      <point x="690" y="680"/>
+      <point x="677" y="660"/>
+      <point x="676" y="644" type="curve"/>
+      <point x="661" y="474"/>
+      <point x="642" y="235"/>
+      <point x="660" y="84" type="curve"/>
+      <point x="665" y="41"/>
+      <point x="679" y="22"/>
+    </contour>
+    <contour>
+      <point x="554" y="339" type="curve"/>
+      <point x="562" y="207" type="line"/>
+      <point x="532" y="146"/>
+      <point x="439" y="64"/>
+      <point x="307" y="-11" type="curve"/>
+      <point x="220" y="23"/>
+      <point x="132" y="62"/>
+      <point x="89" y="114" type="curve"/>
+      <point x="106" y="240"/>
+      <point x="87" y="498"/>
+      <point x="80" y="593" type="curve"/>
+      <point x="77" y="632"/>
+      <point x="58" y="647"/>
+      <point x="41" y="678" type="curve"/>
+      <point x="40" y="686" type="line"/>
+      <point x="189" y="686" type="line"/>
+      <point x="174" y="570"/>
+      <point x="181" y="391"/>
+      <point x="185" y="265" type="curve"/>
+      <point x="188" y="162"/>
+      <point x="261" y="93"/>
+      <point x="341" y="93" type="curve"/>
+      <point x="411" y="93"/>
+      <point x="534" y="166"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-21 17:15:18 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>U</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>U</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t_tilde" format="1">
+  <advance width="306"/>
+  <outline>
+    <contour>
+      <point x="14" y="524" type="curve"/>
+      <point x="10" y="524" type="line"/>
+      <point x="2" y="545" type="line"/>
+      <point x="20" y="597"/>
+      <point x="59" y="646"/>
+      <point x="101" y="646" type="curve"/>
+      <point x="201" y="646"/>
+      <point x="204" y="562"/>
+      <point x="254" y="562" type="curve"/>
+      <point x="285" y="562"/>
+      <point x="278" y="610"/>
+      <point x="254" y="630" type="curve"/>
+      <point x="258" y="633" type="line"/>
+      <point x="291" y="621" type="line"/>
+      <point x="324" y="590"/>
+      <point x="309" y="497"/>
+      <point x="245" y="497" type="curve"/>
+      <point x="181" y="497"/>
+      <point x="155" y="569"/>
+      <point x="91" y="569" type="curve"/>
+      <point x="55" y="569"/>
+      <point x="35" y="556"/>
+    </contour>
+    <component base="t"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-19 22:04:51 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

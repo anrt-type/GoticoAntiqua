@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="d_strok" format="1">
+  <advance width="507"/>
+  <unicode hex="0111"/>
+  <outline>
+    <component base="d"/>
+    <component base="bardes" xScale="0.829" xyScale="-0.342" yScale="0.9397" yxScale="0.3017" xOffset="115" yOffset="667"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-01-07 13:43:41 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>o</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

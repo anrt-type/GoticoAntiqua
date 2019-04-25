@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="p.calt" format="1">
+  <advance width="468"/>
+  <outline>
+    <contour>
+      <point x="165" y="367" type="curve"/>
+      <point x="165" y="329" type="line"/>
+      <point x="181" y="338"/>
+      <point x="192" y="348"/>
+      <point x="224" y="348" type="curve"/>
+      <point x="358" y="348"/>
+      <point x="411" y="153"/>
+      <point x="316" y="67" type="curve"/>
+      <point x="262" y="67"/>
+      <point x="192" y="80"/>
+      <point x="162" y="96" type="curve"/>
+      <point x="156" y="3" type="line"/>
+      <point x="197" y="-4"/>
+      <point x="235" y="-10"/>
+      <point x="268" y="-10" type="curve"/>
+      <point x="336" y="22"/>
+      <point x="448" y="107"/>
+      <point x="448" y="237" type="curve"/>
+      <point x="448" y="349"/>
+      <point x="379" y="430"/>
+      <point x="282" y="441" type="curve"/>
+      <point x="236" y="418"/>
+      <point x="199" y="391"/>
+    </contour>
+    <contour>
+      <point x="162" y="27" type="curve"/>
+      <point x="171" y="430" type="line"/>
+      <point x="164" y="440" type="line"/>
+      <point x="53" y="385" type="line"/>
+      <point x="68" y="246"/>
+      <point x="65" y="-43"/>
+      <point x="53" y="-340" type="curve"/>
+      <point x="175" y="-314" type="line"/>
+      <point x="173" y="-295"/>
+      <point x="159" y="-99"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-15 11:07:17 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>m.calt</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>p</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="q_strok" format="1">
+  <advance width="732"/>
+  <unicode hex="A759"/>
+  <outline>
+    <contour>
+      <point x="139" y="-208" type="curve"/>
+      <point x="165" y="-242" type="line"/>
+      <point x="409" y="-59"/>
+      <point x="712" y="133"/>
+      <point x="712" y="316" type="curve"/>
+      <point x="712" y="390"/>
+      <point x="648" y="440"/>
+      <point x="596" y="461" type="curve"/>
+      <point x="556" y="440"/>
+      <point x="494" y="407"/>
+      <point x="438" y="392" type="curve"/>
+      <point x="435" y="343" type="line"/>
+      <point x="503" y="394"/>
+      <point x="603" y="347"/>
+      <point x="603" y="255" type="curve"/>
+      <point x="603" y="85"/>
+      <point x="352" y="-56"/>
+    </contour>
+    <component base="q"/>
+    <contour>
+      <point x="183" y="0" type="move" name="bottom_1"/>
+    </contour>
+    <contour>
+      <point x="549" y="0" type="move" name="bottom_2"/>
+    </contour>
+    <contour>
+      <point x="366" y="0" type="move" name="caret_1"/>
+    </contour>
+    <contour>
+      <point x="183" y="430" type="move" name="top_1"/>
+    </contour>
+    <contour>
+      <point x="549" y="430" type="move" name="top_2"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-13 12:36:56 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>q</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

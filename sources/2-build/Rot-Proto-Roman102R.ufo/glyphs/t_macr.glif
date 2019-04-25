@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t_macr" format="1">
+  <advance width="367"/>
+  <outline>
+    <contour>
+      <point x="116" y="593" type="curve"/>
+      <point x="96" y="617" type="line"/>
+      <point x="190" y="690" type="line"/>
+      <point x="225" y="677"/>
+      <point x="279" y="657"/>
+      <point x="295" y="657" type="curve"/>
+      <point x="303" y="657"/>
+      <point x="317" y="665"/>
+      <point x="328" y="672" type="curve"/>
+      <point x="352" y="653" type="line"/>
+      <point x="264" y="582" type="line"/>
+      <point x="229" y="594"/>
+      <point x="177" y="612"/>
+      <point x="158" y="612" type="curve"/>
+      <point x="144" y="612"/>
+      <point x="130" y="602"/>
+    </contour>
+    <component base="t"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>t</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-24 19:29:05 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>t</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>t</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

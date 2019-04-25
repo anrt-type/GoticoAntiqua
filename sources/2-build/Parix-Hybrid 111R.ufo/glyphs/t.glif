@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t" format="1">
+  <advance width="306"/>
+  <unicode hex="0074"/>
+  <outline>
+    <contour>
+      <point x="30" y="330" type="line"/>
+      <point x="62" y="330" type="line"/>
+      <point x="62" y="103" type="line" smooth="yes"/>
+      <point x="62" y="37"/>
+      <point x="108" y="-11"/>
+      <point x="161" y="-11" type="curve"/>
+      <point x="209" y="-11"/>
+      <point x="265" y="8"/>
+      <point x="286" y="19" type="curve"/>
+      <point x="281" y="50" type="line"/>
+      <point x="166" y="33"/>
+      <point x="156" y="62"/>
+      <point x="151" y="155" type="curve"/>
+      <point x="149" y="190"/>
+      <point x="150" y="418"/>
+      <point x="156" y="503" type="curve"/>
+      <point x="125" y="503" type="line"/>
+      <point x="101" y="453"/>
+      <point x="69" y="408"/>
+      <point x="30" y="370" type="curve"/>
+    </contour>
+    <contour>
+      <point x="142" y="400" type="line"/>
+      <point x="150" y="330" type="line"/>
+      <point x="283" y="330" type="line"/>
+      <point x="283" y="400" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-24 16:48:09 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

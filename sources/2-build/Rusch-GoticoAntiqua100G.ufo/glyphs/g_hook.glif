@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="g_hook" format="1">
+  <advance width="537"/>
+  <outline>
+    <contour>
+      <point x="339.13" y="631" type="line"/>
+      <point x="341.35" y="608.8" type="line"/>
+      <point x="390.19" y="613.24"/>
+      <point x="441.25" y="612.13"/>
+      <point x="441.25" y="565.51" type="curve"/>
+      <point x="441.25" y="548.86"/>
+      <point x="430.15" y="536.65"/>
+      <point x="413.5" y="511.12" type="curve"/>
+      <point x="432.37" y="494.47" type="line"/>
+      <point x="464.56" y="521.11"/>
+      <point x="495.64" y="554.41"/>
+      <point x="528.94" y="599.92" type="curve"/>
+      <point x="540.04" y="679.84"/>
+      <point x="487.87" y="709.81"/>
+      <point x="411.28" y="709.81" type="curve"/>
+    </contour>
+    <component base="g"/>
+    <contour>
+      <point x="422.38" y="409" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="422.38" y="759.76" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>g</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-24 19:29:47 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t_u_macr" format="1">
+  <advance width="680"/>
+  <outline>
+    <contour>
+      <point x="569" y="500" type="curve"/>
+      <point x="595" y="530"/>
+      <point x="633" y="569"/>
+      <point x="659" y="616" type="curve"/>
+      <point x="659" y="630"/>
+      <point x="644" y="642"/>
+      <point x="637" y="644" type="curve"/>
+      <point x="608" y="612" type="line"/>
+      <point x="616" y="607"/>
+      <point x="623" y="602"/>
+      <point x="623" y="594" type="curve"/>
+      <point x="597" y="579"/>
+      <point x="521" y="591"/>
+      <point x="404" y="593" type="curve"/>
+      <point x="389" y="579"/>
+      <point x="338" y="524"/>
+      <point x="296" y="490" type="curve"/>
+      <point x="317" y="477" type="line"/>
+      <point x="365" y="506"/>
+      <point x="402" y="507"/>
+    </contour>
+    <contour>
+      <point x="290" y="119" type="curve"/>
+      <point x="299" y="86" type="line"/>
+      <point x="119" y="-10" type="line"/>
+      <point x="69" y="10"/>
+      <point x="55" y="32"/>
+      <point x="55" y="81" type="curve"/>
+      <point x="55" y="103"/>
+      <point x="57" y="221"/>
+      <point x="57" y="290" type="curve"/>
+      <point x="57" y="346"/>
+      <point x="52" y="347"/>
+      <point x="27" y="366" type="curve"/>
+      <point x="27" y="391" type="line"/>
+      <point x="74" y="430"/>
+      <point x="107" y="466"/>
+      <point x="135" y="493" type="curve"/>
+      <point x="150" y="488" type="line"/>
+      <point x="145" y="421"/>
+      <point x="145" y="333"/>
+      <point x="145" y="246" type="curve"/>
+      <point x="145" y="130"/>
+      <point x="167" y="72"/>
+    </contour>
+    <contour>
+      <point x="296" y="352" type="line"/>
+      <point x="131" y="352" type="line"/>
+      <point x="133" y="430" type="line"/>
+      <point x="351" y="430" type="line"/>
+      <point x="351" y="411" type="line"/>
+    </contour>
+    <component base="u" xOffset="226"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-11 12:32:39 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>t</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>u</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

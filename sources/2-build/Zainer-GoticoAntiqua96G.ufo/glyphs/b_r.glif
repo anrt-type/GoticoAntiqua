@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="b_r" format="1">
+  <advance width="772"/>
+  <note>
+    b_r.alt
+  </note>
+  <outline>
+    <contour>
+      <point x="640" y="-10" type="curve"/>
+      <point x="738" y="90" type="line"/>
+      <point x="714" y="110" type="line"/>
+      <point x="705" y="100"/>
+      <point x="695" y="90"/>
+      <point x="678" y="90" type="curve"/>
+      <point x="648" y="90"/>
+      <point x="608" y="108"/>
+      <point x="579" y="132" type="curve"/>
+      <point x="640" y="214"/>
+      <point x="726" y="307"/>
+      <point x="726" y="355" type="curve"/>
+      <point x="726" y="425"/>
+      <point x="659" y="465"/>
+      <point x="579" y="465" type="curve"/>
+      <point x="570" y="465" type="line"/>
+      <point x="439" y="350" type="line"/>
+      <point x="457" y="318" type="line"/>
+      <point x="472" y="333"/>
+      <point x="508" y="365"/>
+      <point x="549" y="365" type="curve"/>
+      <point x="578" y="365"/>
+      <point x="616" y="345"/>
+      <point x="616" y="305" type="curve"/>
+      <point x="616" y="265"/>
+      <point x="605" y="214"/>
+      <point x="500" y="94" type="curve"/>
+      <point x="499" y="88" type="line"/>
+      <point x="549" y="45"/>
+      <point x="575" y="16"/>
+    </contour>
+    <component base="b" xOffset="10"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-14 10:29:40 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

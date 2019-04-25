@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="q_bardes_dieresis" format="1">
+  <advance width="522"/>
+  <outline>
+    <component base="q_bardes"/>
+    <component base="period" xScale="1.02" yScale="1.02" xOffset="117" yOffset="305"/>
+    <component base="period" xScale="1.02" yScale="1.02" xOffset="253" yOffset="305"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-01-16 10:11:37 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>q</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>q</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

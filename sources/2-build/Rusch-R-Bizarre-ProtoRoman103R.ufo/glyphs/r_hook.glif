@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="r_hook" format="1">
+  <advance width="373"/>
+  <outline>
+    <contour>
+      <point x="133" y="673" type="curve"/>
+      <point x="99" y="593" type="line"/>
+      <point x="201" y="581"/>
+      <point x="187" y="517"/>
+      <point x="135" y="495" type="curve"/>
+      <point x="148" y="478" type="line"/>
+      <point x="208" y="495"/>
+      <point x="322" y="637"/>
+    </contour>
+    <component base="r"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-03-21 16:55:23 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="u_macr" format="1">
+  <advance width="430"/>
+  <unicode hex="016B"/>
+  <outline>
+    <contour>
+      <point x="120" y="559" type="curve"/>
+      <point x="75" y="491" type="line"/>
+      <point x="103" y="485" type="line"/>
+      <point x="119" y="508"/>
+      <point x="269" y="497"/>
+      <point x="316" y="497" type="curve"/>
+      <point x="376" y="572" type="line"/>
+      <point x="351" y="577" type="line"/>
+      <point x="313" y="555"/>
+      <point x="174" y="559"/>
+    </contour>
+    <component base="u"/>
+    <contour>
+      <point x="202" y="390" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="215" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="387" y="10" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="215" y="390" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="410" y="390" type="move" name="topright"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-21 16:41:17 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

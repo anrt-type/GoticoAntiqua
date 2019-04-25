@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="q_urrot" format="1">
+  <advance width="440"/>
+  <outline>
+    <contour>
+      <point x="356" y="502" type="curve"/>
+      <point x="353" y="532" type="line"/>
+      <point x="303" y="530"/>
+      <point x="293" y="526"/>
+      <point x="301" y="575" type="curve"/>
+      <point x="306" y="605"/>
+      <point x="317" y="655"/>
+      <point x="321" y="690" type="curve"/>
+      <point x="310" y="698" type="line"/>
+      <point x="284" y="692"/>
+      <point x="188" y="666"/>
+      <point x="153" y="656" type="curve"/>
+      <point x="157" y="624" type="line"/>
+      <point x="214" y="629"/>
+      <point x="215" y="627"/>
+      <point x="217" y="580" type="curve"/>
+      <point x="218" y="550"/>
+      <point x="217" y="520"/>
+      <point x="214" y="483" type="curve"/>
+      <point x="224" y="474" type="line"/>
+      <point x="264" y="486"/>
+      <point x="344" y="500"/>
+    </contour>
+    <component base="q"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-11 12:36:31 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>q</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>q</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="p_macr" format="1">
+  <advance width="461"/>
+  <outline>
+    <contour>
+      <point x="186" y="636" type="curve"/>
+      <point x="148" y="593"/>
+      <point x="133" y="570"/>
+      <point x="110" y="524" type="curve"/>
+      <point x="143" y="514" type="line"/>
+      <point x="187" y="566"/>
+      <point x="231" y="554"/>
+      <point x="307" y="561" type="curve"/>
+      <point x="324" y="581"/>
+      <point x="342" y="604"/>
+      <point x="375" y="655" type="curve"/>
+      <point x="345" y="663" type="line"/>
+      <point x="308" y="637"/>
+      <point x="269" y="638"/>
+    </contour>
+    <component base="p"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-15 11:07:28 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>p</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>p</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

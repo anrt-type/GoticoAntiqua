@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="u_macr" format="1">
+  <advance width="494"/>
+  <unicode hex="016B"/>
+  <outline>
+    <contour>
+      <point x="63" y="489" type="curve"/>
+      <point x="95" y="479" type="line"/>
+      <point x="142" y="537"/>
+      <point x="168" y="542"/>
+      <point x="280" y="554" type="curve"/>
+      <point x="314" y="594"/>
+      <point x="345" y="641"/>
+      <point x="362" y="694" type="curve"/>
+      <point x="329" y="707" type="line"/>
+      <point x="307" y="632"/>
+      <point x="305" y="625"/>
+      <point x="148" y="614" type="curve"/>
+      <point x="129" y="580"/>
+      <point x="98" y="545"/>
+    </contour>
+    <component base="u"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-03-27 15:27:46 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>u</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>u</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

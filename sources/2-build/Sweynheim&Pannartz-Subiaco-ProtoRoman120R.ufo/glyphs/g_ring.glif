@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="g_ring" format="1">
+  <advance width="442"/>
+  <outline>
+    <contour>
+      <point x="315" y="710" type="curve"/>
+      <point x="391" y="710"/>
+      <point x="442" y="673"/>
+      <point x="442" y="596" type="curve"/>
+      <point x="442" y="523"/>
+      <point x="366" y="477"/>
+      <point x="293" y="477" type="curve"/>
+      <point x="216" y="477"/>
+      <point x="166" y="520"/>
+      <point x="166" y="590" type="curve"/>
+      <point x="166" y="650"/>
+      <point x="221" y="710"/>
+    </contour>
+    <contour>
+      <point x="321" y="515" type="curve"/>
+      <point x="347" y="515"/>
+      <point x="363" y="541"/>
+      <point x="363" y="575" type="curve"/>
+      <point x="363" y="622"/>
+      <point x="336" y="670"/>
+      <point x="288" y="670" type="curve"/>
+      <point x="254" y="670"/>
+      <point x="242" y="642"/>
+      <point x="242" y="607" type="curve"/>
+      <point x="242" y="565"/>
+      <point x="276" y="515"/>
+    </contour>
+    <component base="g"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-09 10:08:42 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>g</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>g</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

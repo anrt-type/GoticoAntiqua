@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="o_r" format="1">
+  <advance width="694"/>
+  <outline>
+    <contour>
+      <point x="533" y="-20" type="curve"/>
+      <point x="559" y="0"/>
+      <point x="633" y="41"/>
+      <point x="669" y="73" type="curve"/>
+      <point x="657" y="95" type="line"/>
+      <point x="614" y="80"/>
+      <point x="568" y="101"/>
+      <point x="521" y="144" type="curve"/>
+      <point x="577" y="206"/>
+      <point x="644" y="269"/>
+      <point x="644" y="347" type="curve"/>
+      <point x="644" y="407"/>
+      <point x="583" y="450"/>
+      <point x="510" y="450" type="curve"/>
+      <point x="494" y="450"/>
+      <point x="427" y="383"/>
+      <point x="387" y="353" type="curve"/>
+      <point x="396" y="310" type="line"/>
+      <point x="407" y="322"/>
+      <point x="423" y="354"/>
+      <point x="464" y="354" type="curve"/>
+      <point x="500" y="354"/>
+      <point x="545" y="331"/>
+      <point x="545" y="274" type="curve"/>
+      <point x="545" y="211"/>
+      <point x="445" y="122"/>
+      <point x="414" y="95" type="curve"/>
+      <point x="414" y="88" type="line"/>
+      <point x="448" y="56"/>
+      <point x="508" y="-10"/>
+    </contour>
+    <component base="o"/>
+    <contour>
+      <point x="166" y="0" type="move" name="bottom_1"/>
+    </contour>
+    <contour>
+      <point x="498" y="0" type="move" name="bottom_2"/>
+    </contour>
+    <contour>
+      <point x="332" y="0" type="move" name="caret_1"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="center_1"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="center_2"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="ogonek_1"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="ogonek_2"/>
+    </contour>
+    <contour>
+      <point x="166" y="430" type="move" name="top_1"/>
+    </contour>
+    <contour>
+      <point x="498" y="430" type="move" name="top_2"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="topright_1"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="topright_2"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-13 12:36:56 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>o</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>r.ss01</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

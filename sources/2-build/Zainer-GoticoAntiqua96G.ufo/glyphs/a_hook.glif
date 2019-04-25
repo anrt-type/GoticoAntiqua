@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="a_hook" format="1">
+  <advance width="437"/>
+  <note>
+    a_apomod
+  </note>
+  <outline>
+    <component base="a"/>
+    <component base="apomod" xScale="0.9236" xyScale="0.1298" yScale="0.9236" yxScale="-0.1298" xOffset="204" yOffset="22"/>
+    <contour>
+      <point x="212" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="382" y="10" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="212" y="455" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>a</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>apomod</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-14 10:26:39 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>a</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>a</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>
