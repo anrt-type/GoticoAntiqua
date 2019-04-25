@@ -1,5 +1,4 @@
-# Gotico-Antiqua, Proto-Roman, Hybrid. 
-## 15th century types between gothic and roman
+# Gotico-Antiqua, Proto-Roman, Hybrid. *15th century types between gothic and roman*
 
 Atelier national de recherche typographique
 École nationale supérieure d’art et de design de Nancy
@@ -44,14 +43,3 @@ Ptolemy, Hybrid designed in Chelsea by St John Hornby, Sidney Cockerell and Emer
 Jessen, Hybrid designed and cut in two sizes without preliminary drawings in Offenbach am Main by Rudolf Koch for The Four Gospels. Printed at the Klingspor press in 1926 and published by Koch himself. Formerly named Bibel-Gotisch, the type was released as Jessen by the Klingspor foundry in 1930. Type design workshop at ESAD •Valence, April 2016.
 
 Hamlet (also named Kessler-Blackletter), Hybrid designed by Edward Johnston, cut in three sizes (10, 12 and 18 pt) by Edward Prince for William Shakespeare's Hamlet. Published by Harry Kessler’s Cranach Press in Weimar in 1929. The type is based on the Durandus for the lowercases, and Sweynheim & Pannartz’ Subiaco type for the capitals. The type was used for trials in other books, none of which were completed. Type design workshop at Bauhaus Universität Weimar and Anna Amalia Bibliothek Weimar, January 2018.
-
-Registration
-
-Address
-
-Atelier national de recherche typographique
-École nationale supérieure d’art et de design de Nancy
-Campus ARTEM, Amphithéâtre ENSAD, Nancy
-Place Cartier Bresson BP 13129
-54000 Nancy
-France
