@@ -1,5 +1,5 @@
 {
-.appVersion = "1231";
+.appVersion = "1233";
 classes = (
 {
 automatic = 1;
@@ -178,7 +178,7 @@ value = (
 },
 {
 name = description;
-value = "Sweynheim & Pannartz 115R, Proto-Roman first used in Rome by Konrad Sweynheim & Arnold Pannartz, for Cicero’s Epistolae ad familiares in 1467 and used until 1476.\012\012Type design workshop with students of ANRT at Biblioteca Statale del Monumento Nazionale di Santa Scolastica, Subiaco, May 2018.\012\012Sources: Sancti Hieronymi tractatus et epistolae, Hieronymus, 1468 & Epistolae et recongnitione Ionnis Andreae, Cyprianus, 1471.\012\012Workshop participants: Alexis Faudot, Rémi Forte, Morgane Pierson, Rafael Ribas, Tanguy Vanlaeys, Rosalie Wagner, Eloïsa Pérez, Francis Ramel.\012\012Font designed and produced by Alexis Faudot and Rafael Ribas, directed by Jérôme Knebusch, Atelier National de Recherche Typographqiue (ANRT), Nancy.\012\012Copyright (c) 2019 ANRT. All rights reserved.";
+value = "Sweynheim & Pannartz 115R, Proto-Roman first used in Rome by Konrad Sweynheim & Arnold Pannartz, for Cicero’s Epistolae ad familiares in 1467 and used until 1476.\012\012Type design workshop with students of ANRT at Biblioteca Statale del Monumento Nazionale di Santa Scolastica, Subiaco, May 2018.\012\012Sources: Sancti Hieronymi tractatus et epistolae, Hieronymus, 1468 & Epistolae et recongnitione Ionnis Andreae, Cyprianus, 1471.\012\012Workshop participants: Alexis Faudot, Rémi Forte, Morgane Pierson, Rafael Ribas, Tanguy Vanlaeys, Rosalie Wagner, Isia Yourovsky, Eloïsa Pérez, Francis Ramel.\012\012Font designed and produced by Alexis Faudot and Rafael Ribas, directed by Jérôme Knebusch, Atelier National de Recherche Typographqiue (ANRT), Nancy.\012\012Copyright (c) 2019 ANRT. All rights reserved.";
 },
 {
 name = openTypeOS2Type;
@@ -3352,25 +3352,25 @@ unicode = 005A;
 {
 color = 4;
 glyphname = a;
-lastChange = "2019-04-24 15:11:29 +0000";
+lastChange = "2019-04-29 09:20:48 +0000";
 layers = (
 {
 background = {
 components = (
 {
 name = i;
-transform = "{1, 0, 0, 1, 221, 0}";
+transform = "{1, 0, 0, 1, 206, 0}";
 }
 );
 };
 guideLines = (
 {
 angle = 16;
-position = "{401, 440}";
+position = "{386, 440}";
 },
 {
 angle = 20;
-position = "{330, -10}";
+position = "{315, -10}";
 }
 );
 layerId = "A23182C3-7ED8-49EC-89D2-A828F09177C3";
@@ -3378,59 +3378,59 @@ paths = (
 {
 closed = 1;
 nodes = (
-"227 241 LINE SMOOTH",
-"118 231 OFFCURVE",
-"20 200 OFFCURVE",
-"20 100 CURVE SMOOTH",
-"20 30 OFFCURVE",
-"76 -10 OFFCURVE",
-"141 -10 CURVE SMOOTH",
-"205 -10 OFFCURVE",
-"289 52 OFFCURVE",
-"325 122 CURVE",
-"305 137 LINE",
-"303 96 OFFCURVE",
-"226 62 OFFCURVE",
-"181 62 CURVE SMOOTH",
-"137 62 OFFCURVE",
-"110 83 OFFCURVE",
-"110 120 CURVE SMOOTH",
-"110 161 OFFCURVE",
-"137 201 OFFCURVE",
-"255 217 CURVE SMOOTH",
-"308 224 LINE",
-"307 248 LINE"
+"212 241 LINE SMOOTH",
+"103 231 OFFCURVE",
+"5 200 OFFCURVE",
+"5 100 CURVE SMOOTH",
+"5 30 OFFCURVE",
+"61 -10 OFFCURVE",
+"126 -10 CURVE SMOOTH",
+"190 -10 OFFCURVE",
+"274 52 OFFCURVE",
+"310 122 CURVE",
+"290 137 LINE",
+"288 96 OFFCURVE",
+"211 62 OFFCURVE",
+"166 62 CURVE SMOOTH",
+"122 62 OFFCURVE",
+"95 83 OFFCURVE",
+"95 120 CURVE SMOOTH",
+"95 161 OFFCURVE",
+"122 201 OFFCURVE",
+"240 217 CURVE SMOOTH",
+"293 224 LINE",
+"292 248 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"273 364 OFFCURVE",
-"300 347 OFFCURVE",
-"300 314 CURVE SMOOTH",
-"300 232 OFFCURVE",
-"304 174 OFFCURVE",
-"304 94 CURVE",
-"304 74 OFFCURVE",
-"315 33 OFFCURVE",
-"330 -10 CURVE",
-"450 42 LINE",
-"446 64 LINE",
-"390 64 OFFCURVE",
-"394 90 OFFCURVE",
-"389 175 CURVE SMOOTH",
-"386 224 OFFCURVE",
-"387 357 OFFCURVE",
-"409 421 CURVE",
-"401 440 LINE",
-"332 416 OFFCURVE",
-"253 393 OFFCURVE",
-"162 371 CURVE",
-"170 344 LINE"
+"258 364 OFFCURVE",
+"285 347 OFFCURVE",
+"285 314 CURVE SMOOTH",
+"285 232 OFFCURVE",
+"289 174 OFFCURVE",
+"289 94 CURVE",
+"289 74 OFFCURVE",
+"300 33 OFFCURVE",
+"315 -10 CURVE",
+"435 42 LINE",
+"431 64 LINE",
+"375 64 OFFCURVE",
+"379 90 OFFCURVE",
+"374 175 CURVE SMOOTH",
+"371 224 OFFCURVE",
+"372 357 OFFCURVE",
+"394 421 CURVE",
+"386 440 LINE",
+"317 416 OFFCURVE",
+"238 393 OFFCURVE",
+"147 371 CURVE",
+"155 344 LINE"
 );
 }
 );
-width = 455;
+width = 440;
 },
 {
 associatedMasterId = "A23182C3-7ED8-49EC-89D2-A828F09177C3";
@@ -9909,7 +9909,7 @@ unicode = E8BF;
 {
 color = 4;
 glyphname = r;
-lastChange = "2019-04-24 15:11:29 +0000";
+lastChange = "2019-04-29 09:20:19 +0000";
 layers = (
 {
 layerId = "A23182C3-7ED8-49EC-89D2-A828F09177C3";
@@ -9961,7 +9961,7 @@ nodes = (
 );
 }
 );
-width = 420;
+width = 412;
 },
 {
 associatedMasterId = "A23182C3-7ED8-49EC-89D2-A828F09177C3";
@@ -10097,7 +10097,7 @@ unicode = 0072;
 {
 color = 4;
 glyphname = r.ss01;
-lastChange = "2019-01-08 14:53:43 +0000";
+lastChange = "2019-04-29 09:21:02 +0000";
 layers = (
 {
 layerId = "A23182C3-7ED8-49EC-89D2-A828F09177C3";
@@ -10135,7 +10135,7 @@ nodes = (
 );
 }
 );
-width = 341;
+width = 333;
 }
 );
 leftMetricsKey = r;
