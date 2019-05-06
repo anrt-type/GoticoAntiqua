@@ -5,8 +5,6 @@
 # Names should be added to this file as:
 # Name or Organization <email address>
 
-Font designed and produced by Alexis Faudot and Rafael Ribas, directed by Jérôme Knebusch, Atelier National de Recherche TypographiQue (ANRT), Nancy.
-
-Copyright 2019 ANRT. All rights reserved.
-VERSION: 1.0, 25 april 2019
-added glyphs: J U W j k w
+Alexis Faudot <alexis.faudot(at)laposte.net>
+Rafael Ribas <rafaelribas(at)live.fr>
+Jérôme Knebusch <jerome.knebusch(at)anrt-nancy.fr>
