@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="d_strok" format="1">
+  <advance width="511"/>
+  <unicode hex="0111"/>
+  <outline>
+    <contour>
+      <point x="253" y="458" type="curve"/>
+      <point x="277" y="436" type="line"/>
+      <point x="356" y="500"/>
+      <point x="453" y="603"/>
+      <point x="453" y="617" type="curve"/>
+      <point x="453" y="681"/>
+      <point x="418" y="720"/>
+      <point x="369" y="720" type="curve"/>
+      <point x="345" y="720"/>
+      <point x="284" y="672"/>
+      <point x="236" y="643" type="curve"/>
+      <point x="244" y="626" type="line"/>
+      <point x="256" y="629"/>
+      <point x="281" y="636"/>
+      <point x="299" y="636" type="curve"/>
+      <point x="322" y="636"/>
+      <point x="341" y="619"/>
+      <point x="341" y="589" type="curve"/>
+      <point x="341" y="543"/>
+      <point x="283" y="487"/>
+    </contour>
+    <component base="d.ss01"/>
+    <contour>
+      <point x="256" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="256" y="215" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="256" y="430" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="491" y="430" type="move" name="topright"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-03-28 15:56:55 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>d.ss01</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>d.ss01</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

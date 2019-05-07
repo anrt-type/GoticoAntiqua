@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="p_o_macr" format="1">
+  <advance width="841"/>
+  <outline>
+    <contour>
+      <point x="498" y="580" type="curve"/>
+      <point x="525" y="573" type="line"/>
+      <point x="539" y="587"/>
+      <point x="578" y="613"/>
+      <point x="619" y="624" type="curve"/>
+      <point x="642" y="630"/>
+      <point x="702" y="636"/>
+      <point x="725" y="640" type="curve"/>
+      <point x="738" y="642"/>
+      <point x="764" y="699"/>
+      <point x="785" y="734" type="curve"/>
+      <point x="761" y="741" type="line"/>
+      <point x="748" y="733"/>
+      <point x="730" y="727"/>
+      <point x="708" y="724" type="curve"/>
+      <point x="686" y="721"/>
+      <point x="630" y="718"/>
+      <point x="606" y="714" type="curve"/>
+      <point x="594" y="712"/>
+      <point x="520" y="615"/>
+    </contour>
+    <component base="p_o"/>
+    <contour>
+      <point x="140" y="0" type="move" name="bottom_1"/>
+    </contour>
+    <contour>
+      <point x="421" y="0" type="move" name="bottom_2"/>
+    </contour>
+    <contour>
+      <point x="701" y="0" type="move" name="bottom_3"/>
+    </contour>
+    <contour>
+      <point x="280.333" y="0" type="move" name="caret_1"/>
+    </contour>
+    <contour>
+      <point x="560.667" y="0" type="move" name="caret_2"/>
+    </contour>
+    <contour>
+      <point x="140" y="430" type="move" name="top_1"/>
+    </contour>
+    <contour>
+      <point x="421" y="430" type="move" name="top_2"/>
+    </contour>
+    <contour>
+      <point x="701" y="430" type="move" name="top_3"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>p_o</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-13 11:38:40 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>p</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>o</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

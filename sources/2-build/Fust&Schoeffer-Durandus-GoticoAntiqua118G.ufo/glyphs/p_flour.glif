@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="p_flour" format="1">
+  <advance width="528"/>
+  <unicode hex="A753"/>
+  <outline>
+    <contour>
+      <point x="-45" y="-218" type="curve"/>
+      <point x="-39" y="-218"/>
+      <point x="53" y="-181"/>
+      <point x="78" y="-181" type="curve"/>
+      <point x="78" y="-147" type="line"/>
+      <point x="62" y="-161"/>
+      <point x="45" y="-165"/>
+      <point x="29" y="-165" type="curve"/>
+      <point x="-13" y="-165"/>
+      <point x="-41" y="-127"/>
+      <point x="-41" y="-81" type="curve"/>
+      <point x="-41" y="-31"/>
+      <point x="3" y="9"/>
+      <point x="31" y="9" type="curve"/>
+      <point x="40" y="9"/>
+      <point x="66" y="-3"/>
+      <point x="82" y="-11" type="curve"/>
+      <point x="98" y="6" type="line"/>
+      <point x="72" y="117" type="line"/>
+      <point x="54" y="47"/>
+      <point x="-117" y="-21"/>
+      <point x="-117" y="-124" type="curve"/>
+      <point x="-117" y="-179"/>
+      <point x="-76" y="-218"/>
+    </contour>
+    <component base="p"/>
+    <contour>
+      <point x="264" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="264" y="430" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>p</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-23 09:35:48 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>
