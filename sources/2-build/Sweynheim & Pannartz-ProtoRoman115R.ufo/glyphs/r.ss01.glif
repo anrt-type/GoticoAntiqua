@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="r.ss01" format="1">
-  <advance width="341"/>
+  <advance width="333"/>
   <outline>
     <contour>
       <point x="126" y="0" type="curve"/>
@@ -32,7 +32,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019-01-08 14:53:43 +0000</string>
+      <string>2019-04-29 09:21:02 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>r</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
