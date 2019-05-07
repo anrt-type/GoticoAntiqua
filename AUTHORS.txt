@@ -5,12 +5,6 @@
 # Names should be added to this file as:
 # Name or Organization <email address>
 
-Design:
-Alexis Faudot <alexis.faudot@laposte.net>
-Rafael Ribas <rafaelribas@live.fr>
-
-Direction:
-Jérôme Knebusch <jeromeknebusch@gmail.com>
-
-
-
+Alexis Faudot <alexis.faudot(at)laposte.net>
+Rafael Ribas <rafaelribas(at)live.fr>
+Jérôme Knebusch <jerome.knebusch(at)anrt-nancy.fr>
