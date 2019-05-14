@@ -1,5 +1,5 @@
 {
-.appVersion = "1231";
+.appVersion = "1233";
 classes = (
 {
 automatic = 1;
@@ -239,11 +239,11 @@ name = Languagesystems;
 features = (
 {
 automatic = 1;
-code = "feature hist;\012feature salt;\012feature ss01;\012feature ss02;\012feature ss03;\012feature ss04;\012feature ss05;\012feature ss06;\012feature ss07;\012feature ss08;\012feature calt;\012";
+code = "feature hist;\012feature salt;\012feature ss01;\012feature ss02;\012feature ss03;\012feature ss04;\012feature ss05;\012feature ss06;\012feature ss07;\012feature calt;\012";
 name = aalt;
 },
 {
-code = "sub c r a by c_ra;\012sub d e by d_strok;\012sub d e s by d_strok;\012sub d i c i t by d_strok;\012sub d i c t u s by d_strok;\012sub d i s by d_strok;\012sub d i t by d_strok;\012sub d u m by d_strok;\012sub u n d by d_strok;\012sub e m by e_macr;\012sub e n by e_macr;\012sub space e s t space by e_macr;\012sub e r g o by g_ring;\012sub g r o by g_ring;\012sub h i c by h_strok;\012sub i n by i_macr;\012sub i n i by i_macr;\012sub i m by i_macr;\012sub i m u by i_macr;\012sub i r e by i_macr;\012sub m i by i_macr;\012sub m i n by i_macr;\012sub n i by i_macr;\012sub n i m by i_macr;\012sub l u by l_strok;\012sub u l by l_strok;\012sub m e n by m_macr;\012sub m n by m_macr;\012sub m n e by m_macr;\012sub m n i by m_macr;\012sub m u n by m_macr;\012sub t u m by m_macr;\012sub a n by n_macr;\012sub e n e by n_macr;\012sub o n by o_macr;\012sub o m by o_macr;\012sub i o by o_macr;\012sub o d o by o_macr;\012sub p a r by p_bardes;\012sub p e r by p_bardes;\012sub p r a e by p_macr;\012sub p r e by p_macr;\012sub p r o by p_flour;\012sub p r o p by p_flour;\012sub p u by p_urrot;\012sub p u r by p_urrot;\012sub p u t by p_urrot;\012sub p r o p t e r by p_p_flour;\012sub q u i d by q_bardes;\012sub q u o by q_ring;\012sub q u o d by q_strok;\012sub q u e by q_etfin;\012sub t e r by r_macr;\012sub t r by r_macr;\012sub r u m by rum;\012sub s e r by longs_strok;\012sub s e by longs_strok;\012sub s a l m u s by longs_strok;\012sub t i o by t_acute;\012sub u m by u_macr;\012sub u n by u_macr;";
+code = "sub c r a by c_ra;\012sub d e by d_strok;\012sub d e s by d_strok;\012sub d i c i t by d_strok;\012sub d i c t u s by d_strok;\012sub d i s by d_strok;\012sub d i t by d_strok;\012sub d u m by d_strok;\012sub u n d by d_strok;\012sub e m by e_macr;\012sub e n by e_macr;\012sub space e s t space by e_macr;\012sub e r g o by g_ring;\012sub g r o by g_ring;\012sub h i c by h_strok;\012sub i n by i_macr;\012sub i n i by i_macr;\012sub i m by i_macr;\012sub i m u by i_macr;\012sub i r e by i_macr;\012sub m i by i_macr;\012sub m i n by i_macr;\012sub n i by i_macr;\012sub n i m by i_macr;\012sub l u by l_strok;\012sub u l by l_strok;\012sub m e n by m_macr;\012sub m n by m_macr;\012sub m n e by m_macr;\012sub m n i by m_macr;\012sub m u n by m_macr;\012sub t u m by m_macr;\012sub a n by n_macr;\012sub e n e by n_macr;\012sub o n by o_macr;\012sub o m by o_macr;\012sub i o by o_macr;\012sub o d o by o_macr;\012sub p a r by p_bardes;\012sub p e r by p_bardes;\012sub p r a by p_ra;\012sub p r a e by p_macr;\012sub p r e by p_macr;\012sub p r o by p_flour;\012sub p r o p by p_flour;\012sub p u by p_urrot;\012sub p u r by p_urrot;\012sub p u t by p_urrot;\012sub p r o p t e r by p_p_flour;\012sub q u a by q_ra;\012sub q u a e by q_macr;\012sub q u a m by q_etfin_ra;\012sub q u i d by q_bardes;\012sub q u o by q_ring;\012sub q u o d by q_strok;\012sub q u o q u e by q_etfin_ring;\012sub q u e by q_etfin;\012sub t e r by r_macr;\012sub t r by r_macr;\012sub r u m by rum;\012sub s e r by longs_strok;\012sub s e by longs_strok;\012sub s a l m u s by longs_strok;\012sub t i o by t_acute;\012sub u m by u_macr;\012sub u n by u_macr;";
 name = dlig;
 },
 {
@@ -255,7 +255,7 @@ code = "sub longs longs by longs_longs;\012sub longs t by longs_t;\012sub f f by
 name = hlig;
 },
 {
-code = "sub A by A.ss01;\012sub B by B.ss01;\012sub C by C.ss01;\012sub D by D.ss01;\012sub E by E.ss01;\012sub F by F.ss01;\012sub G by G.ss01;\012sub H by H.ss01;\012sub L by L.ss01;\012sub M by M.ss01;\012sub O by O.ss01;\012sub P by P.ss01;\012sub Q by Q.ss01;\012sub R by R.ss01;\012sub S by S.ss01;\012sub T by T.ss01;\012sub V by V.ss01;\012sub g by g.ss01;\012sub r by r.ss01;\012sub r by r.ss01;\012sub s by longs;\012sub @AllLetters longs' [emspace enspace threeperemspace fourperemspace space thinspace hairspace period comma colon] by s;\012sub ampersand by ampersand.ss01;";
+code = "sub A by A.ss01;\012sub B by B.ss01;\012sub C by C.ss01;\012sub D by D.ss01;\012sub E by E.ss01;\012sub F by F.ss01;\012sub G by G.ss01;\012sub H by H.ss01;\012sub L by L.ss01;\012sub M by M.ss01;\012sub O by O.ss01;\012sub P by P.ss01;\012sub Q by Q.ss01;\012sub R by R.ss01;\012sub S by S.ss01;\012sub T by T.ss01;\012sub V by V.ss01;\012sub g by g.ss01;\012sub r by r.ss01;\012sub s by longs;\012sub @AllLetters longs' [emspace enspace threeperemspace fourperemspace space thinspace hairspace period comma colon] by s;\012sub ampersand by ampersand.ss01;";
 name = hist;
 },
 {

@@ -1,5 +1,5 @@
 # automatic
-@AllLetters = [ A A.ss01 B C C.ss01 D E F G H I J K L M M.ss01 N O P P.ss01 Q Q.ss01 Q.ss02 Q.ss03 R S S.ss01 T U V V.ss01 V.ss02 W X Y Z a a_hook a_macr b b_e b_e_macr b_o b_s c c_hook c_macr c_a c_a_macr c_e c_e_macr c_i c_o c_o_macr c_r c_t c_u c_u_macr d d.ss01 d_strok d_e d_o e e_hook e_macr e_c e_t f f_e f_f f_i f_o f_r f_r_a f_u g g.ss01 g.ss02 g.ss03 g_hook g_macr g_ra g_l_strok h h_strok h_e h_e_macr h_o i idotless i.ss01 i.ss02 i_hook i_macr i_j i_j_dotless i_j_macr i_m i_n i_u i_u_macr j k l l_strok l_l m m_macr m_i n n_hook n_macr n_i o o_macr o_ra o_r o_r_ra p p.ss01 p_bardes p_flour p_macr p_urrot p_e p_e_macr p_o p_o_macr p_p p_p_macr p_p_flour p_p_flour_hook p_p_hook q q_macr q_ra q_ring q_urrot q_etfin q_etfin_ring q_r q_strok q_strok_ra r r.ss01 r_hook r_macr r_ra r_a r_a_macr r_u r_u_macr s longs longs_strok longs_b_strok longs_etfin longs_longs_etfin longs_i longs_i_m longs_longs longs_t longs_u longs_u_macr t t_acute t_hook t_e t_e_macr t_i t_i_macr t_o t_u t_u_macr u u_hook u_macr u_i u_i_macr v v_hook v_e v_e.ss01 v_o v_o.ss01 w x x_ra y z z.ss01 con rum us ];
+@AllLetters = [ A A.ss01 B C C.ss01 D E F G H I J K L M M.ss01 N O P P.ss01 Q Q.ss01 Q.ss02 Q.ss03 R S S.ss01 T U V V.ss01 V.ss02 W X Y Z a a_hook a_macr b b_e b_e_macr b_o b_s c c_hook c_macr c_a c_a_macr c_e c_e_macr c_i c_o c_o_macr c_r c_t c_u c_u_macr d d.ss01 d_strok d_e d_o e e_hook e_macr e_c e_t f f_e f_f f_i f_o f_r f_r_a f_u g g.ss01 g.ss02 g.ss03 g_hook g_macr g_ra g_l_strok h h_strok h_e h_e_macr h_o i idotless idotless.ss01 i.ss01 i.ss02 i_hook i_macr i_j i_j_dotless i_j_macr i_m i_n i_u i_u_macr j k l l_strok l_l m m_macr m_i n n_hook n_macr n_i o o_macr o_ra o_r o_r_ra p p.ss01 p_bardes p_flour p_macr p_urrot p_e p_e_macr p_o p_o_macr p_p p_p_macr p_p_flour p_p_flour_hook p_p_hook q q_macr q_ra q_ring q_urrot q_etfin q_etfin_ring q_r q_strok q_strok_ra r r.ss01 r_hook r_macr r_ra r_a r_a_macr r_u r_u_macr s longs longs_strok longs_b_strok longs_etfin longs_longs_etfin longs_i longs_i_m longs_longs longs_t longs_u longs_u_macr t t_acute t_hook t_e t_e_macr t_i t_i_macr t_o t_u t_u_macr u u_hook u_macr u_i u_i_macr v v_hook v_e v_e.ss01 v_o v_o.ss01 w x x_ra y z z.ss01 con rum us ];
 
 # Prefix: Languagesystems
 languagesystem DFLT dflt;
@@ -314,4 +314,8 @@ sub z by z.ss01;
 feature ss19 {
 sub ampersand by ampersand.ss01;
 } ss19;
+
+feature calt {
+sub longs i' by longs idotless.ss01;
+} calt;
 

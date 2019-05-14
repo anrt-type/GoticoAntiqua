@@ -40,11 +40,11 @@
       <point x="259" y="419"/>
     </contour>
     <contour>
-      <point x="222" y="70" type="line"/>
       <point x="222" y="80" type="line"/>
       <point x="157" y="136" type="line"/>
       <point x="57" y="60" type="line"/>
       <point x="142" y="-10" type="line"/>
+      <point x="222" y="70" type="line"/>
     </contour>
     <contour>
       <point x="515" y="520" type="curve"/>

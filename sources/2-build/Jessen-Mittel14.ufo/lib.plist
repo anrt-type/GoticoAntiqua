@@ -287,6 +287,7 @@
 		<string>quotedblleft</string>
 		<string>quotedblright</string>
 		<string>dieresis</string>
+		<string>cross</string>
 	</array>
 	<key>com.schriftgestaltung.master.name</key>
 	<string>Mittel 14</string>
@@ -398,6 +399,7 @@
 		<string>hyphen</string>
 		<string>quotedblleft</string>
 		<string>quotedblright</string>
+		<string>cross</string>
 	</array>
 </dict>
 </plist>

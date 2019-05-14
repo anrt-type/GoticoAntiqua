@@ -90,12 +90,12 @@
       <point x="374" y="69"/>
     </contour>
     <contour>
-      <point x="648" y="766" type="curve"/>
       <point x="608" y="768" type="line"/>
       <point x="606" y="108" type="line"/>
       <point x="636" y="108" type="line"/>
       <point x="638" y="327"/>
       <point x="642" y="547"/>
+      <point x="648" y="766" type="curve"/>
     </contour>
     <contour>
       <point x="615" y="0" type="move" name="bottom"/>

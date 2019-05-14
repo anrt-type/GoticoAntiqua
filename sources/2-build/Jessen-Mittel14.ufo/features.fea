@@ -19,7 +19,6 @@ feature ss06;
 feature liga {
 sub c h by c_h;
 sub c k by c_k;
-sub longs z by germandbls;
 sub f f by f_f;
 sub f i by f_i;
 sub f l by f_l;

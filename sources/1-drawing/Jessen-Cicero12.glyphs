@@ -1,8 +1,5 @@
 {
-.appVersion = "1231";
-DisplayStrings = (
-"ABCDEFGHIJKLMN\012OPQRSTUVWXYZ\012abcdefghijklmno\012pqrstuvwxyz\0120123456789\012(.,:-ä¨öüß)\012\012\012ABCDEFGHIJKLMN\012OPQRSTUVWXYZ\012abcdefghiklmnopqrstuvwxyz\012\012saucissons\012 traduction \012hello world\012un Village en France\012\012\012"
-);
+.appVersion = "1233";
 copyright = "Copyright (c) 2019 ANRT. All rights reserved.";
 customParameters = (
 {
@@ -166,7 +163,7 @@ name = Languagesystems;
 );
 features = (
 {
-code = "sub c h by c_h;\012sub c k by c_k;\012sub f f by f_f;\012sub s z by germandbls;";
+code = "sub c h by c_h;\012sub c k by c_k;\012sub f f by f_f;";
 name = liga;
 }
 );

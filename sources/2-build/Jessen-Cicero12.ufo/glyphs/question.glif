@@ -4,7 +4,6 @@
   <unicode hex="003F"/>
   <outline>
     <contour>
-      <point x="203" y="225" type="curve"/>
       <point x="126" y="170" type="line"/>
       <point x="123" y="170" type="line"/>
       <point x="79" y="202"/>
@@ -26,6 +25,7 @@
       <point x="130" y="352" type="curve"/>
       <point x="130" y="299"/>
       <point x="169" y="251"/>
+      <point x="203" y="225" type="curve"/>
     </contour>
     <component base="period" xOffset="34"/>
   </outline>

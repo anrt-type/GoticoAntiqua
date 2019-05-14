@@ -70,11 +70,11 @@
       <point x="197" y="-2"/>
     </contour>
     <contour>
-      <point x="247" y="705" type="line"/>
       <point x="241" y="704" type="line"/>
       <point x="243" y="44" type="line"/>
       <point x="268" y="62" type="line"/>
       <point x="278" y="704" type="line"/>
+      <point x="247" y="705" type="line"/>
     </contour>
     <contour>
       <point x="418" y="0" type="move" name="bottom"/>

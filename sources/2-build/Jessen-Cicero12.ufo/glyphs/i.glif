@@ -25,12 +25,12 @@
       <point x="170" y="414"/>
     </contour>
     <contour>
-      <point x="219" y="680" type="line"/>
       <point x="219" y="670" type="line"/>
       <point x="94" y="557" type="line"/>
       <point x="29" y="574" type="line"/>
       <point x="29" y="584" type="line"/>
       <point x="157" y="700" type="line"/>
+      <point x="219" y="680" type="line"/>
     </contour>
   </outline>
   <lib>

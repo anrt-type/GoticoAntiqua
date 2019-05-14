@@ -4,7 +4,6 @@
 <dict>
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
-		<string>/p_e_macr/p_o_macr/r_a_macr</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
@@ -118,6 +117,7 @@
 		<string>h_o</string>
 		<string>i</string>
 		<string>idotless</string>
+		<string>idotless.ss01</string>
 		<string>i.ss01</string>
 		<string>i.ss02</string>
 		<string>i_hook</string>
@@ -357,6 +357,7 @@
 		<string>h_o</string>
 		<string>i</string>
 		<string>idotless</string>
+		<string>idotless.ss01</string>
 		<string>i.ss01</string>
 		<string>i.ss02</string>
 		<string>i_hook</string>

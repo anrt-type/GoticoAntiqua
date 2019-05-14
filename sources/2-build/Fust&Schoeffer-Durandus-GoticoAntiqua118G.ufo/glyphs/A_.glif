@@ -4,7 +4,6 @@
   <unicode hex="0041"/>
   <outline>
     <contour>
-      <point x="295" y="700" type="line"/>
       <point x="-10" y="-32" type="line"/>
       <point x="-10" y="-40" type="line"/>
       <point x="50" y="-40" type="line"/>
@@ -25,11 +24,12 @@
       <point x="558" y="163" type="curve"/>
       <point x="343" y="699" type="line"/>
       <point x="344" y="700" type="line"/>
+      <point x="295" y="700" type="line"/>
     </contour>
     <contour>
-      <point x="275" y="552" type="line"/>
       <point x="365" y="316" type="line"/>
       <point x="192" y="316" type="line"/>
+      <point x="275" y="552" type="line"/>
     </contour>
     <contour>
       <point x="328" y="0" type="move" name="bottom"/>

@@ -1,5 +1,5 @@
 {
-.appVersion = "1231";
+.appVersion = "1233";
 classes = (
 {
 automatic = 1;
@@ -119,7 +119,8 @@ question,
 hyphen,
 quotedblleft,
 quotedblright,
-dieresis
+dieresis,
+cross
 );
 },
 {
@@ -186,7 +187,7 @@ code = "feature salt;\012feature ss01;\012feature ss02;\012feature ss03;\012feat
 name = aalt;
 },
 {
-code = "sub c h by c_h;\012sub c k by c_k;\012sub longs z by germandbls;\012sub f f by f_f;\012sub f i by f_i;\012sub f l by f_l;\012sub f t by f_t;\012sub t z by t_z;";
+code = "sub c h by c_h;\012sub c k by c_k;\012sub f f by f_f;\012sub f i by f_i;\012sub f l by f_l;\012sub f t by f_t;\012sub t z by t_z;";
 name = liga;
 },
 {
@@ -2320,7 +2321,7 @@ unicode = 0061;
 {
 color = 4;
 glyphname = adieresis;
-lastChange = "2019-04-24 17:58:14 +0000";
+lastChange = "2019-05-14 15:29:07 +0000";
 layers = (
 {
 components = (
@@ -2334,25 +2335,25 @@ paths = (
 {
 closed = 1;
 nodes = (
-"307 728 LINE",
-"305 719 LINE",
-"195 560 LINE",
-"159 554 LINE",
-"249 722 LINE"
+"277 668 LINE",
+"275 659 LINE",
+"165 500 LINE",
+"129 494 LINE",
+"219 662 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"442 744 LINE",
-"441 736 LINE",
-"312 573 LINE",
-"279 565 LINE",
-"374 736 LINE"
+"402 684 LINE",
+"401 676 LINE",
+"272 513 LINE",
+"239 505 LINE",
+"334 676 LINE"
 );
 }
 );
-width = 457;
+width = 427;
 }
 );
 leftMetricsKey = a;
@@ -5695,6 +5696,61 @@ width = 209;
 }
 );
 unicode = 201D;
+},
+{
+color = 10;
+glyphname = cross;
+lastChange = "2019-05-14 15:45:41 +0000";
+layers = (
+{
+layerId = "DAB95E6E-43D9-4086-BFEC-49256C9AEEE3";
+paths = (
+{
+closed = 1;
+nodes = (
+"65 318 LINE",
+"358 318 LINE",
+"362 209 OFFCURVE",
+"359 113 OFFCURVE",
+"349 4 CURVE",
+"358 -1 LINE",
+"393 23 OFFCURVE",
+"429 22 OFFCURVE",
+"464 -14 CURVE",
+"473 -9 LINE",
+"463 108 OFFCURVE",
+"459 203 OFFCURVE",
+"464 308 CURVE",
+"758 310 LINE",
+"760 317 LINE",
+"737 352 OFFCURVE",
+"735 364 OFFCURVE",
+"759 400 CURVE",
+"758 407 LINE",
+"464 409 LINE",
+"461 499 OFFCURVE",
+"464 606 OFFCURVE",
+"473 696 CURVE",
+"464 699 LINE",
+"429 664 OFFCURVE",
+"399 664 OFFCURVE",
+"364 699 CURVE",
+"355 697 LINE",
+"361 607 OFFCURVE",
+"361 505 OFFCURVE",
+"360 415 CURVE",
+"64 415 LINE",
+"60 408 LINE",
+"84 372 OFFCURVE",
+"84 362 OFFCURVE",
+"60 326 CURVE"
+);
+}
+);
+width = 820;
+}
+);
+unicode = 271D;
 }
 );
 instances = (

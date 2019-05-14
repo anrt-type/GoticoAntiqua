@@ -146,8 +146,6 @@
 	<string>m.glif</string>
 	<key>mann</key>
 	<string>mann.glif</string>
-	<key>maske</key>
-	<string>maske.glif</string>
 	<key>mond</key>
 	<string>mond.glif</string>
 	<key>n</key>
@@ -192,8 +190,6 @@
 	<string>seven.glif</string>
 	<key>six</key>
 	<string>six.glif</string>
-	<key>soldat</key>
-	<string>soldat.glif</string>
 	<key>space</key>
 	<string>space.glif</string>
 	<key>t</key>
@@ -208,12 +204,6 @@
 	<string>three.glif</string>
 	<key>threeperemspace</key>
 	<string>threeperemspace.glif</string>
-	<key>totenkopf_1</key>
-	<string>totenkopf_1.glif</string>
-	<key>totenkopf_2</key>
-	<string>totenkopf_2.glif</string>
-	<key>treppe</key>
-	<string>treppe.glif</string>
 	<key>two</key>
 	<string>two.glif</string>
 	<key>u</key>

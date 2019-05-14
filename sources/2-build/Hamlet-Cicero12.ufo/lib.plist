@@ -144,6 +144,13 @@
 		<string>quotesingle</string>
 		<string>_corner-caps-court</string>
 		<string>_corner-caps-long</string>
+		<string>mond</string>
+		<string>kopf</string>
+		<string>koenigspaar</string>
+		<string>cranach_1</string>
+		<string>cranach_2</string>
+		<string>eins_mensch</string>
+		<string>mann</string>
 	</array>
 	<key>com.schriftgestaltung.master.name</key>
 	<string>Cicero 12</string>
@@ -235,6 +242,13 @@
 		<string>quotesinglbase</string>
 		<string>quotedblbase</string>
 		<string>quotesingle</string>
+		<string>mond</string>
+		<string>kopf</string>
+		<string>koenigspaar</string>
+		<string>cranach_1</string>
+		<string>cranach_2</string>
+		<string>eins_mensch</string>
+		<string>mann</string>
 	</array>
 </dict>
 </plist>

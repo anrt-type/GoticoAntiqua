@@ -1,9 +1,9 @@
 {
-.appVersion = "1231";
+.appVersion = "1233";
 classes = (
 {
 automatic = 1;
-code = "A A.ss01 B C C.ss01 D E F G H I J K L M M.ss01 N O P P.ss01 Q Q.ss01 Q.ss02 Q.ss03 R S S.ss01 T U V V.ss01 V.ss02 W X Y Z a a_hook a_macr b b_e b_e_macr b_o b_s c c_hook c_macr c_a c_a_macr c_e c_e_macr c_i c_o c_o_macr c_r c_t c_u c_u_macr d d.ss01 d_strok d_e d_o e e_hook e_macr e_c e_t f f_e f_f f_i f_o f_r f_r_a f_u g g.ss01 g.ss02 g.ss03 g_hook g_macr g_ra g_l_strok h h_strok h_e h_e_macr h_o i idotless i.ss01 i.ss02 i_hook i_macr i_j i_j_dotless i_j_macr i_m i_n i_u i_u_macr j k l l_strok l_l m m_macr m_i n n_hook n_macr n_i o o_macr o_ra o_r o_r_ra p p.ss01 p_bardes p_flour p_macr p_urrot p_e p_e_macr p_o p_o_macr p_p p_p_macr p_p_flour p_p_flour_hook p_p_hook q q_macr q_ra q_ring q_urrot q_etfin q_etfin_ring q_r q_strok q_strok_ra r r.ss01 r_hook r_macr r_ra r_a r_a_macr r_u r_u_macr s longs longs_strok longs_b_strok longs_etfin longs_longs_etfin longs_i longs_i_m longs_longs longs_t longs_u longs_u_macr t t_acute t_hook t_e t_e_macr t_i t_i_macr t_o t_u t_u_macr u u_hook u_macr u_i u_i_macr v v_hook v_e v_e.ss01 v_o v_o.ss01 w x x_ra y z z.ss01 con rum us";
+code = "A A.ss01 B C C.ss01 D E F G H I J K L M M.ss01 N O P P.ss01 Q Q.ss01 Q.ss02 Q.ss03 R S S.ss01 T U V V.ss01 V.ss02 W X Y Z a a_hook a_macr b b_e b_e_macr b_o b_s c c_hook c_macr c_a c_a_macr c_e c_e_macr c_i c_o c_o_macr c_r c_t c_u c_u_macr d d.ss01 d_strok d_e d_o e e_hook e_macr e_c e_t f f_e f_f f_i f_o f_r f_r_a f_u g g.ss01 g.ss02 g.ss03 g_hook g_macr g_ra g_l_strok h h_strok h_e h_e_macr h_o i idotless idotless.ss01 i.ss01 i.ss02 i_hook i_macr i_j i_j_dotless i_j_macr i_m i_n i_u i_u_macr j k l l_strok l_l m m_macr m_i n n_hook n_macr n_i o o_macr o_ra o_r o_r_ra p p.ss01 p_bardes p_flour p_macr p_urrot p_e p_e_macr p_o p_o_macr p_p p_p_macr p_p_flour p_p_flour_hook p_p_hook q q_macr q_ra q_ring q_urrot q_etfin q_etfin_ring q_r q_strok q_strok_ra r r.ss01 r_hook r_macr r_ra r_a r_a_macr r_u r_u_macr s longs longs_strok longs_b_strok longs_etfin longs_longs_etfin longs_i longs_i_m longs_longs longs_t longs_u longs_u_macr t t_acute t_hook t_e t_e_macr t_i t_i_macr t_o t_u t_u_macr u u_hook u_macr u_i u_i_macr v v_hook v_e v_e.ss01 v_o v_o.ss01 w x x_ra y z z.ss01 con rum us";
 name = AllLetters;
 }
 );
@@ -112,6 +112,7 @@ h_e_macr,
 h_o,
 i,
 idotless,
+idotless.ss01,
 i.ss01,
 i.ss02,
 i_hook,
@@ -325,78 +326,101 @@ name = salt;
 {
 code = "sub A by A.ss01;";
 name = ss01;
+notes = "Name: Alternate A";
 },
 {
 code = "sub C by C.ss01;";
 name = ss02;
+notes = "Name: Alternate C";
 },
 {
 code = "sub M by M.ss01;";
 name = ss03;
+notes = "Name: Alternate M";
 },
 {
 code = "sub P by P.ss01;";
 name = ss04;
+notes = "Name: Alternate P";
 },
 {
 code = "sub Q by Q.ss01;";
 name = ss05;
+notes = "Name: Alternate Q";
 },
 {
 code = "sub Q by Q.ss02;";
 name = ss06;
+notes = "Name: Alternate Q";
 },
 {
 code = "sub Q by Q.ss03;";
 name = ss07;
+notes = "Name: Alternate Q";
 },
 {
 code = "sub S by S.ss01;";
 name = ss08;
+notes = "Name: Alternate S";
 },
 {
 code = "sub V by V.ss01;";
 name = ss09;
+notes = "Name: Alternate V";
 },
 {
 code = "sub V by V.ss02;";
 name = ss10;
+notes = "Name: Alternate V";
 },
 {
 code = "sub d by d.ss01;";
 name = ss11;
+notes = "Name: Alternate d";
 },
 {
 code = "sub g by g.ss01;";
 name = ss12;
+notes = "Name: Alternate g";
 },
 {
 code = "sub g.ss01 by g.ss02;";
 name = ss13;
+notes = "Name: Alternate g";
 },
 {
 code = "sub i by i.ss01;";
 name = ss14;
+notes = "Name: Alternate i";
 },
 {
 code = "sub p by p.ss01;";
 name = ss15;
+notes = "Name: Alternate p";
 },
 {
 code = "sub r by r.ss01;";
 name = ss16;
+notes = "Name: Alternate r";
 },
 {
 code = "sub s by longs;\012sub @AllLetters longs' [emspace enspace threeperemspace fourperemspace space thinspace hairspace period comma colon] by s;";
 name = ss17;
+notes = "Name: Long s";
 },
 {
 code = "sub z by z.ss01;";
 name = ss18;
+notes = "Name: Alternate z";
 },
 {
 code = "sub ampersand by ampersand.ss01;";
 name = ss19;
+notes = "Name: Alternate ampersand";
+},
+{
+code = "sub longs i' by longs idotless.ss01;";
+name = calt;
 }
 );
 fontMaster = (
@@ -8389,6 +8413,48 @@ width = 232;
 leftMetricsKey = i;
 rightMetricsKey = i;
 unicode = 0131;
+},
+{
+color = 4;
+glyphname = idotless.ss01;
+lastChange = "2019-05-14 14:56:30 +0000";
+layers = (
+{
+layerId = "5FE47517-9953-4891-9518-AB2E2247E448";
+paths = (
+{
+closed = 1;
+nodes = (
+"153 -20 OFFCURVE",
+"193 16 OFFCURVE",
+"221 35 CURVE",
+"221 54 LINE",
+"190 68 OFFCURVE",
+"187 80 OFFCURVE",
+"186 97 CURVE SMOOTH",
+"185 178 OFFCURVE",
+"186 263 OFFCURVE",
+"186 332 CURVE SMOOTH",
+"186 418 OFFCURVE",
+"140 464 OFFCURVE",
+"72 445 CURVE",
+"10 362 LINE",
+"10 342 LINE",
+"40 334 OFFCURVE",
+"68 331 OFFCURVE",
+"70 282 CURVE SMOOTH",
+"72 200 OFFCURVE",
+"74 148 OFFCURVE",
+"70 35 CURVE SMOOTH",
+"70 12 OFFCURVE",
+"116 -20 OFFCURVE",
+"140 -20 CURVE SMOOTH"
+);
+}
+);
+width = 236;
+}
+);
 },
 {
 color = 4;
@@ -17359,6 +17425,7 @@ width = 309;
 {
 color = 10;
 glyphname = ampersand;
+lastChange = "2019-05-14 14:56:07 +0000";
 layers = (
 {
 layerId = "5FE47517-9953-4891-9518-AB2E2247E448";
@@ -17383,18 +17450,18 @@ nodes = (
 "240 440 OFFCURVE",
 "166 440 CURVE",
 "83 381 OFFCURVE",
-"-3 316 OFFCURVE",
-"-3 210 CURVE SMOOTH",
-"-3 143 OFFCURVE",
-"33 110 OFFCURVE",
-"63 108 CURVE SMOOTH",
-"80 107 OFFCURVE",
-"98 121 OFFCURVE",
-"98 146 CURVE SMOOTH",
-"98 189 OFFCURVE",
-"38 181 OFFCURVE",
-"38 231 CURVE SMOOTH",
-"38 298 OFFCURVE",
+"-4 300 OFFCURVE",
+"-4 194 CURVE SMOOTH",
+"-4 120 OFFCURVE",
+"36 82 OFFCURVE",
+"70 80 CURVE SMOOTH",
+"88 79 OFFCURVE",
+"108 95 OFFCURVE",
+"108 123 CURVE SMOOTH",
+"108 171 OFFCURVE",
+"35 162 OFFCURVE",
+"35 217 CURVE SMOOTH",
+"35 284 OFFCURVE",
 "104 352 OFFCURVE",
 "166 352 CURVE SMOOTH",
 "210 352 OFFCURVE",
@@ -18871,8 +18938,8 @@ weightClass = Normal;
 kerning = {
 "5FE47517-9953-4891-9518-AB2E2247E448" = {
 l_strok = {
-l = 130;
 h = 130;
+l = 130;
 };
 t = {
 n = 0;
