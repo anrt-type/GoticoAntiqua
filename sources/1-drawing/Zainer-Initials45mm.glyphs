@@ -1,5 +1,5 @@
 {
-.appVersion = "1231";
+.appVersion = "1233";
 copyright = "Copyright (c) 2019 ANRT. All rights reserved.";
 customParameters = (
 {
@@ -32947,9 +32947,9 @@ width = 1084;
 unicode = 0046;
 },
 {
-color = 3;
+color = 6;
 glyphname = G;
-lastChange = "2019-04-19 17:41:06 +0000";
+lastChange = "2019-05-23 17:35:35 +0000";
 layers = (
 {
 layerId = "E0EF3C68-8D2B-44C3-ACB4-9AEF12AB2776";
@@ -43685,9 +43685,9 @@ width = 1073;
 unicode = 0049;
 },
 {
-color = 3;
+color = 6;
 glyphname = J;
-lastChange = "2019-04-19 17:41:06 +0000";
+lastChange = "2019-05-23 17:34:51 +0000";
 layers = (
 {
 layerId = "E0EF3C68-8D2B-44C3-ACB4-9AEF12AB2776";
@@ -63464,9 +63464,9 @@ width = 1161;
 unicode = 0051;
 },
 {
-color = 3;
+color = 6;
 glyphname = R;
-lastChange = "2019-04-19 17:41:06 +0000";
+lastChange = "2019-05-23 17:34:42 +0000";
 layers = (
 {
 layerId = "E0EF3C68-8D2B-44C3-ACB4-9AEF12AB2776";
@@ -77137,7 +77137,7 @@ unicode = 0054;
 {
 color = 3;
 glyphname = U;
-lastChange = "2019-04-19 17:41:06 +0000";
+lastChange = "2019-05-23 17:35:21 +0000";
 layers = (
 {
 layerId = "E0EF3C68-8D2B-44C3-ACB4-9AEF12AB2776";
@@ -80254,9 +80254,9 @@ width = 1083;
 unicode = 0055;
 },
 {
-color = 3;
+color = 6;
 glyphname = V;
-lastChange = "2019-04-19 17:41:06 +0000";
+lastChange = "2019-05-23 17:35:24 +0000";
 layers = (
 {
 layerId = "E0EF3C68-8D2B-44C3-ACB4-9AEF12AB2776";
@@ -82685,9 +82685,9 @@ width = 1108;
 unicode = 0056;
 },
 {
-color = 3;
+color = 6;
 glyphname = W;
-lastChange = "2019-04-19 17:41:06 +0000";
+lastChange = "2019-05-23 17:34:23 +0000";
 layers = (
 {
 layerId = "E0EF3C68-8D2B-44C3-ACB4-9AEF12AB2776";
@@ -86777,9 +86777,9 @@ width = 1139;
 unicode = 0057;
 },
 {
-color = 3;
+color = 6;
 glyphname = Y;
-lastChange = "2019-04-19 17:41:06 +0000";
+lastChange = "2019-05-23 17:34:27 +0000";
 layers = (
 {
 layerId = "E0EF3C68-8D2B-44C3-ACB4-9AEF12AB2776";

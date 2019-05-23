@@ -4,10 +4,10 @@
   <unicode hex="FB00"/>
   <outline>
     <contour>
+      <point x="21" y="328" type="line"/>
       <point x="21" y="351" type="line"/>
       <point x="119" y="388" type="line"/>
       <point x="220" y="346" type="line"/>
-      <point x="21" y="328" type="line"/>
     </contour>
     <contour>
       <point x="195" y="518" type="curve"/>
@@ -45,11 +45,11 @@
       <point x="195" y="606"/>
     </contour>
     <contour>
+      <point x="463" y="386" type="line"/>
       <point x="423" y="342" type="line"/>
       <point x="189" y="342" type="line"/>
       <point x="189" y="398" type="line"/>
       <point x="463" y="398" type="line"/>
-      <point x="463" y="386" type="line"/>
     </contour>
     <contour>
       <point x="482" y="548" type="curve"/>
@@ -87,11 +87,11 @@
       <point x="482" y="636"/>
     </contour>
     <contour>
+      <point x="642" y="386" type="line"/>
       <point x="602" y="342" type="line"/>
       <point x="476" y="342" type="line"/>
       <point x="476" y="398" type="line"/>
       <point x="642" y="398" type="line"/>
-      <point x="642" y="386" type="line"/>
     </contour>
     <contour>
       <point x="389.5" y="0" type="move" name="caret_1"/>

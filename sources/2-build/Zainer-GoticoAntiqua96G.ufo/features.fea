@@ -1,12 +1,15 @@
 # automatic
-@AllLetters = [ A B C D E F G H I J K L M N O P Q R S U T V W X Y Z a a_hook a_macr a_n a_r b b_e b_o b_r b_s c c_hook c_macr c_a c_c c_e c_i c_h c_k c_o c_o_macr c_t c_t_i c_u c_u_macr d d_strok d_e d_e_hook d_e_macr d_o e e_hook e_macr e_etfin f f_a f_e f_f f_i f_l f_o f_r f_u g g_hook g_macr g_e g_e_macr g_i g_o g_r g_u h h_e h_e_macr h_o i dotlessi i_macr i_n i_u i_j j k l l_hook l_i l_u m m_macr n n_macr n_i o o_macr o_e o_r p p_bardes p_hook p_macr p_e p_e_macr p_o p_o_macr p_p p_p_flour p_r q q_etfin q_etfin_macr q_etfin_ra q_hook q_macr q_ra q_strok r r.ss01 r_macr r_a r_a_macr r_e r_o s s.ss01 longs longs_strok longs_c_h longs_i longs_longs longs_t longs_t_i longs_t_u t t_acute t_urrot t_a t_e t_e_macr t_i t_o t_t t_u t_u_macr u u_hook u_macr u_ring u_i v v_hook v_longhook v_e v_o w x y y_dieresis z con rum us ];
+@AllLetters = [ A B C D E F G H I J K L M N O P Q R S U T V W X Y Z a a_hook a_macr a_n a_r b b_e b_o b_r b_s c c_hook c_macr c_a c_c c_e c_i c_h c_k c_o c_o_macr c_t c_t_i c_u c_u_macr d d_strok d_e d_e_hook d_e_macr d_o e e_hook e_macr e_etfin f f_a f_e f_f f_i f_l f_o f_r f_u g g_hook g_macr g_e g_e_macr g_i g_o g_u h h_e h_e_macr h_o i dotlessi i_macr i_n i_u i_j j k l l_hook l_i l_u m m_macr n n_macr n_i o o_macr o_e o_r p p_bardes p_hook p_macr p_e p_e_macr p_o p_o_macr p_p p_p_flour p_r q q_etfin q_etfin_macr q_etfin_ra q_hook q_macr q_ra q_strok r r.ss01 r_macr r_a r_a_macr r_e r_o s s.ss01 longs longs_strok longs_c_h longs_i longs_longs longs_t longs_t_i longs_t_u t t_acute t_urrot t_a t_e t_e_macr t_i t_o t_t t_u t_u_macr u u_hook u_macr u_ring u_i v v_hook v_longhook v_e v_o w x y y_dieresis z con rum us ];
 
 # Prefix: Languagesystems
+# automatic
 languagesystem DFLT dflt;
 
 feature aalt {
-# automatic
 feature hist;
+feature dlig;
+feature liga;
+feature hlig;
 feature salt;
 feature ss01;
 feature ss02;

@@ -48,6 +48,8 @@
 	<string>S_.glif</string>
 	<key>T</key>
 	<string>T_.glif</string>
+	<key>Totenkopf2</key>
+	<string>T_otenkopf2.glif</string>
 	<key>U</key>
 	<string>U_.glif</string>
 	<key>V</key>
@@ -130,6 +132,8 @@
 	<string>m.glif</string>
 	<key>mann</key>
 	<string>mann.glif</string>
+	<key>maske</key>
+	<string>maske.glif</string>
 	<key>mond</key>
 	<string>mond.glif</string>
 	<key>n</key>
@@ -162,6 +166,8 @@
 	<string>s.glif</string>
 	<key>semicolon</key>
 	<string>semicolon.glif</string>
+	<key>soldat</key>
+	<string>soldat.glif</string>
 	<key>space</key>
 	<string>space.glif</string>
 	<key>t</key>

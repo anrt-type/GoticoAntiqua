@@ -7,6 +7,8 @@
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
+	<key>com.schriftgestaltung.font.Disable Subroutines</key>
+	<true/>
 	<key>com.schriftgestaltung.font.Use Typo Metrics</key>
 	<true/>
 	<key>com.schriftgestaltung.font.license</key>
@@ -149,8 +151,11 @@
 		<string>koenigspaar</string>
 		<string>cranach_1</string>
 		<string>cranach_2</string>
+		<string>soldat</string>
 		<string>eins_mensch</string>
+		<string>maske</string>
 		<string>mann</string>
+		<string>Totenkopf2</string>
 	</array>
 	<key>com.schriftgestaltung.master.name</key>
 	<string>Cicero 12</string>
@@ -247,8 +252,11 @@
 		<string>koenigspaar</string>
 		<string>cranach_1</string>
 		<string>cranach_2</string>
+		<string>soldat</string>
 		<string>eins_mensch</string>
+		<string>maske</string>
 		<string>mann</string>
+		<string>Totenkopf2</string>
 	</array>
 </dict>
 </plist>

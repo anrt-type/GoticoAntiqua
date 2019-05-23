@@ -1,5 +1,5 @@
 {
-.appVersion = "1231";
+.appVersion = "1233";
 classes = (
 {
 automatic = 1;
@@ -241,7 +241,7 @@ code = "sub c t by c_t;\012sub f f by f_f;\012sub g i by g_i;\012sub i n by i_n;
 name = liga;
 },
 {
-code = "sub r by r.ss01;\012sub s by longs;\012sub @AllLetters longs' [emspace enspace threeperemspace fourperemspace space thinspace hairspace period comma colon] by s;";
+code = "sub A by A.ss01;\012sub B by B.ss01;\012sub D by D.ss01;\012sub L by L.ss01;\012sub M by M.ss01;\012sub N by N.ss01;\012sub P by P.ss01;\012sub R by R.ss01;\012sub S by S.ss01;\012sub V by V.ss01;\012sub X by X.ss01;\012sub r by r.ss01;\012sub s by longs;\012sub @AllLetters longs' [emspace enspace threeperemspace fourperemspace space thinspace hairspace period comma colon] by s;";
 name = hist;
 },
 {

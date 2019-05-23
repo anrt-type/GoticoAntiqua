@@ -2,29 +2,8 @@
 <glyph name="n_macr" format="1">
   <advance width="486"/>
   <outline>
-    <contour>
-      <point x="185" y="507.2635" type="curve"/>
-      <point x="161" y="522.6074" type="line"/>
-      <point x="175" y="550.9346"/>
-      <point x="197" y="583.983"/>
-      <point x="227" y="618.2117" type="curve"/>
-      <point x="305" y="618.2117"/>
-      <point x="358" y="604.0481"/>
-      <point x="402" y="640.6374" type="curve"/>
-      <point x="430" y="626.4738" type="line"/>
-      <point x="413" y="602.8678"/>
-      <point x="396" y="562.7376"/>
-      <point x="371" y="527.3286" type="curve"/>
-      <point x="310" y="522.6074"/>
-      <point x="234" y="546.2134"/>
-    </contour>
     <component base="n"/>
-    <contour>
-      <point x="291" y="336.12" type="move" name="_top"/>
-    </contour>
-    <contour>
-      <point x="291" y="658.3419" type="move" name="top"/>
-    </contour>
+    <component base="macr" yScale="1.1803" xOffset="121" yOffset="-136"/>
   </outline>
   <lib>
     <dict>
@@ -34,13 +13,13 @@
           <key>alignment</key>
           <integer>-1</integer>
           <key>index</key>
-          <integer>0</integer>
+          <integer>1</integer>
           <key>name</key>
-          <string>n</string>
+          <string>macr</string>
         </dict>
       </array>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019-04-24 19:29:53 +0000</string>
+      <string>2019-04-13 16:45:34 +0000</string>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>

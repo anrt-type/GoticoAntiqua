@@ -4,6 +4,7 @@
 <dict>
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
+		<string>/mond/kopf/koenigspaar/cranach_1/cranach_2/eins_mensch/mann</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
@@ -168,10 +169,9 @@
 		<string>cranach_2</string>
 		<string>soldat</string>
 		<string>eins_mensch</string>
-		<string>totenkopf_1</string>
-		<string>totenkopf_2</string>
 		<string>maske</string>
 		<string>mann</string>
+		<string>Totenkopf2</string>
 	</array>
 	<key>com.schriftgestaltung.master.name</key>
 	<string>Tertia 18</string>
@@ -288,8 +288,11 @@
 		<string>koenigspaar</string>
 		<string>cranach_1</string>
 		<string>cranach_2</string>
+		<string>soldat</string>
 		<string>eins_mensch</string>
+		<string>maske</string>
 		<string>mann</string>
+		<string>Totenkopf2</string>
 	</array>
 </dict>
 </plist>

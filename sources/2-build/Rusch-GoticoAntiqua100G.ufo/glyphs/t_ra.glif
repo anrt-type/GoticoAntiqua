@@ -2,34 +2,8 @@
 <glyph name="t_ra" format="1">
   <advance width="338"/>
   <outline>
-    <contour>
-      <point x="35.14" y="638.84" type="curve"/>
-      <point x="49.238" y="659.93"/>
-      <point x="79.448" y="683.24"/>
-      <point x="101.602" y="701" type="curve"/>
-      <point x="117.714" y="659.93"/>
-      <point x="140.875" y="631.07"/>
-      <point x="156.987" y="628.85" type="curve"/>
-      <point x="188.204" y="644.39"/>
-      <point x="214.386" y="677.69"/>
-      <point x="238.554" y="698.78" type="curve"/>
-      <point x="289.911" y="641.06"/>
-      <point x="291.925" y="634.4"/>
-      <point x="328.177" y="657.71" type="curve"/>
-      <point x="342.275" y="638.84" type="line"/>
-      <point x="334.219" y="629.96"/>
-      <point x="312.065" y="604.43"/>
-      <point x="261.715" y="548.93" type="curve"/>
-      <point x="247.617" y="570.02"/>
-      <point x="223.449" y="607.76"/>
-      <point x="189.211" y="623.3" type="curve"/>
-      <point x="155.98" y="596.66"/>
-      <point x="134.833" y="576.68"/>
-      <point x="114.693" y="550.04" type="curve"/>
-      <point x="78.441" y="572.24"/>
-      <point x="57.294" y="603.32"/>
-    </contour>
     <component base="t" xOffset="4"/>
+    <component base="ra" xScale="1.007" yScale="1.11" xOffset="15" yOffset="-76"/>
   </outline>
   <lib>
     <dict>
@@ -43,9 +17,17 @@
           <key>name</key>
           <string>t</string>
         </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>ra</string>
+        </dict>
       </array>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019-04-24 19:30:29 +0000</string>
+      <string>2019-04-19 17:27:44 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>t</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

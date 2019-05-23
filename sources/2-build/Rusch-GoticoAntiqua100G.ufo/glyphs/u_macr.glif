@@ -3,29 +3,8 @@
   <advance width="504"/>
   <unicode hex="016B"/>
   <outline>
-    <contour>
-      <point x="157.6304" y="506.813" type="curve"/>
-      <point x="131.144" y="523.6012" type="line"/>
-      <point x="146.5944" y="554.5948"/>
-      <point x="170.8736" y="590.754"/>
-      <point x="203.9816" y="628.2046" type="curve"/>
-      <point x="290.0624" y="628.2046"/>
-      <point x="348.5532" y="612.7078"/>
-      <point x="397.1116" y="652.7412" type="curve"/>
-      <point x="428.0124" y="637.2444" type="line"/>
-      <point x="409.2512" y="611.4164"/>
-      <point x="390.49" y="567.5088"/>
-      <point x="362.9" y="528.7668" type="curve"/>
-      <point x="295.5804" y="523.6012"/>
-      <point x="211.7068" y="549.4292"/>
-    </contour>
     <component base="u"/>
-    <contour>
-      <point x="274.612" y="319.56" type="move" name="_top"/>
-    </contour>
-    <contour>
-      <point x="274.612" y="672.1122" type="move" name="top"/>
-    </contour>
+    <component base="macr" xScale="1.1036" yScale="1.2914" xOffset="87" yOffset="-197"/>
   </outline>
   <lib>
     <dict>
@@ -35,13 +14,13 @@
           <key>alignment</key>
           <integer>-1</integer>
           <key>index</key>
-          <integer>0</integer>
+          <integer>1</integer>
           <key>name</key>
-          <string>u</string>
+          <string>macr</string>
         </dict>
       </array>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019-04-24 19:30:35 +0000</string>
+      <string>2019-04-13 16:55:51 +0000</string>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>

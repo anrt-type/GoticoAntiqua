@@ -2,30 +2,8 @@
 <glyph name="u_hook" format="1">
   <advance width="504"/>
   <outline>
-    <contour>
-      <point x="128.13" y="633" type="line"/>
-      <point x="130.35" y="610.8" type="line"/>
-      <point x="179.19" y="615.24"/>
-      <point x="230.25" y="614.13"/>
-      <point x="230.25" y="567.51" type="curve"/>
-      <point x="230.25" y="550.86"/>
-      <point x="219.15" y="538.65"/>
-      <point x="202.5" y="513.12" type="curve"/>
-      <point x="221.37" y="496.47" type="line"/>
-      <point x="253.56" y="523.11"/>
-      <point x="284.64" y="556.41"/>
-      <point x="317.94" y="601.92" type="curve"/>
-      <point x="329.04" y="681.84"/>
-      <point x="276.87" y="711.81"/>
-      <point x="200.28" y="711.81" type="curve"/>
-    </contour>
     <component base="u"/>
-    <contour>
-      <point x="211.38" y="411" type="move" name="_top"/>
-    </contour>
-    <contour>
-      <point x="211.38" y="761.76" type="move" name="top"/>
-    </contour>
+    <component base="hook" xScale="1.11" yScale="1.11" xOffset="36" yOffset="-33"/>
   </outline>
   <lib>
     <dict>
@@ -35,13 +13,13 @@
           <key>alignment</key>
           <integer>-1</integer>
           <key>index</key>
-          <integer>0</integer>
+          <integer>1</integer>
           <key>name</key>
-          <string>u</string>
+          <string>hook</string>
         </dict>
       </array>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019-04-24 19:30:32 +0000</string>
+      <string>2019-04-13 16:55:31 +0000</string>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>

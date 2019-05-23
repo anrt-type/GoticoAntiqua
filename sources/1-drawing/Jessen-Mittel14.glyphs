@@ -1,5 +1,8 @@
 {
 .appVersion = "1233";
+DisplayStrings = (
+"s s"
+);
 classes = (
 {
 automatic = 1;
@@ -4003,7 +4006,7 @@ unicode = 0072;
 {
 color = 4;
 glyphname = s;
-lastChange = "2019-04-24 17:58:22 +0000";
+lastChange = "2019-05-23 18:11:10 +0000";
 layers = (
 {
 layerId = "DAB95E6E-43D9-4086-BFEC-49256C9AEEE3";
@@ -4034,8 +4037,8 @@ nodes = (
 "124 186 OFFCURVE",
 "171 208 OFFCURVE",
 "233 229 CURVE",
-"249 220 OFFCURVE",
-"254 208 OFFCURVE",
+"248 220 OFFCURVE",
+"256 208 OFFCURVE",
 "262 194 CURVE",
 "265 128 OFFCURVE",
 "260 46 OFFCURVE",

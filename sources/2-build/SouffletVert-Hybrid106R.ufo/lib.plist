@@ -2,24 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>GSDimensionPlugin.Dimensions</key>
-	<dict>
-		<key>0E913661-75E6-4305-BF89-58B721FF741E</key>
-		<dict>
-			<key>HH</key>
-			<string>45</string>
-			<key>HV</key>
-			<string>100</string>
-			<key>OH</key>
-			<string>45</string>
-			<key>OV</key>
-			<string>110</string>
-			<key>nV</key>
-			<string>85</string>
-			<key>nd</key>
-			<string>35</string>
-		</dict>
-	</dict>
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
 	</array>
@@ -31,6 +13,27 @@
 	<string>SIL OPEN FONT LICENSE (OFL 1.1)</string>
 	<key>com.schriftgestaltung.font.licenseURL</key>
 	<string>https://opensource.org/licenses/OFL-1.1</string>
+	<key>com.schriftgestaltung.font.userData</key>
+	<dict>
+		<key>GSDimensionPlugin.Dimensions</key>
+		<dict>
+			<key>0E913661-75E6-4305-BF89-58B721FF741E</key>
+			<dict>
+				<key>HH</key>
+				<string>45</string>
+				<key>HV</key>
+				<string>100</string>
+				<key>OH</key>
+				<string>45</string>
+				<key>OV</key>
+				<string>110</string>
+				<key>nV</key>
+				<string>85</string>
+				<key>nd</key>
+				<string>35</string>
+			</dict>
+		</dict>
+	</dict>
 	<key>com.schriftgestaltung.fontMaster.userData</key>
 	<dict>
 		<key>GSCornerRadius</key>

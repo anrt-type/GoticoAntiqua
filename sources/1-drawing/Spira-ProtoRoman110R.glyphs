@@ -1,5 +1,5 @@
 {
-.appVersion = "1231";
+.appVersion = "1233";
 classes = (
 {
 automatic = 1;
@@ -197,7 +197,7 @@ code = "sub Q u by Q_u;\012sub c t by c_t;\012sub f f by f_f;\012sub f i by f_i;
 name = hlig;
 },
 {
-code = "sub Q u by Q_u;\012sub c t by c_t;\012sub f f by f_f;\012sub f i by f_i;\012sub f l by f_l;\012sub i i by i_j;\012sub longs f by longs_f;\012sub longs longs by longs_longs;\012sub longs t by longs_t;\012";
+code = "sub Q u by Q_u;\012sub c t by c_t;\012sub f f by f_f;\012sub f i by f_i;\012sub f l by f_l;\012sub longs f by longs_f;\012sub longs longs by longs_longs;\012sub longs t by longs_t;\012";
 name = liga;
 },
 {
@@ -211,7 +211,7 @@ name = salt;
 {
 code = "sub Q_u by Q_u.ss01;\012";
 name = ss01;
-notes = "Name: Alternate Q_u";
+notes = "Name: Alternate Q";
 },
 {
 code = "sub s by longs;";

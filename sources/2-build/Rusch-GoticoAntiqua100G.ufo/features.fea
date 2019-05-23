@@ -2,6 +2,7 @@
 @AllLetters = [ A A.ss01 B B.ss01 C D D.ss01 D.ss02 E F G H I J K L L.ss01 M M.ss01 N N.ss01 O P P.ss01 Q Q_bardes Q_strok R R.ss01 S S.ss01 T U V V.ss01 W X X.ss01 Y.ss01 Z a a_macr b b_hook c c_hook c_macr c_ra c_t d d_strok e e_hook e_macr f f_f g g_hook g_ra g_i h h_hook i idotless i.ss01 i_macr i_n j k l l_hook m m_macr n n_hook n_macr o o_macr p p_bardes p_hook p_flour p_macr p_p p_p_flour p_ra p_urrot q q_hook q_macr q_ra q_strok q_strok_ra r r.ss01 r_hook r_macr s longs longs_i longs_longs longs_strok longs_t t t_acute t_macr t_ra t_tilde u u_hook u_macr v v_hook w x y z con etfin rum usmod ];
 
 # Prefix: Languagesystems
+# automatic
 languagesystem DFLT dflt;
 
 feature aalt {
@@ -109,6 +110,17 @@ sub longs t by longs_t;
 } liga;
 
 feature hist {
+sub A by A.ss01;
+sub B by B.ss01;
+sub D by D.ss01;
+sub L by L.ss01;
+sub M by M.ss01;
+sub N by N.ss01;
+sub P by P.ss01;
+sub R by R.ss01;
+sub S by S.ss01;
+sub V by V.ss01;
+sub X by X.ss01;
 sub r by r.ss01;
 sub s by longs;
 sub @AllLetters longs' [emspace enspace threeperemspace fourperemspace space thinspace hairspace period comma colon] by s;

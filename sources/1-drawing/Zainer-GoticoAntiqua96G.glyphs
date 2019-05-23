@@ -1,9 +1,5 @@
 {
-.appVersion = "1231";
-DisplayStrings = (
-"\012\012ABCDEFGHIJKLM\012NOPQRSTUVWXYTZ\012abcdefghijklmnopqrstuvw xyz\0121234567890",
-"The translation of the Bible into Latin marks the beginning of a parting of the ways between Western Latin-speaking Christianity and Eastern Christianity, which spoke Greek, Syriac, Coptic, Ethiopic, and other languages. The Bibles of the Eastern Churches vary considerably: the Ethiopic Orthodox canon includes 81 books and contains many apocalyptic texts, such as were found at Qumran and subsequently excluded from the Jewish canon. As a general rule, one can say that the Orthodox Churches generally follow the Septuagint in including more books in their Old Testaments than are in the Jewish canon."
-);
+.appVersion = "1233";
 classes = (
 {
 automatic = 1;
@@ -287,8 +283,7 @@ name = Languagesystems;
 );
 features = (
 {
-automatic = 1;
-code = "feature hist;\012feature salt;\012feature ss01;\012feature ss02;\012feature ss03;\012";
+code = "feature hist;\012feature dlig;\012feature liga;\012feature hlig;\012feature salt;\012feature ss01;\012feature ss02;\012feature ss03;\012";
 name = aalt;
 },
 {

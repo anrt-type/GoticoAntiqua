@@ -13005,16 +13005,6 @@ width = 323;
 }
 );
 unicode = 002D;
-},
-{
-glyphname = bardes;
-lastChange = "2019-04-23 14:12:32 +0000";
-layers = (
-{
-layerId = "A23182C3-7ED8-49EC-89D2-A828F09177C3";
-width = 600;
-}
-);
 }
 );
 instances = (

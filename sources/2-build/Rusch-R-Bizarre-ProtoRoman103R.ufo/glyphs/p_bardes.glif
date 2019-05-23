@@ -4,13 +4,13 @@
   <unicode hex="A750"/>
   <outline>
     <contour>
+      <point x="177" y="-121" type="line"/>
       <point x="21" y="-124" type="line"/>
       <point x="22" y="-160" type="line"/>
       <point x="136" y="-162"/>
       <point x="255" y="-167"/>
       <point x="369" y="-175" type="curve"/>
       <point x="372" y="-161" type="line"/>
-      <point x="177" y="-121" type="line"/>
     </contour>
     <component base="p"/>
     <contour>

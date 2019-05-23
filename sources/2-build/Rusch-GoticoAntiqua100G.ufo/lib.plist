@@ -2,22 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>GSDimensionPlugin.Dimensions</key>
-	<dict>
-		<key>483C873A-D416-4B5C-89C7-58C63F6F94B2</key>
-		<dict>
-			<key>HH</key>
-			<string>45</string>
-			<key>HV</key>
-			<string>105</string>
-			<key>OH</key>
-			<string>45</string>
-			<key>OV</key>
-			<string>115</string>
-			<key>nV</key>
-			<string>100</string>
-		</dict>
-	</dict>
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
 	</array>
@@ -29,6 +13,91 @@
 	<string>SIL OPEN FONT LICENSE (OFL 1.1)</string>
 	<key>com.schriftgestaltung.font.licenseURL</key>
 	<string>https://opensource.org/licenses/OFL-1.1</string>
+	<key>com.schriftgestaltung.font.userData</key>
+	<dict>
+		<key>GSDimensionPlugin.Dimensions</key>
+		<dict>
+			<key>483C873A-D416-4B5C-89C7-58C63F6F94B2</key>
+			<dict>
+				<key>HH</key>
+				<string>45</string>
+				<key>HV</key>
+				<string>105</string>
+				<key>OH</key>
+				<string>45</string>
+				<key>OV</key>
+				<string>115</string>
+				<key>nV</key>
+				<string>100</string>
+			</dict>
+		</dict>
+		<key>com.schriftgestaltung.font.fsType</key>
+		<array>
+			<integer>2</integer>
+		</array>
+		<key>com.schriftgestaltung.font.glyphOrder</key>
+		<array>
+			<string>.notdef</string>
+			<string>l</string>
+			<string>k</string>
+			<string>i</string>
+			<string>j</string>
+			<string>B</string>
+			<string>A</string>
+			<string>C</string>
+			<string>D</string>
+			<string>F</string>
+			<string>h</string>
+			<string>b</string>
+			<string>d</string>
+			<string>e</string>
+			<string>m</string>
+			<string>n</string>
+			<string>o</string>
+			<string>G</string>
+			<string>H</string>
+			<string>K</string>
+			<string>L</string>
+			<string>I</string>
+			<string>O</string>
+			<string>P</string>
+			<string>a</string>
+			<string>g</string>
+			<string>r</string>
+			<string>longs</string>
+			<string>M</string>
+			<string>E</string>
+			<string>Q.alt</string>
+			<string>R</string>
+			<string>S</string>
+			<string>T</string>
+			<string>V</string>
+			<string>X</string>
+			<string>Y</string>
+			<string>Z</string>
+			<string>N</string>
+			<string>c</string>
+			<string>f</string>
+			<string>p</string>
+			<string>q</string>
+			<string>s</string>
+			<string>t</string>
+			<string>u</string>
+			<string>v</string>
+			<string>y</string>
+			<string>z</string>
+			<string>x</string>
+			<string>P.alt</string>
+			<string>A.alt</string>
+			<string>L.alt</string>
+			<string>v.alt</string>
+			<string>Q</string>
+			<string>S.alt</string>
+			<string>space</string>
+			<string>w</string>
+			<string>W</string>
+		</array>
+	</dict>
 	<key>com.schriftgestaltung.fontMasterID</key>
 	<string>483C873A-D416-4B5C-89C7-58C63F6F94B2</string>
 	<key>com.schriftgestaltung.glyphOrder</key>

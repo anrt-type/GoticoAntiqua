@@ -72,7 +72,6 @@ sub c t by c_t;
 sub f f by f_f;
 sub f i by f_i;
 sub f l by f_l;
-sub i i by i_j;
 sub longs f by longs_f;
 sub longs longs by longs_longs;
 sub longs t by longs_t;

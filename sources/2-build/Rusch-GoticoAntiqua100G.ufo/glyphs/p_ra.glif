@@ -2,34 +2,8 @@
 <glyph name="p_ra" format="1">
   <advance width="580"/>
   <outline>
-    <contour>
-      <point x="137.2" y="600.84" type="curve"/>
-      <point x="152.74" y="621.93"/>
-      <point x="186.04" y="645.24"/>
-      <point x="210.46" y="663" type="curve"/>
-      <point x="228.22" y="621.93"/>
-      <point x="253.75" y="593.07"/>
-      <point x="271.51" y="590.85" type="curve"/>
-      <point x="305.92" y="606.39"/>
-      <point x="334.78" y="639.69"/>
-      <point x="361.42" y="660.78" type="curve"/>
-      <point x="418.03" y="603.06"/>
-      <point x="420.25" y="596.4"/>
-      <point x="460.21" y="619.71" type="curve"/>
-      <point x="475.75" y="600.84" type="line"/>
-      <point x="466.87" y="591.96"/>
-      <point x="442.45" y="566.43"/>
-      <point x="386.95" y="510.93" type="curve"/>
-      <point x="371.41" y="532.02"/>
-      <point x="344.77" y="569.76"/>
-      <point x="307.03" y="585.3" type="curve"/>
-      <point x="270.4" y="558.66"/>
-      <point x="247.09" y="538.68"/>
-      <point x="224.89" y="512.04" type="curve"/>
-      <point x="184.93" y="534.24"/>
-      <point x="161.62" y="565.32"/>
-    </contour>
     <component base="p"/>
+    <component base="ra" xScale="1.11" yScale="1.11" xOffset="115" yOffset="-114"/>
   </outline>
   <lib>
     <dict>
@@ -43,9 +17,17 @@
           <key>name</key>
           <string>p</string>
         </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>ra</string>
+        </dict>
       </array>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019-04-24 19:30:09 +0000</string>
+      <string>2019-04-13 16:46:20 +0000</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>p</string>
       <key>public.markColor</key>

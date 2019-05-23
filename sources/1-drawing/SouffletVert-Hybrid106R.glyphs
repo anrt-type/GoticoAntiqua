@@ -1,5 +1,5 @@
 {
-.appVersion = "1231";
+.appVersion = "1233";
 classes = (
 {
 automatic = 1;
@@ -5923,7 +5923,7 @@ width = 337;
 {
 color = 10;
 glyphname = etfin;
-lastChange = "2019-04-23 09:37:34 +0000";
+lastChange = "2019-05-23 16:32:07 +0000";
 layers = (
 {
 anchors = (
@@ -5934,12 +5934,6 @@ position = "{272, -5}";
 {
 name = top;
 position = "{272, 385}";
-}
-);
-annotations = (
-{
-position = "{138.93, -82.211}";
-type = Plus;
 }
 );
 layerId = "0E913661-75E6-4305-BF89-58B721FF741E";
@@ -6316,7 +6310,7 @@ unicode = 002F;
 {
 color = 10;
 glyphname = hyphen;
-lastChange = "2019-04-24 17:09:03 +0000";
+lastChange = "2019-05-23 16:31:18 +0000";
 layers = (
 {
 layerId = "0E913661-75E6-4305-BF89-58B721FF741E";
@@ -6324,23 +6318,23 @@ paths = (
 {
 closed = 1;
 nodes = (
-"20 96 LINE",
-"25 90 LINE",
-"271 141 LINE",
-"290 188 LINE",
-"286 193 LINE",
-"36 127 LINE"
+"20 125 LINE",
+"25 119 LINE",
+"271 170 LINE",
+"290 217 LINE",
+"286 222 LINE",
+"36 156 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"24 285 LINE",
-"29 279 LINE",
-"271 349 LINE",
-"288 397 LINE",
-"284 402 LINE",
-"36 317 LINE"
+"24 265 LINE",
+"29 259 LINE",
+"271 329 LINE",
+"288 377 LINE",
+"284 382 LINE",
+"36 297 LINE"
 );
 }
 );

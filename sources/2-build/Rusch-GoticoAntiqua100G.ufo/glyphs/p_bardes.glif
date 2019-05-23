@@ -3,20 +3,8 @@
   <advance width="610"/>
   <unicode hex="A750"/>
   <outline>
-    <contour>
-      <point x="465.78" y="-66.71" type="curve"/>
-      <point x="501.3" y="-82.25" type="line"/>
-      <point x="479.1" y="-136.64"/>
-      <point x="440.25" y="-173.27"/>
-      <point x="419.16" y="-173.27" type="curve"/>
-      <point x="253.77" y="-173.27"/>
-      <point x="144.99" y="-172.16"/>
-      <point x="35.1" y="-183.26" type="curve"/>
-      <point x="43.98" y="-145.52" type="line"/>
-      <point x="217.14" y="-136.64"/>
-      <point x="396.96" y="-136.64"/>
-    </contour>
     <component base="p" xOffset="30"/>
+    <component base="bardes" xScale="1.11" yScale="1.11" xOffset="24" yOffset="1"/>
   </outline>
   <lib>
     <dict>
@@ -30,9 +18,17 @@
           <key>name</key>
           <string>p</string>
         </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>bardes</string>
+        </dict>
       </array>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019-04-24 19:30:01 +0000</string>
+      <string>2019-03-11 17:51:36 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>p</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
