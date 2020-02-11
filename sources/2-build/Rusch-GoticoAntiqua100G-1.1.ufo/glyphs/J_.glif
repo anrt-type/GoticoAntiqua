@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="J" format="1">
+  <advance width="336"/>
+  <unicode hex="004A"/>
+  <outline>
+    <contour>
+      <point x="-55" y="-118" type="curve"/>
+      <point x="-46" y="-150" type="line"/>
+      <point x="71" y="-150"/>
+      <point x="231" y="-95"/>
+      <point x="231" y="125" type="curve"/>
+      <point x="231" y="219"/>
+      <point x="232" y="445"/>
+      <point x="232" y="628" type="curve"/>
+      <point x="232" y="659"/>
+      <point x="242" y="658"/>
+      <point x="296" y="672" type="curve"/>
+      <point x="296" y="703" type="line"/>
+      <point x="237" y="700"/>
+      <point x="72" y="700"/>
+      <point x="12" y="703" type="curve"/>
+      <point x="12" y="671" type="line"/>
+      <point x="108" y="656"/>
+      <point x="128" y="644"/>
+      <point x="128" y="603" type="curve"/>
+      <point x="128" y="125" type="line" smooth="yes"/>
+      <point x="128" y="-62"/>
+      <point x="29" y="-118"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>H</string>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,1</string>
+    </dict>
+  </lib>
+</glyph>

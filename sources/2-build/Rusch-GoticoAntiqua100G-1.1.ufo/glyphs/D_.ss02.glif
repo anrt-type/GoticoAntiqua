@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="D.ss02" format="1">
+  <advance width="895"/>
+  <outline>
+    <contour>
+      <point x="495" y="-196" type="curve"/>
+      <point x="495" y="-196" type="line"/>
+      <point x="703" y="-196"/>
+      <point x="870" y="-19"/>
+      <point x="870" y="174" type="curve"/>
+      <point x="870" y="313"/>
+      <point x="789" y="416"/>
+      <point x="696" y="477" type="curve"/>
+      <point x="629" y="521"/>
+      <point x="476" y="592"/>
+      <point x="449" y="602" type="curve"/>
+      <point x="347" y="595"/>
+      <point x="297" y="583"/>
+      <point x="231" y="582" type="curve"/>
+      <point x="107" y="580"/>
+      <point x="72" y="622"/>
+      <point x="110" y="679" type="curve"/>
+      <point x="84" y="687" type="line"/>
+      <point x="52" y="657"/>
+      <point x="0" y="622"/>
+      <point x="0" y="592" type="curve"/>
+      <point x="0" y="548"/>
+      <point x="81" y="517"/>
+      <point x="196" y="517" type="curve"/>
+      <point x="272" y="517"/>
+      <point x="294" y="530"/>
+      <point x="353" y="530" type="curve"/>
+      <point x="377" y="530"/>
+      <point x="401" y="529"/>
+      <point x="422" y="519" type="curve"/>
+      <point x="257" y="482"/>
+      <point x="123" y="325"/>
+      <point x="123" y="154" type="curve"/>
+      <point x="123" y="-61"/>
+      <point x="292" y="-196"/>
+    </contour>
+    <contour>
+      <point x="517" y="-153" type="curve"/>
+      <point x="517" y="-153" type="line"/>
+      <point x="363" y="-153"/>
+      <point x="237" y="-7"/>
+      <point x="237" y="184" type="curve"/>
+      <point x="237" y="349"/>
+      <point x="325" y="481"/>
+      <point x="473" y="481" type="curve"/>
+      <point x="627" y="481"/>
+      <point x="753" y="345"/>
+      <point x="753" y="154" type="curve"/>
+      <point x="753" y="-11"/>
+      <point x="666" y="-153"/>
+    </contour>
+    <contour>
+      <point x="465" y="-185" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="79" y="-185" type="move" name="bottomleft"/>
+    </contour>
+    <contour>
+      <point x="851" y="-185" type="move" name="bottomright"/>
+    </contour>
+    <contour>
+      <point x="465" y="165" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="141" y="505" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="465" y="515" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="mond" format="2">
+	<advance width="922"/>
+	<outline>
+		<contour>
+			<point x="577" y="10" type="curve"/>
+			<point x="577" y="10" type="line"/>
+			<point x="752" y="50"/>
+			<point x="883" y="235"/>
+			<point x="871" y="368" type="curve"/>
+			<point x="855" y="364" type="line"/>
+			<point x="855" y="245"/>
+			<point x="737" y="125"/>
+			<point x="617" y="90" type="curve"/>
+			<point x="421" y="32"/>
+			<point x="248" y="90"/>
+			<point x="135" y="263" type="curve"/>
+			<point x="61" y="377"/>
+			<point x="78" y="546"/>
+			<point x="161" y="685" type="curve"/>
+			<point x="147" y="690" type="line"/>
+			<point x="98" y="623"/>
+			<point x="69" y="566"/>
+			<point x="56" y="488" type="curve"/>
+			<point x="23" y="290"/>
+			<point x="120" y="115"/>
+			<point x="269" y="43" type="curve"/>
+			<point x="364" y="-3"/>
+			<point x="474" y="-14"/>
+		</contour>
+	</outline>
+</glyph>

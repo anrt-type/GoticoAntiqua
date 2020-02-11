@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="b" format="1">
+  <advance width="463"/>
+  <unicode hex="0062"/>
+  <outline>
+    <contour>
+      <point x="304" y="410" type="curve"/>
+      <point x="304" y="410" type="line"/>
+      <point x="282" y="410"/>
+      <point x="181" y="368"/>
+      <point x="143" y="346" type="curve"/>
+      <point x="142" y="457"/>
+      <point x="139" y="596"/>
+      <point x="153" y="701" type="curve"/>
+      <point x="142" y="711" type="line"/>
+      <point x="112" y="704"/>
+      <point x="55" y="686"/>
+      <point x="15" y="672" type="curve"/>
+      <point x="15" y="661" type="line"/>
+      <point x="64" y="625"/>
+      <point x="69" y="502"/>
+      <point x="69" y="379" type="curve"/>
+      <point x="69" y="249"/>
+      <point x="66" y="183"/>
+      <point x="54" y="3" type="curve"/>
+      <point x="103" y="5"/>
+      <point x="153" y="-5"/>
+      <point x="210" y="-5" type="curve"/>
+      <point x="335" y="-5"/>
+      <point x="438" y="103"/>
+      <point x="438" y="218" type="curve"/>
+      <point x="438" y="315"/>
+      <point x="382" y="384"/>
+    </contour>
+    <contour>
+      <point x="308" y="57" type="curve"/>
+      <point x="308" y="57" type="line"/>
+      <point x="237" y="44"/>
+      <point x="184" y="60"/>
+      <point x="148" y="76" type="curve"/>
+      <point x="143" y="159"/>
+      <point x="143" y="223"/>
+      <point x="143" y="304" type="curve"/>
+      <point x="158" y="319"/>
+      <point x="203" y="334"/>
+      <point x="245" y="334" type="curve"/>
+      <point x="330" y="334"/>
+      <point x="385" y="271"/>
+      <point x="385" y="187" type="curve"/>
+      <point x="385" y="127"/>
+      <point x="360" y="83"/>
+    </contour>
+    <contour>
+      <point x="234" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="234" y="700" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-24 16:49:08 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>o</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <integer>1</integer>
+        <real>0.929</real>
+        <integer>1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

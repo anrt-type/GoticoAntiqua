@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="colon" format="1">
+  <advance width="158"/>
+  <unicode hex="003A"/>
+  <outline>
+    <contour>
+      <point x="75" y="207" type="curve"/>
+      <point x="75" y="207" type="line"/>
+      <point x="98" y="224"/>
+      <point x="120" y="246"/>
+      <point x="138" y="263" type="curve"/>
+      <point x="123" y="286"/>
+      <point x="106" y="311"/>
+      <point x="84" y="328" type="curve"/>
+      <point x="63" y="316"/>
+      <point x="37" y="294"/>
+      <point x="20" y="273" type="curve"/>
+      <point x="36" y="252"/>
+      <point x="61" y="225"/>
+    </contour>
+    <contour>
+      <point x="75" y="-16" type="curve"/>
+      <point x="75" y="-16" type="line"/>
+      <point x="98" y="1"/>
+      <point x="120" y="23"/>
+      <point x="138" y="40" type="curve"/>
+      <point x="123" y="63"/>
+      <point x="106" y="88"/>
+      <point x="84" y="105" type="curve"/>
+      <point x="63" y="93"/>
+      <point x="37" y="71"/>
+      <point x="20" y="50" type="curve"/>
+      <point x="36" y="29"/>
+      <point x="61" y="2"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-03-11 19:49:30 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <integer>1</integer>
+        <real>0.929</real>
+        <integer>1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

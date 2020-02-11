@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Adieresis" format="2">
+	<advance width="721"/>
+	<unicode hex="00C4"/>
+	<outline>
+		<contour>
+			<point x="270" y="701" type="line"/>
+			<point x="5" y="0" type="line"/>
+			<point x="93" y="0" type="line"/>
+			<point x="109" y="50"/>
+			<point x="123" y="98"/>
+			<point x="138" y="146" type="curve"/>
+			<point x="271" y="143"/>
+			<point x="404" y="140"/>
+			<point x="537" y="118" type="curve"/>
+			<point x="551" y="80"/>
+			<point x="565" y="40"/>
+			<point x="578" y="0" type="curve"/>
+			<point x="716" y="0" type="line"/>
+			<point x="616" y="174"/>
+			<point x="506" y="468"/>
+			<point x="396" y="702" type="curve"/>
+		</contour>
+		<contour>
+			<point x="502" y="210" type="curve"/>
+			<point x="502" y="210" type="line"/>
+			<point x="390" y="210"/>
+			<point x="278" y="212"/>
+			<point x="165" y="230" type="curve"/>
+			<point x="207" y="357"/>
+			<point x="255" y="480"/>
+			<point x="326" y="612" type="curve"/>
+			<point x="392" y="477"/>
+			<point x="449" y="347"/>
+		</contour>
+		<contour>
+			<point x="30" y="569" type="line"/>
+			<point x="35" y="566" type="line"/>
+			<point x="105" y="577" type="line"/>
+			<point x="202" y="698" type="line"/>
+			<point x="85" y="695" type="line"/>
+		</contour>
+		<contour>
+			<point x="509" y="609" type="line"/>
+			<point x="571" y="599" type="line"/>
+			<point x="654" y="703" type="line"/>
+			<point x="651" y="706" type="line"/>
+			<point x="538" y="707" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.97,0.9,0,1</string>
+		</dict>
+	</lib>
+</glyph>

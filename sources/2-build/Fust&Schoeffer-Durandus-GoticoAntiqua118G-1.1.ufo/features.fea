@@ -1,0 +1,395 @@
+@AllLetters = [A A.ss01 B C C.ss01 D E F G H I J K L M M.ss01 N O P P.ss01 Q Q.ss01 Q.ss02 Q.ss03 R S S.ss01 T U V V.ss01 V.ss02 W X Y Z a a_hook a_macr b b_e b_e_macr b_o b_s c c_hook c_macr c_a c_a_macr c_e c_e_macr c_i c_o c_o_macr c_r c_t c_u c_u_macr d d.ss01 d_strok d_e d_o e e_hook e_macr e_c e_t f f_e f_f f_i f_o f_r f_r_a f_u g g.ss01 g.ss02 g.ss03 g_hook g_macr g_ra g_l_strok h h_strok h_e h_e_macr h_o i idotless idotless.ss01 i.ss01 i.ss02 i_hook i_macr i_j i_j_dotless i_j_macr i_m i_n i_u i_u_macr j k l l_strok l_l m m_macr m_i n n_hook n_macr n_i o o_macr o_ra o_r o_r_ra p p.ss01 p_bardes p_flour p_macr p_urrot p_e p_e_macr p_o p_o_macr p_p p_p_macr p_p_flour p_p_flour_hook p_p_hook q q_macr q_ra q_ring q_urrot q_etfin q_etfin_ring q_r q_strok q_strok_ra r r.ss01 r_hook r_macr r_ra r_a r_a_macr r_u r_u_macr s longs longs_strok longs_b_strok longs_etfin longs_longs_etfin longs_i longs_i_m longs_longs longs_t longs_u longs_u_macr t t_acute t_hook t_e t_e_macr t_i t_i_macr t_o t_u t_u_macr u u_hook u_macr u_i u_i_macr v v_hook v_e v_e.ss01 v_o v_o.ss01 w x x_ra y z z.ss01 con rum us
+];
+languagesystem DFLT dflt;
+feature aalt {
+feature salt;
+feature ss01;
+feature ss02;
+feature ss03;
+feature ss04;
+feature ss05;
+feature ss06;
+feature ss07;
+feature ss08;
+feature ss09;
+feature ss10;
+feature ss11;
+feature ss12;
+feature ss13;
+feature ss14;
+feature ss15;
+feature ss16;
+feature ss17;
+feature ss18;
+feature ss19;
+feature ss20;
+} aalt ;
+
+feature hlig {
+sub b e by b_e;
+sub b o by b_o;
+sub c a by c_a;
+sub c e by c_e;
+sub c i by c_i;
+sub c o by c_o;
+sub c r by c_r;
+sub c t by c_t;
+sub c u by c_u;
+sub d e by d_e;
+sub d o by d_o;
+sub e c by e_c;
+sub e t by e_t;
+sub f e by f_e;
+sub f i by f_i;
+sub f o by f_o;
+sub f r by f_r;
+sub f r a by f_r_a;
+sub f f by f_f;
+sub f u by f_u;
+sub h e by h_e;
+sub h o by h_o;
+sub i m by i_m;
+sub i n by i_n;
+sub i u by i_u;
+sub l l by l_l;
+sub m i by m_i;
+sub n i by n_i;
+sub o r by o_r;
+sub p e by p_e;
+sub p o by p_o;
+sub q r by q_r;
+sub r a by r_a;
+sub r u by r_u;
+sub longs i by longs_i;
+sub longs i m by longs_i_m;
+sub longs longs by longs_longs;
+sub longs t by longs_t;
+sub longs u by longs_u;
+sub t e by t_e;
+sub t i by t_i;
+sub t o by t_o;
+sub t u by t_u;
+sub u i by u_i;
+sub v e by v_e;
+sub v o by v_o;
+} hlig ;
+
+feature liga {
+sub b e by b_e;
+sub b o by b_o;
+sub c a by c_a;
+sub c e by c_e;
+sub c i by c_i;
+sub c o by c_o;
+sub c r by c_r;
+sub c t by c_t;
+sub c u by c_u;
+sub d e by d_e;
+sub d o by d_o;
+sub e c by e_c;
+sub e t by e_t;
+sub f e by f_e;
+sub f i by f_i;
+sub f o by f_o;
+sub f r by f_r;
+sub f r a by f_r_a;
+sub f f by f_f;
+sub f u by f_u;
+sub h e by h_e;
+sub h o by h_o;
+sub i m by i_m;
+sub i n by i_n;
+sub i u by i_u;
+sub l l by l_l;
+sub m i by m_i;
+sub n i by n_i;
+sub o r by o_r;
+sub p e by p_e;
+sub p o by p_o;
+sub q r by q_r;
+sub r a by r_a;
+sub r u by r_u;
+sub longs i by longs_i;
+sub longs i m by longs_i_m;
+sub longs longs by longs_longs;
+sub longs t by longs_t;
+sub longs u by longs_u;
+sub t e by t_e;
+sub t i by t_i;
+sub t o by t_o;
+sub t u by t_u;
+sub u i by u_i;
+sub v e by v_e;
+sub v o by v_o;
+} liga ;
+
+feature hist {
+sub A by A.ss01;
+sub C by C.ss01;
+sub M by M.ss01;
+sub P by P.ss01;
+sub Q by Q.ss01;
+sub Q.ss01 by Q.ss02;
+sub Q.ss02 by Q.ss03;
+sub S by S.ss01;
+sub V by V.ss01;
+sub V.ss01 by V.ss02;
+sub d by d.ss01;
+sub g by g.ss01;
+sub g.ss01 by g.ss02;
+sub i by i.ss01;
+sub p by p.ss01;
+sub r by r.ss01;
+sub z by z.ss01;
+sub ampersand by ampersand.ss01;
+} hist ;
+
+feature salt {
+sub A by A.ss01;
+sub C by C.ss01;
+sub M by M.ss01;
+sub P by P.ss01;
+sub Q by Q.ss01;
+sub Q.ss01 by Q.ss02;
+sub Q.ss02 by Q.ss03;
+sub S by S.ss01;
+sub V by V.ss01;
+sub V.ss01 by V.ss02;
+sub d by d.ss01;
+sub g by g.ss01;
+sub g.ss01 by g.ss02;
+sub i by i.ss01;
+sub p by p.ss01;
+sub r by r.ss01;
+sub z by z.ss01;
+sub ampersand by ampersand.ss01;
+} salt ;
+
+feature ss01 {
+featureNames {
+	name "Alternate A";
+};
+sub A by A.ss01;
+} ss01 ;
+
+feature ss02 {
+featureNames {
+	name "Alternate C";
+};
+sub C by C.ss01;
+} ss02 ;
+
+feature ss03 {
+featureNames {
+	name "Alternate M";
+};
+sub M by M.ss01;
+} ss03 ;
+
+feature ss04 {
+featureNames {
+	name "Alternate P";
+};
+sub P by P.ss01;
+} ss04 ;
+
+feature ss05 {
+featureNames {
+	name "Alternate Q";
+};
+sub Q by Q.ss01;
+} ss05 ;
+
+feature ss06 {
+featureNames {
+	name "Alternate Q";
+};
+sub Q by Q.ss02;
+} ss06 ;
+
+feature ss07 {
+featureNames {
+	name "Alternate Q";
+};
+sub Q by Q.ss03;
+} ss07 ;
+
+feature ss08 {
+featureNames {
+	name "Alternate S";
+};
+sub S by S.ss01;
+} ss08 ;
+
+feature ss09 {
+featureNames {
+	name "Alternate V";
+};
+sub V by V.ss01;
+} ss09 ;
+
+feature ss10 {
+featureNames {
+	name "Alternate V";
+};
+sub V by V.ss02;
+} ss10 ;
+
+feature ss11 {
+featureNames {
+	name "Alternate d";
+};
+sub d by d.ss01;
+} ss11 ;
+
+feature ss12 {
+featureNames {
+	name "Alternate g";
+};
+sub g by g.ss01;
+} ss12 ;
+
+feature ss13 {
+featureNames {
+	name "Alternate g";
+};
+sub g.ss01 by g.ss02;
+} ss13 ;
+
+feature ss14 {
+featureNames {
+	name "Alternate i";
+};
+sub i by i.ss01;
+} ss14 ;
+
+feature ss15 {
+featureNames {
+	name "Alternate p";
+};
+sub p by p.ss01;
+} ss15 ;
+
+feature ss16 {
+featureNames {
+	name "Alternate r";
+};
+sub r by r.ss01;
+} ss16 ;
+
+feature ss17 {
+featureNames {
+	name "Long s";
+};
+sub s by longs;
+sub @AllLetters longs' [emspace enspace threeperemspace fourperemspace space thinspace hairspace period comma colon] by s;
+} ss17 ;
+
+feature ss18 {
+featureNames {
+	name "Alternate z";
+};
+sub z by z.ss01;
+} ss18 ;
+
+feature ss19 {
+featureNames {
+	name "Alternate ampersand";
+};
+sub ampersand by ampersand.ss01;
+} ss19 ;
+
+feature calt {
+sub longs i' by longs idotless.ss01;
+} calt ;
+
+
+feature kern {
+	lookup kern_latn {
+	lookupflag IgnoreMarks;
+		pos l_strok h 130;
+		pos l_strok l 130;
+		pos t n 0;
+	} kern_latn;
+	lookupflag 0;
+} kern;
+
+table GDEF {
+ GlyphClassDef ,# Base 
+ [b_e b_e_macr b_o b_s c_a c_a_macr c_e c_e_macr c_i c_o c_o_macr c_r c_t c_u c_u_macr d_e d_o e_c e_t f_e f_f f_i f_o f_r f_r_a f_u g_l_strok h_e h_e_macr h_o i_j i_j_dotless i_j_macr i_m i_n i_u i_u_macr l_l m_i n_i o_r o_r_ra p_e p_e_macr p_o p_o_macr p_p p_p_macr p_p_flour p_p_flour_hook p_p_hook q_r r_a r_a_macr r_u r_u_macr longs_b_strok longs_longs_etfin longs_i longs_i_m longs_longs longs_t longs_u longs_u_macr t_e t_e_macr t_i t_i_macr t_o t_u t_u_macr u_i u_i_macr v_e v_e.ss01 v_o v_o.ss01], # Liga 
+ , # Mark 
+ ;
+ LigatureCaretByPos b_e 363;
+LigatureCaretByPos b_e_macr 484 242;
+LigatureCaretByPos b_o 393;
+LigatureCaretByPos c_a 358;
+LigatureCaretByPos c_a_macr 457 228;
+LigatureCaretByPos c_e 365;
+LigatureCaretByPos c_e_macr 479 240;
+LigatureCaretByPos c_i 282;
+LigatureCaretByPos c_o 384;
+LigatureCaretByPos c_o_macr 492 246;
+LigatureCaretByPos c_r 312;
+LigatureCaretByPos c_t 294;
+LigatureCaretByPos c_u 389;
+LigatureCaretByPos c_u_macr 499 249;
+LigatureCaretByPos d_e 370;
+LigatureCaretByPos d_o 412;
+LigatureCaretByPos e_c 355;
+LigatureCaretByPos e_t 317;
+LigatureCaretByPos f_e 318;
+LigatureCaretByPos f_f 309;
+LigatureCaretByPos f_i 224;
+LigatureCaretByPos f_o 350;
+LigatureCaretByPos f_r 279;
+LigatureCaretByPos f_r_a 609 319;
+LigatureCaretByPos f_u 351;
+LigatureCaretByPos g_l_strok 546 279;
+LigatureCaretByPos h_e 399;
+LigatureCaretByPos h_e_macr 531 266;
+LigatureCaretByPos h_o 436;
+LigatureCaretByPos i_j 205;
+LigatureCaretByPos i_j_dotless 205;
+LigatureCaretByPos i_j_macr 205;
+LigatureCaretByPos i_m 351;
+LigatureCaretByPos i_n 328;
+LigatureCaretByPos i_u 353;
+LigatureCaretByPos l_l 225;
+LigatureCaretByPos m_i 444;
+LigatureCaretByPos n_i 335;
+LigatureCaretByPos o_r 343;
+LigatureCaretByPos o_r_ra 232 454;
+LigatureCaretByPos p_e 378;
+LigatureCaretByPos p_e_macr 493 247;
+LigatureCaretByPos p_o 421;
+LigatureCaretByPos p_o_macr 561 280;
+LigatureCaretByPos p_p 394;
+LigatureCaretByPos p_p_macr 525 263;
+LigatureCaretByPos p_p_flour 525 263;
+LigatureCaretByPos p_p_flour_hook 394 591 197;
+LigatureCaretByPos p_p_hook 525 263;
+LigatureCaretByPos q_r 397;
+LigatureCaretByPos r_a 325;
+LigatureCaretByPos r_a_macr 433 217;
+LigatureCaretByPos r_u 377;
+LigatureCaretByPos r_u_macr 523 261;
+LigatureCaretByPos longs_b_strok 484 242;
+LigatureCaretByPos longs_longs_etfin 344;
+LigatureCaretByPos longs_i 218;
+LigatureCaretByPos longs_i_m 911 552;
+LigatureCaretByPos longs_longs 195;
+LigatureCaretByPos longs_t 315;
+LigatureCaretByPos longs_u 319;
+LigatureCaretByPos longs_u_macr 465 232;
+LigatureCaretByPos t_e 322;
+LigatureCaretByPos t_e_macr 419 210;
+LigatureCaretByPos t_i 224;
+LigatureCaretByPos t_i_macr 299 149;
+LigatureCaretByPos t_o 365;
+LigatureCaretByPos t_u 349;
+LigatureCaretByPos t_u_macr 465 232;
+LigatureCaretByPos u_i 343;
+LigatureCaretByPos u_i_macr 450 225;
+LigatureCaretByPos v_e 371;
+LigatureCaretByPos v_o 427;
+} GDEF;

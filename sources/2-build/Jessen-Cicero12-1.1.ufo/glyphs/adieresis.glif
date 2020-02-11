@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="adieresis" format="2">
+	<advance width="470"/>
+	<unicode hex="00E4"/>
+	<outline>
+		<contour>
+			<point x="189" y="-10" type="curve"/>
+			<point x="189" y="-10" type="line"/>
+			<point x="225" y="24"/>
+			<point x="260" y="34"/>
+			<point x="296" y="50" type="curve"/>
+			<point x="372" y="-10" type="line"/>
+			<point x="455" y="48" type="line"/>
+			<point x="455" y="51" type="line"/>
+			<point x="412" y="101" type="line"/>
+			<point x="410" y="209"/>
+			<point x="413" y="322"/>
+			<point x="419" y="449" type="curve"/>
+			<point x="371" y="467"/>
+			<point x="271" y="515"/>
+			<point x="199" y="520" type="curve"/>
+			<point x="43" y="430" type="line"/>
+			<point x="49" y="342"/>
+			<point x="49" y="167"/>
+			<point x="40" y="50" type="curve"/>
+			<point x="89" y="33"/>
+			<point x="144" y="6"/>
+		</contour>
+		<contour>
+			<point x="317" y="382" type="curve"/>
+			<point x="317" y="83" type="line"/>
+			<point x="252" y="84"/>
+			<point x="194" y="92"/>
+			<point x="143" y="103" type="curve"/>
+			<point x="143" y="430" type="line"/>
+			<point x="197" y="425"/>
+			<point x="266" y="404"/>
+		</contour>
+		<contour>
+			<point x="208" y="750" type="line"/>
+			<point x="126" y="565" type="line"/>
+			<point x="169" y="565" type="line"/>
+			<point x="267" y="750" type="line"/>
+		</contour>
+		<contour>
+			<point x="323" y="750" type="line"/>
+			<point x="259" y="565" type="line"/>
+			<point x="297" y="575" type="line"/>
+			<point x="392" y="750" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>a</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>a</string>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

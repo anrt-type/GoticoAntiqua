@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>750</integer>
+	<key>capHeight</key>
+	<integer>750</integer>
+	<key>copyright</key>
+	<string>Copyright (c) 2019 ANRT. All rights reserved.</string>
+	<key>descender</key>
+	<integer>-250</integer>
+	<key>familyName</key>
+	<string>Zainer</string>
+	<key>openTypeHeadCreated</key>
+	<string>2019/04/19 18:01:17</string>
+	<key>openTypeNameDescription</key>
+	<string>Zainer 96G, Gotico-Antiqua first used in Ulm by Johann Zainer for Jacques de Voragine’s Legenda aurea not after 1477 and used until 1485. 
+
+Type design workshop at Hochschule Aachen and Stadtbibliothek Aachen, October 2017.
+
+Source: Latin Bible, c. 1480.
+
+Workshop participants: Annija Ceska, Tobias Küppers, Simon Thiefes, Marco Bazelmans, Martha Ioannidou, Felix Paul Wochnik, Leonie Viola Sarbo, Paul Theisen, Robert Franke, Jennifer Schönlau, Andreas Blindert, Paula Dahlem, Henry Monse, Janusz Kendel, Carlotta Piontkowitz, Alexis Faudot, Rafael Ribas.
+
+Font designed and produced by Alexis Faudot and Rafael Ribas, directed by Jérôme Knebusch, Atelier National de Recherche Typographqiue (ANRT), Nancy.
+
+Copyright (c) 2019 ANRT. All rights reserved.</string>
+	<key>openTypeNameDesigner</key>
+	<string>Alexis Faudot, Rafael Ribas</string>
+	<key>openTypeNameDesignerURL</key>
+	<string>http://www.anrt-nancy.fr</string>
+	<key>openTypeNameLicense</key>
+	<string>SIL OPEN FONT LICENSE (OFL 1.1)</string>
+	<key>openTypeNameLicenseURL</key>
+	<string>https://opensource.org/licenses/OFL-1.1</string>
+	<key>openTypeNameManufacturer</key>
+	<string>ANRT</string>
+	<key>openTypeNameManufacturerURL</key>
+	<string>http://www.anrt-nancy.fr</string>
+	<key>openTypeNameVersion</key>
+	<string>1.1</string>
+	<key>openTypeOS2CodePageRanges</key>
+	<array>
+		<integer>0</integer>
+	</array>
+	<key>openTypeOS2Type</key>
+	<array>
+		<integer>2</integer>
+	</array>
+	<key>openTypeOS2UnicodeRanges</key>
+	<array>
+		<integer>0</integer>
+	</array>
+	<key>openTypeOS2VendorID</key>
+	<string>ANRT</string>
+	<key>openTypeOS2WinAscent</key>
+	<integer>725</integer>
+	<key>openTypeOS2WinDescent</key>
+	<integer>275</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+		<integer>-10</integer>
+		<integer>0</integer>
+		<integer>455</integer>
+		<integer>465</integer>
+		<integer>700</integer>
+		<integer>715</integer>
+	</array>
+	<key>postscriptFontName</key>
+	<string>Zainer-Regular</string>
+	<key>postscriptOtherBlues</key>
+	<array>
+		<integer>-265</integer>
+		<integer>-250</integer>
+	</array>
+	<key>styleName</key>
+	<string>Regular</string>
+	<key>unitsPerEm</key>
+	<integer>1000</integer>
+	<key>versionMajor</key>
+	<integer>1</integer>
+	<key>versionMinor</key>
+	<integer>0</integer>
+	<key>xHeight</key>
+	<integer>455</integer>
+</dict>
+</plist>

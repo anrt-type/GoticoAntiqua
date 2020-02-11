@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="c_macr" format="2">
+	<advance width="359"/>
+	<note>
+		c_macr
+  </note>
+	<outline>
+		<contour>
+			<point x="25" y="568" type="curve"/>
+			<point x="46" y="559" type="line"/>
+			<point x="78" y="590"/>
+			<point x="150" y="587"/>
+			<point x="215" y="587" type="curve"/>
+			<point x="298" y="587" type="line"/>
+			<point x="349" y="662" type="line"/>
+			<point x="348" y="668" type="line"/>
+			<point x="259" y="650"/>
+			<point x="181" y="657"/>
+			<point x="83" y="651" type="curve"/>
+			<point x="59" y="622"/>
+			<point x="47" y="593"/>
+		</contour>
+		<contour>
+			<point x="188" y="-10" type="curve"/>
+			<point x="188" y="-10" type="line"/>
+			<point x="218" y="-10"/>
+			<point x="283" y="21"/>
+			<point x="330" y="55" type="curve"/>
+			<point x="322" y="85" type="line"/>
+			<point x="189" y="37"/>
+			<point x="135" y="112"/>
+			<point x="135" y="223" type="curve"/>
+			<point x="135" y="275"/>
+			<point x="136" y="339"/>
+			<point x="146" y="376" type="curve"/>
+			<point x="176" y="360"/>
+			<point x="224" y="336"/>
+			<point x="258" y="312" type="curve"/>
+			<point x="263" y="312" type="line"/>
+			<point x="318" y="388" type="line"/>
+			<point x="317" y="393" type="line"/>
+			<point x="267" y="415"/>
+			<point x="231" y="437"/>
+			<point x="183" y="465" type="curve"/>
+			<point x="39" y="374" type="line"/>
+			<point x="44" y="334"/>
+			<point x="40" y="291"/>
+			<point x="40" y="181" type="curve"/>
+			<point x="40" y="82"/>
+			<point x="102" y="-10"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>c</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>c</string>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

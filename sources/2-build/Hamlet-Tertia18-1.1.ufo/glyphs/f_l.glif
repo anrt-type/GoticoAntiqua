@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="f_l" format="2">
+	<advance width="436"/>
+	<outline>
+		<contour>
+			<point x="366" y="-8" type="curve"/>
+			<point x="366" y="-8" type="line"/>
+			<point x="397" y="9"/>
+			<point x="414" y="28"/>
+			<point x="441" y="46" type="curve"/>
+			<point x="441" y="56" type="line"/>
+			<point x="384" y="59"/>
+			<point x="366" y="115"/>
+			<point x="364" y="182" type="curve"/>
+			<point x="362" y="260"/>
+			<point x="368" y="633"/>
+			<point x="375" y="700" type="curve"/>
+			<point x="365" y="704" type="line"/>
+			<point x="349" y="692"/>
+			<point x="326" y="682"/>
+			<point x="304" y="672" type="curve"/>
+			<point x="272" y="690"/>
+			<point x="234" y="705"/>
+			<point x="188" y="705" type="curve"/>
+			<point x="72" y="646" type="line"/>
+			<point x="72" y="359" type="line"/>
+			<point x="30" y="308" type="line"/>
+			<point x="30" y="301" type="line"/>
+			<point x="71" y="301" type="line"/>
+			<point x="71" y="83" type="line" smooth="yes"/>
+			<point x="71" y="39"/>
+			<point x="64" y="29"/>
+			<point x="48" y="10" type="curve"/>
+			<point x="48" y="0" type="line"/>
+			<point x="178" y="0" type="line"/>
+			<point x="178" y="10" type="line"/>
+			<point x="157" y="30"/>
+			<point x="151" y="40"/>
+			<point x="151" y="83" type="curve"/>
+			<point x="151" y="301" type="line"/>
+			<point x="246" y="301" type="line"/>
+			<point x="249" y="365" type="line"/>
+			<point x="149" y="365" type="line"/>
+			<point x="149" y="644" type="line"/>
+			<point x="224" y="649"/>
+			<point x="264" y="596"/>
+			<point x="284" y="575" type="curve"/>
+			<point x="284" y="402"/>
+			<point x="285" y="112"/>
+			<point x="284" y="85" type="curve"/>
+			<point x="283" y="45"/>
+			<point x="317" y="6"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>f</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>l</string>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ampersand.ss01" format="2">
+	<advance width="307"/>
+	<outline>
+		<contour>
+			<point x="184" y="89" type="curve"/>
+			<point x="184" y="89" type="line"/>
+			<point x="184" y="106"/>
+			<point x="190" y="140"/>
+			<point x="199" y="182" type="curve"/>
+			<point x="226" y="181"/>
+			<point x="252" y="180"/>
+			<point x="275" y="180" type="curve"/>
+			<point x="292" y="223" type="line"/>
+			<point x="290" y="232" type="line"/>
+			<point x="264" y="230"/>
+			<point x="238" y="230"/>
+			<point x="212" y="230" type="curve"/>
+			<point x="226" y="284"/>
+			<point x="247" y="346"/>
+			<point x="270" y="401" type="curve"/>
+			<point x="251" y="411" type="line"/>
+			<point x="210" y="361"/>
+			<point x="162" y="388"/>
+			<point x="92" y="429" type="curve"/>
+			<point x="5" y="371" type="line"/>
+			<point x="18" y="349" type="line"/>
+			<point x="74" y="361"/>
+			<point x="130" y="334"/>
+			<point x="170" y="313" type="curve"/>
+			<point x="168" y="294"/>
+			<point x="159" y="264"/>
+			<point x="149" y="231" type="curve"/>
+			<point x="120" y="232"/>
+			<point x="92" y="233"/>
+			<point x="63" y="233" type="curve"/>
+			<point x="47" y="188" type="line"/>
+			<point x="51" y="181" type="line"/>
+			<point x="70" y="185"/>
+			<point x="100" y="186"/>
+			<point x="134" y="185" type="curve"/>
+			<point x="119" y="138"/>
+			<point x="105" y="91"/>
+			<point x="105" y="60" type="curve"/>
+			<point x="105" y="10"/>
+			<point x="144" y="-8"/>
+			<point x="186" y="-8" type="curve"/>
+			<point x="220" y="-8"/>
+			<point x="251" y="10"/>
+			<point x="278" y="23" type="curve"/>
+			<point x="280" y="45" type="line"/>
+			<point x="230" y="43"/>
+			<point x="184" y="52"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.75,0.75,0.75,1</string>
+		</dict>
+	</lib>
+</glyph>

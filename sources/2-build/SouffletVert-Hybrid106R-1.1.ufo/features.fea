@@ -1,0 +1,94 @@
+@AllLetters = [A B C D E F G H I L M N O P Q R S T V a a_macr b c d d.ss01 e e_macr f f_l g g.ss01 h h.ss01 i idotless i_macr k l m n o o_macr p q q_etfin q_strok q_strok_ra r r_rot_c_ra s longs longs_i longs_t t u u_macr v x y z
+];
+languagesystem DFLT dflt;
+
+feature aalt {
+feature hist;
+feature salt;
+feature ss01;
+
+} aalt ;
+
+feature liga {
+sub f l by f_l;
+sub longs i by longs_i;
+sub longs t by longs_t;
+} liga ;
+
+feature hlig {
+sub f l by f_l;
+sub longs i by longs_i;
+sub longs t by longs_t;
+} hlig ;
+
+feature hist {
+sub d by d.ss01;
+sub g by g.ss01;
+sub h by h.ss01;
+sub s by longs;
+sub @AllLetters longs' [emspace enspace threeperemspace fourperemspace space thinspace hairspace period] by s;
+sub z by z.ss01;
+} hist ;
+
+feature salt {
+sub d by d.ss01;
+sub g by g.ss01;
+sub h by h.ss01;
+sub s by longs;
+sub @AllLetters longs' [emspace enspace threeperemspace fourperemspace space thinspace hairspace period] by s;
+sub z by z.ss01;
+} salt ;
+
+feature ss01 {
+featureNames {
+	name "Alternate d";
+};
+sub d by d.ss01;
+
+} ss01 ;
+
+feature ss02 {
+featureNames {
+	name "Alternate g";
+};
+sub g by g.ss01;
+} ss02 ;
+
+feature ss03 {
+featureNames {
+	name "Alternate h";
+};
+sub h by h.ss01;
+} ss03 ;
+
+feature ss04 {
+featureNames {
+	name "Long s";
+};
+sub s by longs;
+} ss04 ;
+
+feature ss05 {
+featureNames {
+	name "Ending small s";
+};
+sub @AllLetters longs' [emspace enspace threeperemspace fourperemspace space thinspace hairspace period] by s;
+} ss05 ;
+
+feature ss06 {
+featureNames {
+	name "Alternate z";
+};
+sub z by z.ss01;
+} ss06 ;
+
+
+table GDEF {
+ GlyphClassDef ,# Base 
+ [c_t f_l r_rot_c_ra longs_i longs_t], # Liga 
+ , # Mark 
+ ;
+ LigatureCaretByPos f_l 257;
+LigatureCaretByPos longs_i 234;
+LigatureCaretByPos longs_t 265;
+} GDEF;

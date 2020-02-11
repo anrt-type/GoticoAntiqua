@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t_a" format="2">
+	<advance width="587"/>
+	<outline>
+		<contour>
+			<point x="117" y="-10" type="curve"/>
+			<point x="117" y="-10" type="line"/>
+			<point x="236" y="83" type="line"/>
+			<point x="249" y="61"/>
+			<point x="269" y="25"/>
+			<point x="301" y="-10" type="curve"/>
+			<point x="343" y="17"/>
+			<point x="409" y="59"/>
+			<point x="450" y="86" type="curve"/>
+			<point x="450" y="-7" type="line"/>
+			<point x="454" y="-10" type="line"/>
+			<point x="577" y="57" type="line"/>
+			<point x="577" y="85" type="line"/>
+			<point x="547" y="98"/>
+			<point x="542" y="115"/>
+			<point x="542" y="203" type="curve"/>
+			<point x="542" y="259"/>
+			<point x="552" y="325"/>
+			<point x="552" y="361" type="curve"/>
+			<point x="552" y="398"/>
+			<point x="504" y="430"/>
+			<point x="434" y="430" type="curve"/>
+			<point x="316" y="350" type="line"/>
+			<point x="319" y="331" type="line"/>
+			<point x="341" y="336"/>
+			<point x="360" y="340"/>
+			<point x="381" y="340" type="curve"/>
+			<point x="417" y="340"/>
+			<point x="446" y="321"/>
+			<point x="446" y="302" type="curve"/>
+			<point x="238" y="114" type="line"/>
+			<point x="163" y="77"/>
+			<point x="143" y="135"/>
+			<point x="143" y="246" type="curve"/>
+			<point x="143" y="281"/>
+			<point x="143" y="317"/>
+			<point x="144" y="352" type="curve"/>
+			<point x="274" y="352" type="line"/>
+			<point x="349" y="411" type="line"/>
+			<point x="349" y="430" type="line"/>
+			<point x="147" y="430" type="line"/>
+			<point x="149" y="456"/>
+			<point x="151" y="482"/>
+			<point x="155" y="508" type="curve"/>
+			<point x="140" y="513" type="line"/>
+			<point x="105" y="466"/>
+			<point x="72" y="430"/>
+			<point x="25" y="391" type="curve"/>
+			<point x="25" y="366" type="line"/>
+			<point x="50" y="347"/>
+			<point x="55" y="346"/>
+			<point x="55" y="290" type="curve"/>
+			<point x="55" y="221"/>
+			<point x="53" y="103"/>
+			<point x="53" y="81" type="curve"/>
+			<point x="53" y="32"/>
+			<point x="67" y="10"/>
+		</contour>
+		<contour>
+			<point x="387" y="85" type="curve"/>
+			<point x="387" y="85" type="line"/>
+			<point x="353" y="85"/>
+			<point x="321" y="104"/>
+			<point x="321" y="128" type="curve"/>
+			<point x="321" y="156"/>
+			<point x="339" y="173"/>
+			<point x="451" y="266" type="curve"/>
+			<point x="451" y="140" type="line"/>
+			<point x="443" y="100"/>
+			<point x="407" y="85"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>t</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>a</string>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

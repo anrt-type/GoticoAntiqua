@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bardes" format="1">
+  <advance width="440"/>
+  <outline>
+    <contour>
+      <point x="18" y="-132" type="curve"/>
+      <point x="10" y="-166" type="line"/>
+      <point x="109" y="-156"/>
+      <point x="207" y="-157"/>
+      <point x="356" y="-157" type="curve"/>
+      <point x="375" y="-157"/>
+      <point x="410" y="-124"/>
+      <point x="430" y="-75" type="curve"/>
+      <point x="398" y="-61" type="line"/>
+      <point x="336" y="-124"/>
+      <point x="174" y="-124"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

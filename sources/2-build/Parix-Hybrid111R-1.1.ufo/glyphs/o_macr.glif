@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="o_macr" format="2">
+	<advance width="468"/>
+	<unicode hex="014D"/>
+	<anchor x="234" y="200" name="center"/>
+	<anchor x="421" y="10" name="ogonek"/>
+	<anchor x="177.822" y="662.633" name="top"/>
+	<anchor x="448" y="400" name="topright"/>
+	<anchor x="234.092" y="395.343" name="_top"/>
+	<anchor x="234" y="0" name="bottom"/>
+	<outline>
+		<contour>
+			<point x="72" y="526" type="line"/>
+			<point x="98" y="518" type="line"/>
+			<point x="142" y="550"/>
+			<point x="219" y="543"/>
+			<point x="280" y="548" type="curve"/>
+			<point x="365" y="699" type="line"/>
+			<point x="336" y="702" type="line"/>
+			<point x="272" y="639"/>
+			<point x="214" y="648"/>
+			<point x="137" y="634" type="curve"/>
+		</contour>
+		<contour>
+			<point x="244" y="-10" type="curve"/>
+			<point x="244" y="-10" type="line"/>
+			<point x="359" y="-10"/>
+			<point x="443" y="80"/>
+			<point x="443" y="197" type="curve"/>
+			<point x="443" y="324"/>
+			<point x="349" y="410"/>
+			<point x="224" y="410" type="curve"/>
+			<point x="101" y="410"/>
+			<point x="25" y="314"/>
+			<point x="25" y="197" type="curve"/>
+			<point x="25" y="70"/>
+			<point x="119" y="-10"/>
+		</contour>
+		<contour>
+			<point x="244" y="33" type="curve"/>
+			<point x="244" y="33" type="line"/>
+			<point x="168" y="33"/>
+			<point x="119" y="114"/>
+			<point x="119" y="219" type="curve"/>
+			<point x="119" y="319"/>
+			<point x="166" y="366"/>
+			<point x="228" y="366" type="curve"/>
+			<point x="298" y="366"/>
+			<point x="348" y="280"/>
+			<point x="348" y="187" type="curve"/>
+			<point x="348" y="101"/>
+			<point x="304" y="33"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

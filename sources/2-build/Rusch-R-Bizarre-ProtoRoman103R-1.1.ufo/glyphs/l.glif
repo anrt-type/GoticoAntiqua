@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="l" format="1">
+  <advance width="250"/>
+  <unicode hex="006C"/>
+  <outline>
+    <contour>
+      <point x="171" y="63" type="curve"/>
+      <point x="171" y="63" type="line"/>
+      <point x="165" y="91"/>
+      <point x="165" y="442"/>
+      <point x="165" y="497" type="curve"/>
+      <point x="165" y="628"/>
+      <point x="188" y="705"/>
+      <point x="189" y="706" type="curve"/>
+      <point x="174" y="713" type="line"/>
+      <point x="116" y="642"/>
+      <point x="48" y="606"/>
+      <point x="15" y="595" type="curve"/>
+      <point x="15" y="580" type="line"/>
+      <point x="60" y="571"/>
+      <point x="84" y="538"/>
+      <point x="85" y="422" type="curve"/>
+      <point x="86" y="326"/>
+      <point x="91" y="128"/>
+      <point x="84" y="68" type="curve"/>
+      <point x="81" y="43"/>
+      <point x="68" y="33"/>
+      <point x="30" y="17" type="curve"/>
+      <point x="30" y="-8" type="line"/>
+      <point x="79" y="1"/>
+      <point x="164" y="5"/>
+      <point x="235" y="-7" type="curve"/>
+      <point x="235" y="18" type="line"/>
+      <point x="184" y="40"/>
+      <point x="176" y="40"/>
+    </contour>
+    <contour>
+      <point x="125" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="125" y="350" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="125" y="700" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="225" y="700" type="move" name="topright"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-03-21 16:55:23 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <integer>1</integer>
+        <real>0.929</real>
+        <integer>1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

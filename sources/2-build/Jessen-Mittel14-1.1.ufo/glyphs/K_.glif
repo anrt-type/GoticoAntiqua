@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="K" format="2">
+	<advance width="594"/>
+	<unicode hex="004B"/>
+	<outline>
+		<contour>
+			<point x="179" y="327" type="curve"/>
+			<point x="502" y="-3" type="line"/>
+			<point x="589" y="92" type="line"/>
+			<point x="590" y="92"/>
+			<point x="317" y="321"/>
+			<point x="255" y="373" type="curve"/>
+			<point x="345" y="474"/>
+			<point x="435" y="573"/>
+			<point x="540" y="657" type="curve"/>
+			<point x="469" y="720" type="line"/>
+			<point x="394" y="606"/>
+			<point x="248" y="415"/>
+			<point x="180" y="358" type="curve"/>
+			<point x="183" y="459"/>
+			<point x="192" y="572"/>
+			<point x="207" y="700" type="curve"/>
+			<point x="58" y="700" type="line"/>
+			<point x="97" y="587"/>
+			<point x="86" y="120"/>
+			<point x="40" y="9" type="curve"/>
+			<point x="41" y="5" type="line"/>
+			<point x="200" y="5" type="line"/>
+			<point x="183" y="95"/>
+			<point x="177" y="201"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>H</string>
+			<key>public.markColor</key>
+			<string>0.97,0.9,0,1</string>
+		</dict>
+	</lib>
+</glyph>

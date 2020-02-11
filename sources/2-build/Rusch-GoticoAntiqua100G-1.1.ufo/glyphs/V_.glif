@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="V" format="1">
+  <advance width="819"/>
+  <unicode hex="0056"/>
+  <outline>
+    <contour>
+      <point x="130" y="517" type="curve"/>
+      <point x="407" y="0" type="line"/>
+      <point x="442" y="0" type="line"/>
+      <point x="543" y="180"/>
+      <point x="636" y="374"/>
+      <point x="748" y="618" type="curve"/>
+      <point x="767" y="659"/>
+      <point x="764" y="657"/>
+      <point x="814" y="667" type="curve"/>
+      <point x="814" y="697" type="line"/>
+      <point x="717" y="697" type="line"/>
+      <point x="649" y="506"/>
+      <point x="577" y="340"/>
+      <point x="462" y="147" type="curve"/>
+      <point x="358" y="327"/>
+      <point x="219" y="569"/>
+      <point x="183" y="697" type="curve"/>
+      <point x="5" y="669" type="line"/>
+      <point x="8" y="639" type="line"/>
+      <point x="51" y="623"/>
+      <point x="75" y="619"/>
+    </contour>
+    <contour>
+      <point x="426" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="426" y="700" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <integer>1</integer>
+        <real>0.929</real>
+        <integer>1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

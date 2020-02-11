@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="p_bardes" format="2">
+	<advance width="495"/>
+	<unicode hex="A751"/>
+	<outline>
+		<contour>
+			<point x="70" y="-340" type="curve"/>
+			<point x="70" y="-340" type="line"/>
+			<point x="192" y="-314" type="line"/>
+			<point x="191" y="-305"/>
+			<point x="187" y="-257"/>
+			<point x="184" y="-195" type="curve"/>
+			<point x="259" y="-204"/>
+			<point x="331" y="-222"/>
+			<point x="395" y="-249" type="curve"/>
+			<point x="430" y="-235" type="line"/>
+			<point x="432" y="-228" type="line"/>
+			<point x="368" y="-197"/>
+			<point x="276" y="-161"/>
+			<point x="182" y="-139" type="curve"/>
+			<point x="180" y="-92"/>
+			<point x="178" y="-42"/>
+			<point x="179" y="2" type="curve"/>
+			<point x="218" y="-5"/>
+			<point x="263" y="-10"/>
+			<point x="295" y="-10" type="curve"/>
+			<point x="363" y="22"/>
+			<point x="475" y="107"/>
+			<point x="475" y="237" type="curve"/>
+			<point x="475" y="349"/>
+			<point x="406" y="430"/>
+			<point x="309" y="441" type="curve"/>
+			<point x="265" y="419"/>
+			<point x="220" y="393"/>
+			<point x="187" y="370" type="curve"/>
+			<point x="182" y="393"/>
+			<point x="169" y="417"/>
+			<point x="142" y="440" type="curve"/>
+			<point x="44" y="376" type="line"/>
+			<point x="44" y="347" type="line"/>
+			<point x="69" y="340"/>
+			<point x="84" y="325"/>
+			<point x="84" y="279" type="curve"/>
+			<point x="84" y="150"/>
+			<point x="82" y="14"/>
+			<point x="78" y="-120" type="curve"/>
+			<point x="34" y="-117" type="line"/>
+			<point x="10" y="-169" type="line"/>
+			<point x="26" y="-191" type="line"/>
+			<point x="42" y="-190"/>
+			<point x="59" y="-189"/>
+			<point x="75" y="-189" type="curve"/>
+			<point x="74" y="-240"/>
+			<point x="72" y="-290"/>
+		</contour>
+		<contour>
+			<point x="343" y="67" type="curve"/>
+			<point x="343" y="67" type="line"/>
+			<point x="290" y="67"/>
+			<point x="212" y="84"/>
+			<point x="181" y="100" type="curve"/>
+			<point x="187" y="332" type="line"/>
+			<point x="203" y="340"/>
+			<point x="222" y="348"/>
+			<point x="251" y="348" type="curve"/>
+			<point x="385" y="348"/>
+			<point x="438" y="153"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>p</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>p</string>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

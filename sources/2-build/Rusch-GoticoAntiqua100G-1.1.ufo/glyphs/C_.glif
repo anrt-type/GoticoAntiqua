@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="C" format="1">
+  <advance width="726"/>
+  <unicode hex="0043"/>
+  <outline>
+    <contour>
+      <point x="415" y="-9" type="curve"/>
+      <point x="415" y="-9" type="line"/>
+      <point x="489" y="-9"/>
+      <point x="574" y="3"/>
+      <point x="659" y="7" type="curve"/>
+      <point x="659" y="7"/>
+      <point x="674" y="98"/>
+      <point x="681" y="163" type="curve"/>
+      <point x="652" y="164" type="line"/>
+      <point x="608" y="61"/>
+      <point x="517" y="29"/>
+      <point x="403" y="29" type="curve"/>
+      <point x="229" y="29"/>
+      <point x="140" y="153"/>
+      <point x="140" y="355" type="curve"/>
+      <point x="140" y="529"/>
+      <point x="242" y="668"/>
+      <point x="418" y="668" type="curve"/>
+      <point x="553" y="668"/>
+      <point x="608" y="610"/>
+      <point x="661" y="521" type="curve"/>
+      <point x="691" y="521" type="line"/>
+      <point x="687" y="689" type="line"/>
+      <point x="606" y="691"/>
+      <point x="508" y="708"/>
+      <point x="427" y="708" type="curve"/>
+      <point x="163" y="708"/>
+      <point x="25" y="536"/>
+      <point x="25" y="355" type="curve"/>
+      <point x="25" y="92"/>
+      <point x="205" y="-9"/>
+    </contour>
+    <contour>
+      <point x="353" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="353" y="700" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>O</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <integer>1</integer>
+        <real>0.929</real>
+        <integer>1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

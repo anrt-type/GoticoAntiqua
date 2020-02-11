@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="l_l" format="1">
+  <advance width="424"/>
+  <outline>
+    <contour>
+      <point x="365" y="103" type="curve"/>
+      <point x="365" y="103" type="line"/>
+      <point x="359" y="307"/>
+      <point x="362" y="501"/>
+      <point x="369" y="718" type="curve"/>
+      <point x="361" y="720" type="line"/>
+      <point x="245" y="666" type="line"/>
+      <point x="258" y="589"/>
+      <point x="262" y="208"/>
+      <point x="255" y="91" type="curve"/>
+      <point x="238" y="79"/>
+      <point x="219" y="68"/>
+      <point x="204" y="68" type="curve"/>
+      <point x="176" y="68"/>
+      <point x="156" y="88"/>
+      <point x="155" y="112" type="curve"/>
+      <point x="146" y="316"/>
+      <point x="148" y="501"/>
+      <point x="155" y="718" type="curve"/>
+      <point x="147" y="720" type="line"/>
+      <point x="35" y="666" type="line"/>
+      <point x="49" y="582"/>
+      <point x="48" y="125"/>
+      <point x="45" y="55" type="curve"/>
+      <point x="44" y="32"/>
+      <point x="111" y="-19"/>
+      <point x="135" y="-19" type="curve"/>
+      <point x="160" y="-19"/>
+      <point x="216" y="24"/>
+      <point x="255" y="54" type="curve"/>
+      <point x="264" y="26"/>
+      <point x="303" y="-19"/>
+      <point x="323" y="-19" type="curve"/>
+      <point x="336" y="-19"/>
+      <point x="386" y="18"/>
+      <point x="414" y="43" type="curve"/>
+      <point x="414" y="65" type="line"/>
+      <point x="380" y="68"/>
+      <point x="366" y="83"/>
+    </contour>
+    <contour>
+      <point x="125" y="0" type="move" name="bottom_1"/>
+    </contour>
+    <contour>
+      <point x="324" y="0" type="move" name="bottom_2"/>
+    </contour>
+    <contour>
+      <point x="225" y="0" type="move" name="caret_1"/>
+    </contour>
+    <contour>
+      <point x="25" y="0" type="move" name="center_1"/>
+    </contour>
+    <contour>
+      <point x="25" y="0" type="move" name="center_2"/>
+    </contour>
+    <contour>
+      <point x="125" y="430" type="move" name="top_1"/>
+    </contour>
+    <contour>
+      <point x="324" y="430" type="move" name="top_2"/>
+    </contour>
+    <contour>
+      <point x="25" y="0" type="move" name="topright_1"/>
+    </contour>
+    <contour>
+      <point x="25" y="0" type="move" name="topright_2"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-01-14 09:56:04 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>l</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

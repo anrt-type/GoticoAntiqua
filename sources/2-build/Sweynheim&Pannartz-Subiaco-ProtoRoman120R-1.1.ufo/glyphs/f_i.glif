@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="f_i" format="2">
+	<advance width="398"/>
+	<unicode hex="FB01"/>
+	<outline>
+		<contour>
+			<point x="38" y="-14" type="curve"/>
+			<point x="48" y="-20" type="line"/>
+			<point x="75" y="-7"/>
+			<point x="113" y="4"/>
+			<point x="160" y="11" type="curve"/>
+			<point x="162" y="20" type="line"/>
+			<point x="148" y="82"/>
+			<point x="144" y="158"/>
+			<point x="142" y="340" type="curve"/>
+			<point x="178" y="341"/>
+			<point x="212" y="343"/>
+			<point x="247" y="333" type="curve"/>
+			<point x="260" y="235"/>
+			<point x="256" y="122"/>
+			<point x="244" y="1" type="curve"/>
+			<point x="267" y="-9" type="line"/>
+			<point x="305" y="8"/>
+			<point x="354" y="23"/>
+			<point x="388" y="39" type="curve"/>
+			<point x="388" y="65" type="line"/>
+			<point x="348" y="65"/>
+			<point x="349" y="60"/>
+			<point x="345" y="146" type="curve"/>
+			<point x="342" y="212"/>
+			<point x="336" y="355"/>
+			<point x="352" y="443" type="curve"/>
+			<point x="342" y="451" type="line"/>
+			<point x="288" y="420"/>
+			<point x="231" y="412"/>
+			<point x="139" y="414" type="curve"/>
+			<point x="135" y="550" type="line" smooth="yes"/>
+			<point x="133" y="605"/>
+			<point x="140" y="615"/>
+			<point x="143" y="615" type="curve"/>
+			<point x="170" y="622"/>
+			<point x="213" y="600"/>
+			<point x="247" y="578" type="curve"/>
+			<point x="330" y="655" type="line"/>
+			<point x="331" y="659" type="line"/>
+			<point x="292" y="669"/>
+			<point x="236" y="689"/>
+			<point x="187" y="710" type="curve"/>
+			<point x="148" y="669"/>
+			<point x="109" y="633"/>
+			<point x="49" y="591" type="curve"/>
+			<point x="47" y="585"/>
+			<point x="52" y="496"/>
+			<point x="52" y="437" type="curve"/>
+			<point x="52" y="414"/>
+			<point x="42" y="387"/>
+			<point x="30" y="362" type="curve"/>
+			<point x="30" y="357" type="line"/>
+			<point x="49" y="345"/>
+			<point x="52" y="323"/>
+			<point x="52" y="303" type="curve"/>
+			<point x="52" y="186"/>
+			<point x="51" y="85"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>f</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>i</string>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

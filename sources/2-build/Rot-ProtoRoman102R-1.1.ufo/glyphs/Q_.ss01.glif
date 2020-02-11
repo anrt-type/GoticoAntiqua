@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Q.ss01" format="2">
+	<advance width="882"/>
+	<outline>
+		<contour>
+			<point x="611" y="-154" type="curve"/>
+			<point x="611" y="-154" type="line"/>
+			<point x="689" y="-154"/>
+			<point x="756" y="-117"/>
+			<point x="781" y="-48" type="curve"/>
+			<point x="766" y="-33" type="line"/>
+			<point x="744" y="-56"/>
+			<point x="709" y="-74"/>
+			<point x="658" y="-73" type="curve"/>
+			<point x="556" y="-71"/>
+			<point x="455" y="-48"/>
+			<point x="376" y="-5" type="curve"/>
+			<point x="397" y="-8"/>
+			<point x="419" y="-10"/>
+			<point x="441" y="-10" type="curve"/>
+			<point x="654" y="-10"/>
+			<point x="842" y="133"/>
+			<point x="842" y="351" type="curve"/>
+			<point x="842" y="577"/>
+			<point x="644" y="710"/>
+			<point x="441" y="710" type="curve"/>
+			<point x="237" y="710"/>
+			<point x="40" y="567"/>
+			<point x="40" y="351" type="curve"/>
+			<point x="40" y="225"/>
+			<point x="108" y="133"/>
+			<point x="195" y="62" type="curve"/>
+			<point x="326" y="-44"/>
+			<point x="526" y="-154"/>
+		</contour>
+		<contour>
+			<point x="437" y="29" type="curve"/>
+			<point x="437" y="29" type="line"/>
+			<point x="269" y="29"/>
+			<point x="158" y="167"/>
+			<point x="158" y="326" type="curve"/>
+			<point x="158" y="497"/>
+			<point x="242" y="672"/>
+			<point x="451" y="672" type="curve"/>
+			<point x="626" y="672"/>
+			<point x="727" y="525"/>
+			<point x="727" y="350" type="curve"/>
+			<point x="727" y="188"/>
+			<point x="635" y="29"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>O</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>O</string>
+			<key>public.markColor</key>
+			<string>0.97,0.9,0,1</string>
+		</dict>
+	</lib>
+</glyph>

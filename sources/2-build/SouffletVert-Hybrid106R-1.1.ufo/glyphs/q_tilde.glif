@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="q_tilde" format="2">
+	<advance width="434"/>
+	<anchor x="214" y="390" name="top"/>
+	<anchor x="214" y="0" name="bottom"/>
+	<outline>
+		<contour>
+			<point x="226" y="-180" type="curve"/>
+			<point x="226" y="-205" type="line"/>
+			<point x="293" y="-199"/>
+			<point x="369" y="-191"/>
+			<point x="420" y="-187" type="curve"/>
+			<point x="420" y="-162" type="line"/>
+			<point x="365" y="-155"/>
+			<point x="370" y="-155"/>
+			<point x="369" y="-93" type="curve"/>
+			<point x="365" y="286" type="line" smooth="yes"/>
+			<point x="365" y="330"/>
+			<point x="364" y="358"/>
+			<point x="371" y="399" type="curve"/>
+			<point x="355" y="406" type="line"/>
+			<point x="347" y="397"/>
+			<point x="338" y="387"/>
+			<point x="329" y="378" type="curve"/>
+			<point x="291" y="393"/>
+			<point x="255" y="399"/>
+			<point x="222" y="399" type="curve"/>
+			<point x="98" y="399"/>
+			<point x="21" y="291"/>
+			<point x="20" y="173" type="curve"/>
+			<point x="19" y="52"/>
+			<point x="93" y="-10"/>
+			<point x="179" y="-10" type="curve"/>
+			<point x="212" y="6"/>
+			<point x="251" y="35"/>
+			<point x="289" y="65" type="curve"/>
+			<point x="287" y="4"/>
+			<point x="285" y="-52"/>
+			<point x="285" y="-92" type="curve"/>
+			<point x="286" y="-163"/>
+			<point x="286" y="-163"/>
+		</contour>
+		<contour>
+			<point x="209" y="67" type="curve"/>
+			<point x="209" y="67" type="line"/>
+			<point x="145" y="67"/>
+			<point x="74" y="111"/>
+			<point x="72" y="202" type="curve"/>
+			<point x="70" y="289"/>
+			<point x="127" y="330"/>
+			<point x="190" y="330" type="curve"/>
+			<point x="233" y="330"/>
+			<point x="270" y="318"/>
+			<point x="295" y="294" type="curve"/>
+			<point x="296" y="235"/>
+			<point x="294" y="165"/>
+			<point x="291" y="99" type="curve"/>
+			<point x="264" y="77"/>
+			<point x="246" y="67"/>
+		</contour>
+		<contour>
+			<point x="225" y="473" type="line"/>
+			<point x="245" y="461" type="line"/>
+			<point x="306" y="525" type="line"/>
+			<point x="326" y="509"/>
+			<point x="348" y="498"/>
+			<point x="387" y="465" type="curve"/>
+			<point x="454" y="573" type="line"/>
+			<point x="433" y="585" type="line"/>
+			<point x="375" y="509"/>
+			<point x="361" y="567"/>
+			<point x="325" y="602" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>q</string>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

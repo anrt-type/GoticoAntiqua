@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="v_e.ss01" format="1">
+  <advance width="1020"/>
+  <outline>
+    <contour>
+      <point x="895" y="74" type="curve"/>
+      <point x="895" y="74" type="line"/>
+      <point x="869" y="75"/>
+      <point x="848" y="81"/>
+      <point x="831" y="90" type="curve"/>
+      <point x="888" y="172"/>
+      <point x="1010" y="314"/>
+      <point x="1010" y="326" type="curve"/>
+      <point x="1010" y="346"/>
+      <point x="931" y="450"/>
+      <point x="870" y="450" type="curve"/>
+      <point x="831" y="450"/>
+      <point x="743" y="396"/>
+      <point x="703" y="366" type="curve"/>
+      <point x="678" y="412"/>
+      <point x="635" y="449"/>
+      <point x="589" y="449" type="curve"/>
+      <point x="553" y="449"/>
+      <point x="453" y="344"/>
+      <point x="398" y="287" type="curve"/>
+      <point x="371" y="335"/>
+      <point x="340" y="381"/>
+      <point x="299" y="428" type="curve"/>
+      <point x="266" y="465"/>
+      <point x="228" y="500"/>
+      <point x="172" y="500" type="curve"/>
+      <point x="155" y="500"/>
+      <point x="45" y="421"/>
+      <point x="-15" y="372" type="curve"/>
+      <point x="6" y="358" type="line"/>
+      <point x="43" y="383"/>
+      <point x="68" y="396"/>
+      <point x="107" y="396" type="curve"/>
+      <point x="209" y="396"/>
+      <point x="343" y="157"/>
+      <point x="415" y="-19" type="curve"/>
+      <point x="431" y="-19" type="line"/>
+      <point x="497" y="32"/>
+      <point x="589" y="84"/>
+      <point x="652" y="145" type="curve"/>
+      <point x="667" y="53"/>
+      <point x="738" y="-20"/>
+      <point x="826" y="-20" type="curve"/>
+      <point x="862" y="-20"/>
+      <point x="959" y="36"/>
+      <point x="1010" y="62" type="curve"/>
+      <point x="1007" y="92" type="line"/>
+      <point x="987" y="88"/>
+      <point x="914" y="73"/>
+    </contour>
+    <contour>
+      <point x="810" y="367" type="curve"/>
+      <point x="810" y="367" type="line"/>
+      <point x="866" y="367"/>
+      <point x="919" y="280"/>
+      <point x="919" y="256" type="curve"/>
+      <point x="880" y="203"/>
+      <point x="840" y="150"/>
+      <point x="808" y="107" type="curve"/>
+      <point x="774" y="141"/>
+      <point x="768" y="196"/>
+      <point x="768" y="253" type="curve"/>
+      <point x="768" y="296"/>
+      <point x="773" y="367"/>
+    </contour>
+    <contour>
+      <point x="498" y="86" type="curve"/>
+      <point x="498" y="86" type="line"/>
+      <point x="469" y="146"/>
+      <point x="444" y="201"/>
+      <point x="416" y="254" type="curve"/>
+      <point x="433" y="277"/>
+      <point x="479" y="325"/>
+      <point x="526" y="325" type="curve"/>
+      <point x="571" y="325"/>
+      <point x="624" y="277"/>
+      <point x="624" y="229" type="curve"/>
+      <point x="624" y="184"/>
+      <point x="571" y="112"/>
+    </contour>
+    <contour>
+      <point x="387" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="1017" y="10" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="387" y="430" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-23 18:30:17 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>v</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>e</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

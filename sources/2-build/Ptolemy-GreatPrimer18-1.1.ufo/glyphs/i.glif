@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="i" format="2">
+	<advance width="205"/>
+	<unicode hex="0069"/>
+	<outline>
+		<contour>
+			<point x="57" y="-10" type="curve"/>
+			<point x="57" y="-10" type="line"/>
+			<point x="104" y="4"/>
+			<point x="143" y="16"/>
+			<point x="190" y="28" type="curve"/>
+			<point x="190" y="61" type="line"/>
+			<point x="139" y="47" type="line"/>
+			<point x="139" y="456" type="line"/>
+			<point x="133" y="460" type="line"/>
+			<point x="90" y="439"/>
+			<point x="66" y="422"/>
+			<point x="20" y="401" type="curve"/>
+			<point x="20" y="374" type="line"/>
+			<point x="57" y="388" type="line"/>
+			<point x="61" y="255"/>
+			<point x="59" y="123"/>
+		</contour>
+		<contour>
+			<point x="64" y="601" type="line"/>
+			<point x="64" y="600" type="line"/>
+			<point x="123" y="600" type="line"/>
+			<point x="183" y="699" type="line"/>
+			<point x="183" y="700" type="line"/>
+			<point x="117" y="700" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>n</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>n</string>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

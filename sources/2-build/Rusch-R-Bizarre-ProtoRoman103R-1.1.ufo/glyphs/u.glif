@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="u" format="1">
+  <advance width="535"/>
+  <unicode hex="0075"/>
+  <outline>
+    <contour>
+      <point x="530" y="49" type="curve"/>
+      <point x="519" y="67" type="line"/>
+      <point x="478" y="53"/>
+      <point x="442" y="72"/>
+      <point x="442" y="109" type="curve"/>
+      <point x="442" y="277" type="line" smooth="yes"/>
+      <point x="442" y="310"/>
+      <point x="443" y="350"/>
+      <point x="459" y="411" type="curve"/>
+      <point x="447" y="423" type="line"/>
+      <point x="410" y="406"/>
+      <point x="355" y="403"/>
+      <point x="295" y="399" type="curve"/>
+      <point x="292" y="372" type="line"/>
+      <point x="355" y="354"/>
+      <point x="362" y="336"/>
+      <point x="362" y="305" type="curve"/>
+      <point x="362" y="97" type="line"/>
+      <point x="323" y="67"/>
+      <point x="271" y="53"/>
+      <point x="239" y="53" type="curve"/>
+      <point x="172" y="53"/>
+      <point x="167" y="87"/>
+      <point x="167" y="135" type="curve"/>
+      <point x="168" y="325" type="line" smooth="yes"/>
+      <point x="168" y="351"/>
+      <point x="172" y="384"/>
+      <point x="180" y="416" type="curve"/>
+      <point x="167" y="428" type="line"/>
+      <point x="125" y="411"/>
+      <point x="101" y="400"/>
+      <point x="30" y="385" type="curve"/>
+      <point x="30" y="360" type="line"/>
+      <point x="76" y="349"/>
+      <point x="87" y="333"/>
+      <point x="87" y="301" type="curve"/>
+      <point x="87" y="249"/>
+      <point x="88" y="162"/>
+      <point x="88" y="80" type="curve"/>
+      <point x="88" y="32"/>
+      <point x="104" y="-11"/>
+      <point x="195" y="-11" type="curve"/>
+      <point x="223" y="-11"/>
+      <point x="290" y="20"/>
+      <point x="366" y="62" type="curve"/>
+      <point x="374" y="17"/>
+      <point x="397" y="-10"/>
+      <point x="452" y="-10" type="curve"/>
+      <point x="476" y="6"/>
+      <point x="504" y="24"/>
+    </contour>
+    <contour>
+      <point x="273" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="481" y="10" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="273" y="400" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="513" y="400" type="move" name="topright"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-03-19 10:20:51 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>n</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <integer>1</integer>
+        <real>0.929</real>
+        <integer>1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

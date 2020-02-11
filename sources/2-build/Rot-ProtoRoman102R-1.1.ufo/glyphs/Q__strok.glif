@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Q_strok" format="2">
+	<advance width="1045"/>
+	<outline>
+		<contour>
+			<point x="580" y="-200" type="curve"/>
+			<point x="580" y="-200" type="line"/>
+			<point x="748" y="-200"/>
+			<point x="867" y="-32"/>
+			<point x="960" y="-32" type="curve"/>
+			<point x="997" y="-32"/>
+			<point x="1003" y="-63"/>
+			<point x="1012" y="-86" type="curve"/>
+			<point x="1040" y="-80" type="line"/>
+			<point x="1024" y="15" type="line"/>
+			<point x="868" y="22"/>
+			<point x="800" y="-85"/>
+			<point x="662" y="-108" type="curve"/>
+			<point x="727" y="-17"/>
+			<point x="629" y="13"/>
+			<point x="496" y="-35" type="curve"/>
+			<point x="496" y="-57" type="line"/>
+			<point x="592" y="-25"/>
+			<point x="650" y="-65"/>
+			<point x="627" y="-112" type="curve"/>
+			<point x="620" y="-113"/>
+			<point x="614" y="-113"/>
+			<point x="607" y="-113" type="curve"/>
+			<point x="522" y="-113"/>
+			<point x="469" y="-59"/>
+			<point x="461" y="-5" type="curve"/>
+			<point x="645" y="21"/>
+			<point x="794" y="156"/>
+			<point x="794" y="351" type="curve"/>
+			<point x="794" y="567"/>
+			<point x="597" y="710"/>
+			<point x="393" y="710" type="curve"/>
+			<point x="256" y="710"/>
+			<point x="116" y="649"/>
+			<point x="40" y="540" type="curve"/>
+			<point x="43" y="158" type="line"/>
+			<point x="108" y="65"/>
+			<point x="219" y="6"/>
+			<point x="340" y="-7" type="curve"/>
+			<point x="375" y="-135"/>
+			<point x="476" y="-200"/>
+		</contour>
+		<contour>
+			<point x="397" y="29" type="curve"/>
+			<point x="397" y="29" type="line"/>
+			<point x="199" y="29"/>
+			<point x="107" y="188"/>
+			<point x="107" y="350" type="curve"/>
+			<point x="107" y="525"/>
+			<point x="208" y="672"/>
+			<point x="383" y="672" type="curve"/>
+			<point x="592" y="672"/>
+			<point x="676" y="497"/>
+			<point x="676" y="326" type="curve"/>
+			<point x="676" y="167"/>
+			<point x="565" y="29"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.97,0.9,0,1</string>
+		</dict>
+	</lib>
+</glyph>

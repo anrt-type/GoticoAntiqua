@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>750</integer>
+	<key>capHeight</key>
+	<integer>700</integer>
+	<key>copyright</key>
+	<string>Copyright (c) 2019 ANRT. All rights reserved.</string>
+	<key>descender</key>
+	<integer>-250</integer>
+	<key>familyName</key>
+	<string>Jessen</string>
+	<key>openTypeHeadCreated</key>
+	<string>2019/04/19 17:50:35</string>
+	<key>openTypeNameDescription</key>
+	<string>Jessen, hybrid of gothic minuscules and roman capitals designed and cut without preliminary drawings in Offenbach am Main by Rudolf Koch for The Four Gospels. Printed at the Klingspor press in 1926 and published by Koch himself. Formerly named Bibel-Gotisch, the type was released as Jessen in several sizes by the Klingspor foundry in 1930.
+
+Type design workshop at ESAD •Valence, April 2016.
+
+Sources: Das Blumenbuch, Rudolf Koch, 1929 &amp; Jessen specimen, Klingspor Foundry, 1934 &amp; Mainz zur Zeit Gutenbergs, Richard Dertsch, 1937.
+
+Workshop participants: Quentin Bohuon, Liv-Anny Cascales, Ariane Corfmat, Quantin Coulombier, Sirima de Resseguier, Marion Dessart, Leo Durand, Justine Gagnaire, Baptiste Garcia, Julian Lagoutte, Emma Mariolle, Agathe Martinez, Claire Peressoti, Laura Piccolo, Khanh Robert, Maxime Samouiller, Kevin Vasic, Alexis Boscariol, Benoît Canaud, Johan Chaneac.
+
+Font designed and produced by Alexis Faudot and Rafael Ribas, directed by Jérôme Knebusch, Atelier National de Recherche Typographqiue (ANRT), Nancy.
+
+Copyright (c) 2019 ANRT. All rights reserved.</string>
+	<key>openTypeNameDesigner</key>
+	<string>Alexis Faudot, Rafael Ribas</string>
+	<key>openTypeNameDesignerURL</key>
+	<string>http://www.anrt-nancy.fr</string>
+	<key>openTypeNameLicense</key>
+	<string>SIL OPEN FONT LICENSE (OFL 1.1)</string>
+	<key>openTypeNameLicenseURL</key>
+	<string>https://opensource.org/licenses/OFL-1.1</string>
+	<key>openTypeNameManufacturer</key>
+	<string>ANRT</string>
+	<key>openTypeNameManufacturerURL</key>
+	<string>http://www.anrt-nancy.fr</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Cicero 12</string>
+	<key>openTypeNameVersion</key>
+	<string>1.1</string>
+	<key>openTypeOS2CodePageRanges</key>
+	<array>
+		<integer>0</integer>
+	</array>
+	<key>openTypeOS2Type</key>
+	<array>
+		<integer>2</integer>
+	</array>
+	<key>openTypeOS2UnicodeRanges</key>
+	<array>
+		<integer>0</integer>
+	</array>
+	<key>openTypeOS2VendorID</key>
+	<string>ANRT</string>
+	<key>openTypeOS2WeightClass</key>
+	<integer>400</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
+	<key>openTypeOS2WinAscent</key>
+	<integer>760</integer>
+	<key>openTypeOS2WinDescent</key>
+	<integer>225</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+		<integer>-10</integer>
+		<integer>0</integer>
+		<integer>510</integer>
+		<integer>520</integer>
+		<integer>700</integer>
+		<integer>710</integer>
+	</array>
+	<key>postscriptFontName</key>
+	<string>Jessen-Cicero12</string>
+	<key>postscriptOtherBlues</key>
+	<array/>
+	<key>postscriptStemSnapV</key>
+	<array>
+		<integer>93</integer>
+		<integer>67</integer>
+		<integer>75</integer>
+		<integer>82</integer>
+	</array>
+	<key>styleMapFamilyName</key>
+	<string>Jessen Cicero 12</string>
+	<key>styleMapStyleName</key>
+	<string>regular</string>
+	<key>styleName</key>
+	<string>Cicero 12</string>
+	<key>unitsPerEm</key>
+	<integer>1000</integer>
+	<key>versionMajor</key>
+	<integer>1</integer>
+	<key>versionMinor</key>
+	<integer>0</integer>
+	<key>xHeight</key>
+	<integer>510</integer>
+</dict>
+</plist>

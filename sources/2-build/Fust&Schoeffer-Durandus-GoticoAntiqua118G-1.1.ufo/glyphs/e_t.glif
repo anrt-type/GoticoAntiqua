@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="e_t" format="1">
+  <advance width="614"/>
+  <outline>
+    <contour>
+      <point x="483" y="336" type="curve"/>
+      <point x="614" y="335" type="line"/>
+      <point x="614" y="424" type="line"/>
+      <point x="484" y="424" type="line"/>
+      <point x="484" y="523" type="line"/>
+      <point x="470" y="524" type="line"/>
+      <point x="433" y="474"/>
+      <point x="396" y="433"/>
+      <point x="344" y="384" type="curve"/>
+      <point x="317" y="416"/>
+      <point x="281" y="450"/>
+      <point x="262" y="450" type="curve"/>
+      <point x="234" y="450"/>
+      <point x="89" y="372"/>
+      <point x="68" y="352" type="curve"/>
+      <point x="51" y="336"/>
+      <point x="30" y="274"/>
+      <point x="30" y="172" type="curve"/>
+      <point x="30" y="73"/>
+      <point x="89" y="-20"/>
+      <point x="188" y="-20" type="curve"/>
+      <point x="218" y="-20"/>
+      <point x="311" y="33"/>
+      <point x="370" y="66" type="curve"/>
+      <point x="370" y="60" type="line" smooth="yes"/>
+      <point x="369" y="25"/>
+      <point x="434" y="-26"/>
+      <point x="464" y="-26" type="curve"/>
+      <point x="500" y="-26"/>
+      <point x="544" y="26"/>
+      <point x="586" y="61" type="curve"/>
+      <point x="585" y="78" type="line"/>
+      <point x="562" y="74"/>
+      <point x="539" y="74"/>
+      <point x="533" y="75" type="curve"/>
+      <point x="512" y="78"/>
+      <point x="486" y="99"/>
+      <point x="485" y="116" type="curve"/>
+      <point x="480" y="189"/>
+      <point x="480" y="263"/>
+    </contour>
+    <contour>
+      <point x="182" y="367" type="curve"/>
+      <point x="182" y="367" type="line"/>
+      <point x="228" y="367"/>
+      <point x="252" y="306"/>
+      <point x="252" y="282" type="curve"/>
+      <point x="252" y="236"/>
+      <point x="207" y="195"/>
+      <point x="159" y="165" type="curve"/>
+      <point x="152" y="192"/>
+      <point x="150" y="222"/>
+      <point x="150" y="253" type="curve"/>
+      <point x="150" y="296"/>
+      <point x="155" y="367"/>
+    </contour>
+    <contour>
+      <point x="277" y="74" type="curve"/>
+      <point x="277" y="74" type="line"/>
+      <point x="221" y="75"/>
+      <point x="190" y="98"/>
+      <point x="172" y="130" type="curve"/>
+      <point x="241" y="190"/>
+      <point x="345" y="295"/>
+      <point x="369" y="327" type="curve"/>
+      <point x="370" y="325"/>
+      <point x="370" y="322"/>
+      <point x="370" y="319" type="curve"/>
+      <point x="372" y="246"/>
+      <point x="372" y="173"/>
+      <point x="371" y="100" type="curve"/>
+      <point x="343" y="87"/>
+      <point x="309" y="73"/>
+    </contour>
+    <contour>
+      <point x="466" y="-6" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="169" y="0" type="move" name="bottom_1"/>
+    </contour>
+    <contour>
+      <point x="466" y="0" type="move" name="bottom_2"/>
+    </contour>
+    <contour>
+      <point x="317" y="0" type="move" name="caret_1"/>
+    </contour>
+    <contour>
+      <point x="466" y="209" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="20" y="0" type="move" name="ogonek_1"/>
+    </contour>
+    <contour>
+      <point x="20" y="0" type="move" name="ogonek_2"/>
+    </contour>
+    <contour>
+      <point x="466" y="424" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="169" y="430" type="move" name="top_1"/>
+    </contour>
+    <contour>
+      <point x="466" y="430" type="move" name="top_2"/>
+    </contour>
+    <contour>
+      <point x="594" y="424" type="move" name="topright"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-01-14 09:18:15 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>e</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>t</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

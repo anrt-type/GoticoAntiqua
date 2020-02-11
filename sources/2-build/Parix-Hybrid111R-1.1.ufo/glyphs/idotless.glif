@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="idotless" format="2">
+	<advance width="233"/>
+	<unicode hex="0131"/>
+	<outline>
+		<contour>
+			<point x="48" y="8" type="curve"/>
+			<point x="53" y="-10" type="line"/>
+			<point x="95" y="-5"/>
+			<point x="152" y="0"/>
+			<point x="203" y="0" type="curve"/>
+			<point x="203" y="30" type="line"/>
+			<point x="165" y="44"/>
+			<point x="163" y="58"/>
+			<point x="162" y="95" type="curve"/>
+			<point x="160" y="158"/>
+			<point x="160" y="220"/>
+			<point x="162" y="283" type="curve"/>
+			<point x="163" y="324"/>
+			<point x="166" y="375"/>
+			<point x="169" y="405" type="curve"/>
+			<point x="162" y="411" type="line"/>
+			<point x="114" y="402"/>
+			<point x="70" y="396"/>
+			<point x="30" y="390" type="curve"/>
+			<point x="30" y="360" type="line"/>
+			<point x="57" y="357"/>
+			<point x="65" y="337"/>
+			<point x="66" y="307" type="curve"/>
+			<point x="68" y="239"/>
+			<point x="68" y="170"/>
+			<point x="64" y="102" type="curve"/>
+			<point x="62" y="60"/>
+			<point x="60" y="38"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="flour" format="1">
+  <advance width="340"/>
+  <outline>
+    <contour>
+      <point x="51" y="-190" type="curve"/>
+      <point x="51" y="-190" type="line"/>
+      <point x="79" y="-190"/>
+      <point x="122" y="-171"/>
+      <point x="167" y="-155" type="curve"/>
+      <point x="168" y="-133" type="line"/>
+      <point x="133" y="-127"/>
+      <point x="100" y="-109"/>
+      <point x="106" y="-70" type="curve"/>
+      <point x="116" y="-3"/>
+      <point x="217" y="12"/>
+      <point x="325" y="17" type="curve"/>
+      <point x="310" y="42" type="line"/>
+      <point x="161" y="39"/>
+      <point x="13" y="-8"/>
+      <point x="15" y="-93" type="curve"/>
+      <point x="16" y="-127"/>
+      <point x="26" y="-162"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

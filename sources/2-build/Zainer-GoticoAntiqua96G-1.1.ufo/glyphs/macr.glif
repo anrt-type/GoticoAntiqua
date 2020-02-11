@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macr" format="2">
+	<advance width="407"/>
+	<note>
+		macr
+  </note>
+	<outline>
+		<contour>
+			<point x="30" y="508" type="curve"/>
+			<point x="51" y="501" type="line"/>
+			<point x="80" y="544"/>
+			<point x="164" y="557"/>
+			<point x="228" y="561" type="curve"/>
+			<point x="361" y="569" type="line"/>
+			<point x="387" y="648" type="line"/>
+			<point x="385" y="654" type="line"/>
+			<point x="112" y="617" type="line"/>
+			<point x="81" y="586"/>
+			<point x="49" y="545"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.75,0.75,0.75,1</string>
+		</dict>
+	</lib>
+</glyph>

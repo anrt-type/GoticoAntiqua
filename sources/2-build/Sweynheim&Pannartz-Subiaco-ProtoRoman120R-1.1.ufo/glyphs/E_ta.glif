@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eta" format="2">
+	<advance width="402"/>
+	<unicode hex="0397"/>
+	<outline>
+		<contour>
+			<point x="50" y="-1" type="curve"/>
+			<point x="54" y="-10" type="line"/>
+			<point x="156" y="19" type="line"/>
+			<point x="158" y="80"/>
+			<point x="159" y="155"/>
+			<point x="160" y="201" type="curve"/>
+			<point x="183" y="212"/>
+			<point x="207" y="220"/>
+			<point x="230" y="228" type="curve"/>
+			<point x="235" y="134"/>
+			<point x="248" y="30"/>
+			<point x="253" y="-7" type="curve"/>
+			<point x="360" y="17" type="line"/>
+			<point x="362" y="28" type="line"/>
+			<point x="341" y="76"/>
+			<point x="328" y="182"/>
+			<point x="328" y="278" type="curve"/>
+			<point x="328" y="342"/>
+			<point x="326" y="378"/>
+			<point x="351" y="405" type="curve"/>
+			<point x="351" y="440" type="line"/>
+			<point x="231" y="426" type="line"/>
+			<point x="230" y="383"/>
+			<point x="229" y="342"/>
+			<point x="229" y="288" type="curve"/>
+			<point x="206" y="276"/>
+			<point x="182" y="265"/>
+			<point x="160" y="257" type="curve"/>
+			<point x="158" y="341"/>
+			<point x="146" y="411"/>
+			<point x="109" y="440" type="curve"/>
+			<point x="15" y="390" type="line"/>
+			<point x="15" y="370" type="line"/>
+			<point x="49" y="350"/>
+			<point x="68" y="317"/>
+			<point x="68" y="199" type="curve"/>
+			<point x="68" y="95"/>
+			<point x="63" y="53"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.04,0.57,0.04,1</string>
+		</dict>
+	</lib>
+</glyph>

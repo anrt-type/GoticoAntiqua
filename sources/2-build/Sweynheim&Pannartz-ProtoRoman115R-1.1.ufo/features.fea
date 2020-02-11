@@ -1,0 +1,66 @@
+@AllLetters = [A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a a_macr b c c_t d d_strok e e_macr f f_f g h i i_macr j k l m m_macr n n_macr o o_macr p p.ss01 p_bardes p_flour p_macr p_urrot q q_bardes q_ra q_bardes_ra q_strok q_etfin r r.ss01 s s.ss01 longs longs_i longs_f longs_longs longs_longs_i longs_t t t_acute u u_macr v w x y z gamma mu upsilon omega pamphyliandigamma rum
+];
+languagesystem DFLT dflt;
+
+feature aalt {
+feature calt;
+
+} aalt ;
+
+feature liga {
+sub c t by c_t;
+sub f f by f_f;
+sub longs i by longs_i;
+sub longs f by longs_f;
+sub longs longs by longs_longs;
+sub longs longs i by longs_longs_i;
+sub longs t by longs_t;
+sub s i by longs_i;
+sub s f by longs_f;
+sub s longs by longs_longs;
+sub s longs i by longs_longs_i;
+sub s t by longs_t;
+
+
+
+
+} liga ;
+
+feature hlig {
+sub c t by c_t;
+sub f f by f_f;
+sub longs i by longs_i;
+sub longs f by longs_f;
+sub longs longs by longs_longs;
+sub longs longs i by longs_longs_i;
+sub longs t by longs_t;
+sub s i by longs_i;
+sub s f by longs_f;
+sub s longs by longs_longs;
+sub s longs i by longs_longs_i;
+sub s t by longs_t;
+
+} hlig ;
+
+feature calt {
+sub e r' by r.ss01;
+sub s p' by p.ss01;
+} calt ;
+
+
+feature kern {
+	lookup kern_latn {
+	lookupflag IgnoreMarks;
+		pos A T -100;
+		pos F a -80;
+		pos P a -80;
+		pos e y 0;
+		pos f a -30;
+		pos r a -40;
+		pos r o -20;
+		pos u e 0;
+		pos v e -20;
+	} kern_latn;
+	lookupflag 0;
+} kern;
+

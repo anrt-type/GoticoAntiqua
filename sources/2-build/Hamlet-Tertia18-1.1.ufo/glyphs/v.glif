@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="v" format="2">
+	<advance width="449"/>
+	<unicode hex="0076"/>
+	<outline>
+		<contour>
+			<point x="130" y="219" type="curve"/>
+			<point x="242" y="-10" type="line"/>
+			<point x="267" y="-10" type="line"/>
+			<point x="384" y="181"/>
+			<point x="429" y="252"/>
+			<point x="429" y="310" type="curve"/>
+			<point x="429" y="361"/>
+			<point x="394" y="410"/>
+			<point x="321" y="410" type="curve"/>
+			<point x="198" y="273" type="line"/>
+			<point x="157" y="362"/>
+			<point x="153" y="380"/>
+			<point x="63" y="410" type="curve"/>
+			<point x="0" y="329" type="line"/>
+			<point x="4" y="319" type="line"/>
+			<point x="72" y="338"/>
+			<point x="93" y="296"/>
+		</contour>
+		<contour>
+			<point x="291" y="84" type="curve"/>
+			<point x="291" y="84" type="line"/>
+			<point x="218" y="234" type="line"/>
+			<point x="226" y="281"/>
+			<point x="266" y="313"/>
+			<point x="303" y="313" type="curve"/>
+			<point x="338" y="313"/>
+			<point x="364" y="292"/>
+			<point x="364" y="245" type="curve"/>
+			<point x="364" y="184"/>
+			<point x="321" y="130"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>o</string>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

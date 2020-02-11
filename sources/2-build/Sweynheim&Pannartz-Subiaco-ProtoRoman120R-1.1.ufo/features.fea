@@ -1,0 +1,112 @@
+@AllLetters = [A B C D E F G H I K L M M.ss01 N O P Q R S T V X Y Z a b b_strok c c_ra c_t d d_strok e e_macr e_ogon f f_i f_i.ss01 g g_ring h l_strok i i.calt i_macr i_u i_u_macr l m m.calt m_macr m_ring n n.calt n_macr o o_macr p p.calt p_bardes p_flour p_macr p_urrot q q_bardes q_bardes_ra q_etfin q_ra q_ring q_strok q_strok_macr r r.calt r_macr r_a s longs longs_strok longs_longs longs_t t t_acute t_a t_i t_u u u_macr u_calt u_ring v x x_ring y etfin rum gamma mu upsilon omega Eta alpha beta delta epsilon theta iota iota_dieresis kappa lambda xi omicron pi rho tau upsilon_dieresis phi chi san deicoptic
+];
+languagesystem DFLT dflt;
+
+feature aalt {
+feature dlig;
+feature liga;
+feature hist;
+feature hlig;
+feature salt;
+feature ss01;
+feature ss02;
+feature ss03;
+feature calt;
+
+} aalt ;
+
+feature liga {
+sub c t by c_t;
+sub f f by f_f;
+sub f i by f_i;
+sub l i by l_i;
+sub i n by i_n;
+sub i u by i_u;
+sub n i by n_i;
+sub r a by r_a;
+sub r i by r_i;
+sub longs longs by longs_longs;
+sub longs etfin by longs_etfin;
+sub longs t by longs_t;
+sub t a by t_a;
+sub t i by t_i;
+sub t u by t_u;
+sub u i by u_i;
+} liga ;
+
+feature hlig {
+sub c t by c_t;
+sub f f by f_f;
+sub f i by f_i;
+sub l i by l_i;
+sub i n by i_n;
+sub i u by i_u;
+sub n i by n_i;
+sub r a by r_a;
+sub r i by r_i;
+sub longs longs by longs_longs;
+sub longs etfin by longs_etfin;
+sub longs t by longs_t;
+sub t a by t_a;
+sub t i by t_i;
+sub t u by t_u;
+sub u i by u_i;
+} hlig ;
+
+feature hist {
+sub M by M.ss01;
+sub f_i by f_i.ss01;
+sub s by longs;
+sub @AllLetters longs' [emspace enspace threeperemspace fourperemspace space thinspace hairspace period] by s;
+} hist ;
+
+feature salt {
+sub M by M.ss01;
+sub f_i by f_i.ss01;
+sub s by longs;
+sub @AllLetters longs' [emspace enspace threeperemspace fourperemspace space thinspace hairspace period] by s;
+
+} salt ;
+
+feature ss01 {
+featureNames {
+	name "Alternate M";
+};
+sub M by M.ss01;
+
+} ss01 ;
+
+feature ss02 {
+featureNames {
+	name "Alternate ligature f_i";
+};
+sub f_i by f_i.ss01;
+
+} ss02 ;
+
+feature ss03 {
+featureNames {
+	name "Long s";
+};
+sub s by longs;
+sub @AllLetters longs' [emspace enspace threeperemspace fourperemspace space thinspace hairspace period] by s;
+} ss03 ;
+
+feature calt {
+sub [e u] m' by m.calt;
+sub [e u] n' by n.calt;
+sub [g] i' by i.calt;
+sub [e] r' by r.calt;
+sub [e s r c] p' by p.calt;
+} calt ;
+
+
+feature kern {
+	lookup kern_latn {
+	lookupflag IgnoreMarks;
+		pos D A -50;
+		pos v e 0;
+	} kern_latn;
+	lookupflag 0;
+} kern;
+

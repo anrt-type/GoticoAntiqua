@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="I" format="1">
+  <advance width="351"/>
+  <unicode hex="0049"/>
+  <outline>
+    <contour>
+      <point x="34" y="30" type="curve"/>
+      <point x="34" y="0" type="line"/>
+      <point x="309" y="0" type="line"/>
+      <point x="309" y="30" type="line"/>
+      <point x="263" y="41"/>
+      <point x="245" y="54"/>
+      <point x="243" y="80" type="curve"/>
+      <point x="235" y="182"/>
+      <point x="241" y="523"/>
+      <point x="247" y="631" type="curve"/>
+      <point x="248" y="650"/>
+      <point x="272" y="661"/>
+      <point x="311" y="670" type="curve"/>
+      <point x="311" y="700" type="line"/>
+      <point x="20" y="700" type="line"/>
+      <point x="20" y="670" type="line"/>
+      <point x="121" y="655"/>
+      <point x="134" y="644"/>
+      <point x="136" y="613" type="curve"/>
+      <point x="138" y="573"/>
+      <point x="139" y="495"/>
+      <point x="139" y="410" type="curve"/>
+      <point x="126" y="356"/>
+      <point x="105" y="337"/>
+      <point x="50" y="321" type="curve"/>
+      <point x="57" y="295" type="line"/>
+      <point x="139" y="308" type="line"/>
+      <point x="138" y="215"/>
+      <point x="136" y="127"/>
+      <point x="134" y="85" type="curve"/>
+      <point x="132" y="50"/>
+      <point x="113" y="42"/>
+    </contour>
+    <contour>
+      <point x="179" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="305" y="10" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="182" y="700" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="40" y="700" type="move" name="topleft"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>H</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.6</real>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

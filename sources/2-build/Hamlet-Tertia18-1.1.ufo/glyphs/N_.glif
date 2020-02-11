@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="N" format="2">
+	<advance width="709"/>
+	<unicode hex="004E"/>
+	<outline>
+		<contour>
+			<point x="30" y="10" type="curve"/>
+			<point x="30" y="0" type="line"/>
+			<point x="242" y="0" type="line"/>
+			<point x="242" y="10" type="line"/>
+			<point x="165" y="45"/>
+			<point x="164" y="45"/>
+			<point x="163" y="125" type="curve"/>
+			<point x="162" y="233"/>
+			<point x="160" y="369"/>
+			<point x="162" y="506" type="curve"/>
+			<point x="293" y="424"/>
+			<point x="421" y="336"/>
+			<point x="547" y="243" type="curve"/>
+			<point x="546" y="122" type="line" smooth="yes"/>
+			<point x="545" y="52"/>
+			<point x="544" y="43"/>
+			<point x="487" y="10" type="curve"/>
+			<point x="487" y="0" type="line"/>
+			<point x="689" y="0" type="line"/>
+			<point x="689" y="10" type="line"/>
+			<point x="667" y="22"/>
+			<point x="639" y="29"/>
+			<point x="638" y="122" type="curve"/>
+			<point x="637" y="260"/>
+			<point x="635" y="452"/>
+			<point x="638" y="615" type="curve"/>
+			<point x="639" y="668"/>
+			<point x="652" y="673"/>
+			<point x="674" y="690" type="curve"/>
+			<point x="674" y="700" type="line"/>
+			<point x="475" y="700" type="line"/>
+			<point x="475" y="690" type="line"/>
+			<point x="539" y="662"/>
+			<point x="545" y="658"/>
+			<point x="546" y="615" type="curve"/>
+			<point x="548" y="521"/>
+			<point x="548" y="420"/>
+			<point x="547" y="335" type="curve"/>
+			<point x="416" y="416"/>
+			<point x="287" y="507"/>
+			<point x="163" y="591" type="curve"/>
+			<point x="164" y="662"/>
+			<point x="166" y="660"/>
+			<point x="214" y="690" type="curve"/>
+			<point x="214" y="700" type="line"/>
+			<point x="20" y="700" type="line"/>
+			<point x="20" y="690" type="line"/>
+			<point x="42" y="681"/>
+			<point x="70" y="668"/>
+			<point x="71" y="615" type="curve"/>
+			<point x="74" y="452"/>
+			<point x="73" y="263"/>
+			<point x="71" y="125" type="curve"/>
+			<point x="70" y="42"/>
+			<point x="61" y="38"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>H</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>H</string>
+			<key>public.markColor</key>
+			<string>0.97,0.9,0,1</string>
+		</dict>
+	</lib>
+</glyph>

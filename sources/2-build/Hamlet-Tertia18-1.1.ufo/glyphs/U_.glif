@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="U" format="2">
+	<advance width="703"/>
+	<unicode hex="0055"/>
+	<outline>
+		<contour>
+			<point x="280" y="-10" type="curve"/>
+			<point x="280" y="-10" type="line"/>
+			<point x="361" y="-10"/>
+			<point x="440" y="24"/>
+			<point x="508" y="73" type="curve"/>
+			<point x="508" y="49"/>
+			<point x="507" y="25"/>
+			<point x="506" y="0" type="curve"/>
+			<point x="683" y="0" type="line"/>
+			<point x="683" y="10" type="line"/>
+			<point x="617" y="45"/>
+			<point x="613" y="55"/>
+			<point x="609" y="125" type="curve"/>
+			<point x="601" y="262"/>
+			<point x="602" y="443"/>
+			<point x="604" y="555" type="curve"/>
+			<point x="606" y="648"/>
+			<point x="625" y="658"/>
+			<point x="656" y="689" type="curve"/>
+			<point x="656" y="700" type="line"/>
+			<point x="437" y="700" type="line"/>
+			<point x="437" y="690" type="line"/>
+			<point x="489" y="664"/>
+			<point x="507" y="668"/>
+			<point x="508" y="615" type="curve"/>
+			<point x="512" y="404"/>
+			<point x="513" y="268"/>
+			<point x="509" y="114" type="curve"/>
+			<point x="470" y="86"/>
+			<point x="389" y="60"/>
+			<point x="320" y="60" type="curve"/>
+			<point x="220" y="60"/>
+			<point x="172" y="112"/>
+			<point x="166" y="212" type="curve"/>
+			<point x="158" y="361"/>
+			<point x="162" y="500"/>
+			<point x="167" y="609" type="curve"/>
+			<point x="169" y="654"/>
+			<point x="171" y="659"/>
+			<point x="208" y="690" type="curve"/>
+			<point x="208" y="700" type="line"/>
+			<point x="20" y="700" type="line"/>
+			<point x="20" y="690" type="line"/>
+			<point x="60" y="659"/>
+			<point x="70" y="649"/>
+			<point x="70" y="600" type="curve"/>
+			<point x="70" y="212" type="line" smooth="yes"/>
+			<point x="70" y="62"/>
+			<point x="144" y="-10"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>H</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>H</string>
+			<key>public.markColor</key>
+			<string>0.97,0.9,0,1</string>
+		</dict>
+	</lib>
+</glyph>

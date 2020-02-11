@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Udieresis" format="2">
+	<advance width="678"/>
+	<unicode hex="00DC"/>
+	<outline>
+		<contour>
+			<point x="472" y="-12" type="curve"/>
+			<point x="472" y="-12" type="line"/>
+			<point x="523" y="-8"/>
+			<point x="574" y="2"/>
+			<point x="625" y="2" type="curve"/>
+			<point x="628" y="12" type="line"/>
+			<point x="588" y="163"/>
+			<point x="597" y="612"/>
+			<point x="623" y="690" type="curve"/>
+			<point x="620" y="700" type="line"/>
+			<point x="477" y="700" type="line"/>
+			<point x="486" y="544"/>
+			<point x="489" y="391"/>
+			<point x="485" y="168" type="curve"/>
+			<point x="467" y="143"/>
+			<point x="427" y="90"/>
+			<point x="331" y="90" type="curve"/>
+			<point x="231" y="90"/>
+			<point x="162" y="155"/>
+			<point x="162" y="315" type="curve"/>
+			<point x="162" y="407"/>
+			<point x="174" y="536"/>
+			<point x="189" y="690" type="curve"/>
+			<point x="186" y="700" type="line"/>
+			<point x="50" y="700" type="line"/>
+			<point x="77" y="563"/>
+			<point x="52" y="370"/>
+			<point x="52" y="232" type="curve"/>
+			<point x="52" y="57"/>
+			<point x="150" y="-11"/>
+			<point x="271" y="-11" type="curve"/>
+			<point x="358" y="-11"/>
+			<point x="440" y="53"/>
+			<point x="479" y="103" type="curve"/>
+			<point x="477" y="68"/>
+			<point x="475" y="24"/>
+		</contour>
+		<contour>
+			<point x="242" y="699" type="line"/>
+			<point x="272" y="410" type="line"/>
+			<point x="292" y="420" type="line"/>
+			<point x="297" y="519"/>
+			<point x="304" y="610"/>
+			<point x="313" y="709" type="curve"/>
+		</contour>
+		<contour>
+			<point x="356" y="700" type="line"/>
+			<point x="376" y="399" type="line"/>
+			<point x="396" y="407" type="line"/>
+			<point x="403" y="510"/>
+			<point x="420" y="607"/>
+			<point x="430" y="710" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>U</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>U</string>
+			<key>public.markColor</key>
+			<string>0.97,0.9,0,1</string>
+		</dict>
+	</lib>
+</glyph>

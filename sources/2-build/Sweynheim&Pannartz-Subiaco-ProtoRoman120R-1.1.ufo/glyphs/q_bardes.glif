@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="q_bardes" format="2">
+	<advance width="458"/>
+	<unicode hex="A757"/>
+	<outline>
+		<contour>
+			<point x="287" y="-340" type="curve"/>
+			<point x="287" y="-340" type="line"/>
+			<point x="410" y="-308" type="line"/>
+			<point x="408" y="-275"/>
+			<point x="406" y="-232"/>
+			<point x="404" y="-183" type="curve"/>
+			<point x="423" y="-183" type="line"/>
+			<point x="433" y="-175" type="line"/>
+			<point x="429" y="-109" type="line"/>
+			<point x="402" y="-112" type="line"/>
+			<point x="395" y="111"/>
+			<point x="393" y="402"/>
+			<point x="414" y="452" type="curve"/>
+			<point x="395" y="460" type="line"/>
+			<point x="361" y="423" type="line"/>
+			<point x="334" y="432"/>
+			<point x="293" y="440"/>
+			<point x="249" y="440" type="curve"/>
+			<point x="139" y="440"/>
+			<point x="20" y="300"/>
+			<point x="20" y="191" type="curve"/>
+			<point x="20" y="74"/>
+			<point x="78" y="10"/>
+			<point x="185" y="-10" type="curve"/>
+			<point x="304" y="39" type="line"/>
+			<point x="303" y="-14"/>
+			<point x="300" y="-72"/>
+			<point x="298" y="-130" type="curve"/>
+			<point x="220" y="-149"/>
+			<point x="153" y="-179"/>
+			<point x="90" y="-212" type="curve"/>
+			<point x="64" y="-269" type="line"/>
+			<point x="75" y="-274" type="line"/>
+			<point x="127" y="-240"/>
+			<point x="209" y="-208"/>
+			<point x="295" y="-193" type="curve"/>
+			<point x="293" y="-243"/>
+			<point x="290" y="-293"/>
+		</contour>
+		<contour>
+			<point x="305" y="78" type="curve"/>
+			<point x="305" y="78" type="line"/>
+			<point x="187" y="68"/>
+			<point x="107" y="128"/>
+			<point x="107" y="261" type="curve"/>
+			<point x="107" y="317"/>
+			<point x="139" y="361"/>
+			<point x="190" y="361" type="curve"/>
+			<point x="241" y="361"/>
+			<point x="307" y="334"/>
+			<point x="307" y="193" type="curve"/>
+			<point x="307" y="161"/>
+			<point x="306" y="122"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>q</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>q</string>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>
