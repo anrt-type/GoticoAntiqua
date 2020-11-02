@@ -1,5 +1,5 @@
 {
-.appVersion = "1290";
+.appVersion = "1348";
 classes = (
 {
 automatic = 1;
@@ -55,6 +55,7 @@ Q.ss01,
 R,
 R_stroke,
 R.ss01,
+R.ss02,
 S,
 S.ss01,
 T,
@@ -268,7 +269,7 @@ name = ss01;
 notes = "Name: Gothic Capitals";
 },
 {
-code = "sub D by D.ss02;\012sub D.ss01 by D.ss02;\012\012\012";
+code = "sub D by D.ss02;\012sub D.ss01 by D.ss02;\012sub R by R.ss02;\012sub R.ss01 by R.ss02;\012\012\012";
 name = ss02;
 notes = "Name: Alternate gothic D\012";
 },
@@ -3383,6 +3384,84 @@ nodes = (
 width = 728;
 }
 );
+},
+{
+glyphname = R.ss02;
+lastChange = "2020-11-02 13:13:13 +0000";
+layers = (
+{
+layerId = "31E65565-C22C-4792-86EE-013C6F95D489";
+paths = (
+{
+closed = 1;
+nodes = (
+"366 224 OFFCURVE",
+"502 -11 OFFCURVE",
+"621 -11 CURVE SMOOTH",
+"664 -11 OFFCURVE",
+"702 -4 OFFCURVE",
+"734 12 CURVE",
+"726 33 LINE",
+"653 11 OFFCURVE",
+"459 241 OFFCURVE",
+"387 347 CURVE",
+"306 311 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"210 342 LINE",
+"210 657 LINE",
+"376 665 OFFCURVE",
+"446 572 OFFCURVE",
+"444 486 CURVE SMOOTH",
+"442 383 OFFCURVE",
+"378 342 OFFCURVE",
+"257 342 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"461 356 OFFCURVE",
+"548 418 OFFCURVE",
+"550 509 CURVE SMOOTH",
+"553 637 OFFCURVE",
+"470 700 OFFCURVE",
+"262 700 CURVE SMOOTH",
+"196 700 OFFCURVE",
+"106 698 OFFCURVE",
+"42 702 CURVE",
+"40 662 LINE",
+"76 656 OFFCURVE",
+"109 644 OFFCURVE",
+"109 598 CURVE SMOOTH",
+"109 577 OFFCURVE",
+"110 130 OFFCURVE",
+"107 82 CURVE SMOOTH",
+"106 63 OFFCURVE",
+"89 38 OFFCURVE",
+"47 38 CURVE",
+"50 -2 LINE",
+"127 3 OFFCURVE",
+"214 3 OFFCURVE",
+"331 -2 CURVE",
+"330 38 LINE",
+"259 40 OFFCURVE",
+"212 54 OFFCURVE",
+"212 104 CURVE SMOOTH",
+"212 312 LINE",
+"306 311 LINE",
+"385 330 LINE"
+);
+}
+);
+width = 739;
+}
+);
+leftMetricsKey = R;
+rightMetricsKey = R;
 },
 {
 color = 3;
