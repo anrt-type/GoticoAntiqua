@@ -3386,8 +3386,9 @@ width = 728;
 );
 },
 {
+color = 3;
 glyphname = R.ss02;
-lastChange = "2020-11-02 13:13:13 +0000";
+lastChange = "2020-11-02 15:58:55 +0000";
 layers = (
 {
 layerId = "31E65565-C22C-4792-86EE-013C6F95D489";
