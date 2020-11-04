@@ -306,15 +306,15 @@ code = "sub c t by c_t;\012sub f f by f_f;\012sub f i by f_i;\012sub l i by l_i;
 name = hlig;
 },
 {
-code = "sub M by M.ss01;\012sub f_i by f_i.ss01;\012sub s by longs;\012sub @AllLetters longs' [emspace enspace threeperemspace fourperemspace space thinspace hairspace period] by s;";
+code = "sub M by M.ss01;\012sub N by N.ss01;\012sub f_i by f_i.ss01;\012sub s by longs;\012sub @AllLetters longs' [emspace enspace threeperemspace fourperemspace space thinspace hairspace period] by s;";
 name = hist;
 },
 {
-code = "sub M by M.ss01;\012sub f_i by f_i.ss01;\012sub s by longs;\012sub @AllLetters longs' [emspace enspace threeperemspace fourperemspace space thinspace hairspace period] by s;\012";
+code = "sub M by M.ss01;\012sub N by N.ss01;\012sub f_i by f_i.ss01;\012sub s by longs;\012sub @AllLetters longs' [emspace enspace threeperemspace fourperemspace space thinspace hairspace period] by s;\012";
 name = salt;
 },
 {
-code = "sub M by M.ss01;\012sub N by N.ss01;\012";
+code = "sub M by M.ss01;\012\012";
 name = ss01;
 notes = "Name: Alternate M";
 },
@@ -327,6 +327,11 @@ notes = "Name: Alternate ligature f_i";
 code = "sub s by longs;\012sub @AllLetters longs' [emspace enspace threeperemspace fourperemspace space thinspace hairspace period] by s;";
 name = ss03;
 notes = "Name: Long s";
+},
+{
+code = "sub N by N.ss01;";
+name = ss04;
+notes = "Name: Alternate N\012";
 },
 {
 code = "sub [e u] m' by m.calt;\012sub [e u] n' by n.calt;\012sub [g] i' by i.calt;\012sub [e] r' by r.calt;\012sub [e s r c] p' by p.calt;";

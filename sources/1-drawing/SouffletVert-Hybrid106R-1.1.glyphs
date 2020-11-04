@@ -1,5 +1,5 @@
 {
-.appVersion = "1290";
+.appVersion = "1348";
 classes = (
 {
 automatic = 1;
@@ -93,7 +93,6 @@ w,
 x,
 y,
 z,
-z.ss01,
 etfin,
 con,
 section,
@@ -183,11 +182,11 @@ code = "sub f l by f_l;\012sub longs i by longs_i;\012sub longs t by longs_t;";
 name = hlig;
 },
 {
-code = "sub d by d.ss01;\012sub g by g.ss01;\012sub h by h.ss01;\012sub s by longs;\012sub @AllLetters longs' [emspace enspace threeperemspace fourperemspace space thinspace hairspace period] by s;\012sub z by z.ss01;";
+code = "sub d by d.ss01;\012sub g by g.ss01;\012sub h by h.ss01;\012sub s by longs;\012sub @AllLetters longs' [emspace enspace threeperemspace fourperemspace space thinspace hairspace period] by s;";
 name = hist;
 },
 {
-code = "sub d by d.ss01;\012sub g by g.ss01;\012sub h by h.ss01;\012sub s by longs;\012sub @AllLetters longs' [emspace enspace threeperemspace fourperemspace space thinspace hairspace period] by s;\012sub z by z.ss01;";
+code = "sub d by d.ss01;\012sub g by g.ss01;\012sub h by h.ss01;\012sub s by longs;\012sub @AllLetters longs' [emspace enspace threeperemspace fourperemspace space thinspace hairspace period] by s;";
 name = salt;
 },
 {
@@ -214,11 +213,6 @@ notes = "Name: Long s";
 code = "sub @AllLetters longs' [emspace enspace threeperemspace fourperemspace space thinspace hairspace period] by s;";
 name = ss05;
 notes = "Name: Ending small s";
-},
-{
-code = "sub z by z.ss01;";
-name = ss06;
-notes = "Name: Alternate z";
 }
 );
 fontMaster = (
@@ -6398,65 +6392,6 @@ width = 356;
 }
 );
 unicode = 007A;
-},
-{
-color = 4;
-glyphname = z.ss01;
-lastChange = "2020-02-10 11:40:49 +0000";
-layers = (
-{
-layerId = "0E913661-75E6-4305-BF89-58B721FF741E";
-paths = (
-{
-closed = 1;
-nodes = (
-"65 -200 LINE",
-"56 -195 OFFCURVE",
-"48 -183 OFFCURVE",
-"48 -169 CURVE SMOOTH",
-"48 -154 OFFCURVE",
-"56 -144 OFFCURVE",
-"86 -129 CURVE SMOOTH",
-"187 -79 OFFCURVE",
-"296 -27 OFFCURVE",
-"296 58 CURVE SMOOTH",
-"296 112 OFFCURVE",
-"245 166 OFFCURVE",
-"158 183 CURVE",
-"211 240 OFFCURVE",
-"252 265 OFFCURVE",
-"302 322 CURVE",
-"292 344 LINE",
-"227 348 OFFCURVE",
-"162 387 OFFCURVE",
-"119 403 CURVE",
-"5 320 LINE",
-"19 303 LINE",
-"71 330 OFFCURVE",
-"125 300 OFFCURVE",
-"197 280 CURVE",
-"154 212 OFFCURVE",
-"78 168 OFFCURVE",
-"11 116 CURVE",
-"26 90 LINE",
-"130 150 OFFCURVE",
-"217 89 OFFCURVE",
-"217 31 CURVE SMOOTH",
-"217 -17 OFFCURVE",
-"179 -58 OFFCURVE",
-"56 -116 CURVE SMOOTH",
-"35 -126 OFFCURVE",
-"15 -147 OFFCURVE",
-"15 -169 CURVE SMOOTH",
-"15 -195 OFFCURVE",
-"39 -208 OFFCURVE",
-"61 -208 CURVE"
-);
-}
-);
-width = 327;
-}
-);
 },
 {
 color = 10;

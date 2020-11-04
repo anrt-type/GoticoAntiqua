@@ -1,5 +1,5 @@
 {
-.appVersion = "1290";
+.appVersion = "1348";
 classes = (
 {
 automatic = 1;
@@ -1464,7 +1464,7 @@ rightMetricsKey = O;
 {
 color = 3;
 glyphname = Q_strok;
-lastChange = "2020-01-30 15:49:33 +0000";
+lastChange = "2020-11-04 16:03:17 +0000";
 layers = (
 {
 layerId = "376BBDDA-9D91-4870-B0ED-D827125DC94B";
@@ -1483,12 +1483,12 @@ nodes = (
 "868 22 OFFCURVE",
 "800 -85 OFFCURVE",
 "662 -108 CURVE",
-"727 -17 OFFCURVE",
-"629 13 OFFCURVE",
-"496 -35 CURVE",
-"496 -57 LINE",
-"592 -25 OFFCURVE",
-"650 -65 OFFCURVE",
+"716 -14 OFFCURVE",
+"618 16 OFFCURVE",
+"466 -45 CURVE",
+"468 -70 LINE",
+"583 -25 OFFCURVE",
+"639 -62 OFFCURVE",
 "627 -112 CURVE",
 "620 -113 OFFCURVE",
 "614 -113 OFFCURVE",

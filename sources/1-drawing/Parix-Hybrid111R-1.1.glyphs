@@ -256,11 +256,11 @@ code = "sub longs longs by longs_longs;\012sub longs t by longs_t;\012sub f f by
 name = hlig;
 },
 {
-code = "sub A by A.ss01;\012sub B by B.ss01;\012sub C by C.ss01;\012sub D by D.ss01;\012sub E by E.ss01;\012sub F by F.ss01;\012sub G by G.ss01;\012sub H by H.ss01;\012sub L by L.ss01;\012sub M by M.ss01;\012sub O by O.ss01;\012sub P by P.ss01;\012sub Q by Q.ss01;\012sub R by R.ss01;\012sub S by S.ss01;\012sub T by T.ss01;\012sub V by V.ss01;\012sub g by g.ss01;\012sub r by r.ss01;\012sub s by longs;\012sub @AllLetters longs' [emspace enspace threeperemspace fourperemspace space thinspace hairspace period comma colon] by s;\012sub ampersand by ampersand.ss01;";
+code = "sub A by A.ss01;\012sub B by B.ss01;\012sub C by C.ss01;\012sub D by D.ss01;\012sub E by E.ss01;\012sub F by F.ss01;\012sub G by G.ss01;\012sub H by H.ss01;\012sub L by L.ss01;\012sub M by M.ss01;\012sub O by O.ss01;\012sub P by P.ss01;\012sub Q by Q.ss01;\012sub R by R.ss01;\012sub R.ss01 by R.ss02;\012sub S by S.ss01;\012sub T by T.ss01;\012sub V by V.ss01;\012sub g by g.ss01;\012sub r by r.ss01;\012sub s by longs;\012sub @AllLetters longs' [emspace enspace threeperemspace fourperemspace space thinspace hairspace period comma colon] by s;\012sub ampersand by ampersand.ss01;";
 name = hist;
 },
 {
-code = "sub A by A.ss01;\012sub B by B.ss01;\012sub C by C.ss01;\012sub D by D.ss01;\012sub E by E.ss01;\012sub F by F.ss01;\012sub G by G.ss01;\012sub H by H.ss01;\012sub L by L.ss01;\012sub M by M.ss01;\012sub O by O.ss01;\012sub P by P.ss01;\012sub Q by Q.ss01;\012sub R by R.ss01;\012sub S by S.ss01;\012sub T by T.ss01;\012sub V by V.ss01;\012sub g by g.ss01;\012sub r by r.ss01;\012sub s by longs;\012sub @AllLetters longs' [emspace enspace threeperemspace fourperemspace space thinspace hairspace period comma colon] by s;\012sub ampersand by ampersand.ss01;\012";
+code = "sub A by A.ss01;\012sub B by B.ss01;\012sub C by C.ss01;\012sub D by D.ss01;\012sub E by E.ss01;\012sub F by F.ss01;\012sub G by G.ss01;\012sub H by H.ss01;\012sub L by L.ss01;\012sub M by M.ss01;\012sub O by O.ss01;\012sub P by P.ss01;\012sub Q by Q.ss01;\012sub R by R.ss01;\012sub R.ss01 by R.ss02;\012sub S by S.ss01;\012sub T by T.ss01;\012sub V by V.ss01;\012sub g by g.ss01;\012sub r by r.ss01;\012sub s by longs;\012sub @AllLetters longs' [emspace enspace threeperemspace fourperemspace space thinspace hairspace period comma colon] by s;\012sub ampersand by ampersand.ss01;\012";
 name = salt;
 },
 {
@@ -269,7 +269,7 @@ name = ss01;
 notes = "Name: Gothic Capitals";
 },
 {
-code = "sub D by D.ss02;\012sub D.ss01 by D.ss02;\012sub R by R.ss02;\012sub R.ss01 by R.ss02;\012\012\012";
+code = "sub D by D.ss02;\012sub D.ss01 by D.ss02;\012\012\012\012";
 name = ss02;
 notes = "Name: Alternate gothic D\012";
 },
@@ -297,6 +297,11 @@ notes = "Name: Alternate z";
 code = "sub ampersand by ampersand.ss01;";
 name = ss07;
 notes = "Name: Alternate Ampersand";
+},
+{
+code = "sub R by R.ss02;\012sub R.ss01 by R.ss02;";
+name = ss08;
+notes = "Name: Alternate R";
 },
 {
 code = "sub longs i' by idotless;\012sub longs_longs i' by idotless;";
@@ -11918,9 +11923,9 @@ width = 433;
 unicode = 007A;
 },
 {
-color = 4;
+color = 6;
 glyphname = z.ss01;
-lastChange = "2020-01-30 18:16:42 +0000";
+lastChange = "2020-11-04 14:30:54 +0000";
 layers = (
 {
 layerId = "31E65565-C22C-4792-86EE-013C6F95D489";
