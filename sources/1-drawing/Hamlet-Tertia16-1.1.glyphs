@@ -1,5 +1,5 @@
 {
-.appVersion = "1290";
+.appVersion = "1348";
 copyright = "Copyright © 2019 by ANRT 2019. All rights reserved.";
 customParameters = (
 {
@@ -171,7 +171,7 @@ value = (
 },
 {
 name = description;
-value = "Hamlet (also named Kessler-Blackletter), designed by Edward Johnston, cut in three sizes (10, 12 and 18 pt) by Edward Prince for William Shakespeare’s Hamlet. Published by Harry Kessler’s Cranach Press in Weimar in 1929. The type is based on the Durandus for the lowercases, and Sweynheim & Pannartz’ Subiaco type for the capitals. The type was used for trials in other books, none of which were completed. \012\012Type design workshop at Bauhaus Universität Weimar and Anna Amalia Bibliothek Weimar, January 2018.\012\012Source: Hamlet, Shakespeare, 1929.\012\012Workshop participants: Adrian Brix, Alex Kara, Anne Pohlmann, Antonia Dieti, Carli Baumeister, Corinna Lobinger, Gabriel Dörner, Lena Vogel, Leon Lukas Plum, Marcel, Pohl, Markus Griebl, Martin Melcher, Sibo Pan, Tae Sung Park, Theresa Zingel, Zhaoyue Fan, Alexis Faudot, Rafel Ribas.\012\012Font designed and produced by Alexis Faudot and Rafael Ribas, directed by Jérôme Knebusch, Atelier National de Recherche Typographqiue (ANRT), Nancy.\012\012Copyright (c) 2019 ANRT. All rights reserved.";
+value = "Hamlet (also named Kessler-Blackletter), designed by Edward Johnston, cut in three sizes (10, 12 and 16 pt) by Edward Prince for William Shakespeare’s Hamlet. Published by Harry Kessler’s Cranach Press in Weimar in 1929. The type is based on the Durandus for the lowercases, and Sweynheim & Pannartz’ Subiaco type for the capitals. The type was used for trials in other books, none of which were completed. \012\012Type design workshop at Bauhaus Universität Weimar and Anna Amalia Bibliothek Weimar, January 2018.\012\012Source: Hamlet, Shakespeare, 1929.\012\012Workshop participants: Adrian Brix, Alex Kara, Anne Pohlmann, Antonia Dieti, Carli Baumeister, Corinna Lobinger, Gabriel Dörner, Lena Vogel, Leon Lukas Plum, Marcel, Pohl, Markus Griebl, Martin Melcher, Sibo Pan, Tae Sung Park, Theresa Zingel, Zhaoyue Fan, Alexis Faudot, Rafel Ribas.\012\012Font designed and produced by Alexis Faudot and Rafael Ribas, directed by Jérôme Knebusch, Atelier National de Recherche Typographqiue (ANRT), Nancy.\012\012Copyright (c) 2019 ANRT. All rights reserved.";
 },
 {
 name = "Disable Subroutines";
@@ -236,7 +236,7 @@ alignmentZones = (
 );
 ascender = 750;
 capHeight = 700;
-custom = "Tertia 18";
+custom = "Tertia 16";
 customParameters = (
 {
 name = winAscent;
@@ -15866,7 +15866,7 @@ instances = (
 instanceInterpolations = {
 "60B24473-AF85-4843-BA5D-A0A691C0B2A6" = 1;
 };
-name = "Tertia 18";
+name = "Tertia 16";
 }
 );
 manufacturer = ANRT;
