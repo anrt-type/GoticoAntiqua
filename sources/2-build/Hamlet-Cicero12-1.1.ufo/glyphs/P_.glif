@@ -4,49 +4,51 @@
 	<unicode hex="0050"/>
 	<outline>
 		<contour>
-			<point x="50" y="10" type="curve"/>
 			<point x="50" y="0" type="line"/>
 			<point x="261" y="0" type="line"/>
 			<point x="261" y="10" type="line"/>
 			<point x="196" y="45"/>
 			<point x="186" y="55"/>
-			<point x="186" y="90" type="curve"/>
+			<point x="186" y="90" type="curve" smooth="yes"/>
 			<point x="186" y="282"/>
 			<point x="182" y="459"/>
 			<point x="186" y="651" type="curve"/>
 			<point x="206" y="657"/>
 			<point x="233" y="660"/>
-			<point x="252" y="660" type="curve"/>
+			<point x="252" y="660" type="curve" smooth="yes"/>
 			<point x="404" y="660"/>
 			<point x="480" y="586"/>
-			<point x="480" y="479" type="curve"/>
+			<point x="480" y="479" type="curve" smooth="yes"/>
 			<point x="480" y="360"/>
 			<point x="399" y="273"/>
 			<point x="250" y="309" type="curve"/>
 			<point x="246" y="292" type="line"/>
 			<point x="264" y="281"/>
 			<point x="300" y="270"/>
-			<point x="351" y="270" type="curve"/>
+			<point x="351" y="270" type="curve" smooth="yes"/>
 			<point x="438" y="270"/>
 			<point x="587" y="322"/>
-			<point x="587" y="475" type="curve"/>
+			<point x="587" y="475" type="curve" smooth="yes"/>
 			<point x="587" y="595"/>
 			<point x="482" y="700"/>
-			<point x="272" y="700" type="curve"/>
+			<point x="272" y="700" type="curve" smooth="yes"/>
 			<point x="232" y="700"/>
 			<point x="131" y="700"/>
 			<point x="40" y="705" type="curve"/>
 			<point x="40" y="695" type="line"/>
 			<point x="60" y="662"/>
 			<point x="76" y="660"/>
-			<point x="76" y="560" type="curve"/>
+			<point x="76" y="560" type="curve" smooth="yes"/>
 			<point x="76" y="86" type="line" smooth="yes"/>
 			<point x="76" y="54"/>
 			<point x="65" y="32"/>
+			<point x="50" y="10" type="curve"/>
 		</contour>
 	</outline>
 	<lib>
 		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2020-02-01 17:44:16 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>H</string>
 			<key>public.markColor</key>

@@ -3,24 +3,28 @@
 	<advance width="407"/>
 	<note>
 		macr
-  </note>
+	</note>
 	<outline>
 		<contour>
-			<point x="30" y="508" type="curve"/>
 			<point x="51" y="501" type="line"/>
 			<point x="80" y="544"/>
 			<point x="164" y="557"/>
-			<point x="228" y="561" type="curve"/>
+			<point x="228" y="561" type="curve" smooth="yes"/>
 			<point x="361" y="569" type="line"/>
 			<point x="387" y="648" type="line"/>
 			<point x="385" y="654" type="line"/>
 			<point x="112" y="617" type="line"/>
 			<point x="81" y="586"/>
 			<point x="49" y="545"/>
+			<point x="30" y="508" type="curve"/>
 		</contour>
 	</outline>
 	<lib>
 		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-02-18 14:35:14 +0000</string>
 			<key>public.markColor</key>
 			<string>0.75,0.75,0.75,1</string>
 		</dict>

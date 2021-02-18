@@ -4,7 +4,6 @@
 	<unicode hex="004D"/>
 	<outline>
 		<contour>
-			<point x="481" y="-3" type="curve"/>
 			<point x="513" y="-6" type="line"/>
 			<point x="704" y="505" type="line"/>
 			<point x="796" y="124" type="line" smooth="yes"/>
@@ -18,7 +17,7 @@
 			<point x="1022" y="32" type="line"/>
 			<point x="911" y="37"/>
 			<point x="918" y="48"/>
-			<point x="897" y="136" type="curve"/>
+			<point x="897" y="136" type="curve" smooth="yes"/>
 			<point x="773" y="666" type="line"/>
 			<point x="883" y="668" type="line"/>
 			<point x="883" y="703" type="line"/>
@@ -37,7 +36,7 @@
 			<point x="94" y="668" type="line"/>
 			<point x="207" y="655"/>
 			<point x="220" y="646"/>
-			<point x="243" y="587" type="curve"/>
+			<point x="243" y="587" type="curve" smooth="yes"/>
 			<point x="246" y="580" type="line"/>
 			<point x="104" y="136" type="line" smooth="yes"/>
 			<point x="82" y="66"/>
@@ -50,14 +49,17 @@
 			<point x="283" y="32" type="line"/>
 			<point x="178" y="35"/>
 			<point x="156" y="55"/>
-			<point x="183" y="161" type="curve"/>
+			<point x="183" y="161" type="curve" smooth="yes"/>
 			<point x="273" y="516" type="line"/>
 			<point x="335" y="375"/>
 			<point x="441" y="152"/>
+			<point x="481" y="-3" type="curve"/>
 		</contour>
 	</outline>
 	<lib>
 		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2020-01-30 15:53:19 +0000</string>
 			<key>public.markColor</key>
 			<string>0.97,0.9,0,1</string>
 		</dict>

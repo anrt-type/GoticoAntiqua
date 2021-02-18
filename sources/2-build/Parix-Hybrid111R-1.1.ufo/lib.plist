@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>com.schriftgestaltung.DisplayStrings</key>
+	<array/>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
 	<key>com.schriftgestaltung.font.customParameters</key>
@@ -51,9 +53,11 @@
 				<string>Q</string>
 				<string>Q_u</string>
 				<string>Q.ss01</string>
+				<string>Q.ss02</string>
 				<string>R</string>
 				<string>R_stroke</string>
 				<string>R.ss01</string>
+				<string>R.ss02</string>
 				<string>S</string>
 				<string>S.ss01</string>
 				<string>T</string>
@@ -230,9 +234,11 @@
 		<string>Q</string>
 		<string>Q_u</string>
 		<string>Q.ss01</string>
+		<string>Q.ss02</string>
 		<string>R</string>
 		<string>R_stroke</string>
 		<string>R.ss01</string>
+		<string>R.ss02</string>
 		<string>S</string>
 		<string>S.ss01</string>
 		<string>T</string>
@@ -403,9 +409,11 @@
 		<string>Q</string>
 		<string>Q_u</string>
 		<string>Q.ss01</string>
+		<string>Q.ss02</string>
 		<string>R</string>
 		<string>R_stroke</string>
 		<string>R.ss01</string>
+		<string>R.ss02</string>
 		<string>S</string>
 		<string>S.ss01</string>
 		<string>T</string>

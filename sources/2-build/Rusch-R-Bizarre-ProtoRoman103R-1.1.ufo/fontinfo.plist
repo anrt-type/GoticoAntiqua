@@ -84,6 +84,10 @@ Copyright (c) 2019 ANRT. All rights reserved.</string>
 	<array>
 		<integer>79</integer>
 	</array>
+	<key>postscriptUnderlinePosition</key>
+	<integer>-100</integer>
+	<key>postscriptUnderlineThickness</key>
+	<integer>50</integer>
 	<key>styleMapFamilyName</key>
 	<string>Rusch R-Bizarre Proto-Roman 103R</string>
 	<key>styleMapStyleName</key>

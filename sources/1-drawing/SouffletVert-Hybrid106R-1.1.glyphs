@@ -1,5 +1,5 @@
 {
-.appVersion = "1348";
+.appVersion = "1354";
 classes = (
 {
 automatic = 1;
@@ -6862,8 +6862,9 @@ unicode = 002D;
 },
 {
 color = 10;
+export = 0;
 glyphname = macr;
-lastChange = "2020-01-30 15:42:40 +0000";
+lastChange = "2021-02-18 14:32:04 +0000";
 layers = (
 {
 anchors = (
@@ -6900,8 +6901,9 @@ width = 313;
 },
 {
 color = 10;
+export = 0;
 glyphname = ra;
-lastChange = "2020-01-30 15:42:40 +0000";
+lastChange = "2021-02-18 14:32:04 +0000";
 layers = (
 {
 layerId = "0E913661-75E6-4305-BF89-58B721FF741E";

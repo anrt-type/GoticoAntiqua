@@ -4,7 +4,6 @@
   <unicode hex="014D"/>
   <outline>
     <contour>
-      <point x="83" y="519" type="line"/>
       <point x="96" y="506" type="line"/>
       <point x="175" y="560"/>
       <point x="195" y="548"/>
@@ -16,16 +15,16 @@
       <point x="301" y="631"/>
       <point x="273" y="604"/>
       <point x="165" y="615" type="curve"/>
+      <point x="83" y="519" type="line"/>
     </contour>
     <contour>
       <point x="179" y="-10" type="curve"/>
-      <point x="179" y="-10" type="line"/>
       <point x="202" y="-4"/>
       <point x="222" y="-3"/>
-      <point x="260" y="5" type="curve"/>
+      <point x="260" y="5" type="curve" smooth="yes"/>
       <point x="344" y="23"/>
       <point x="425" y="92"/>
-      <point x="425" y="203" type="curve"/>
+      <point x="425" y="203" type="curve" smooth="yes"/>
       <point x="425" y="345"/>
       <point x="332" y="398"/>
       <point x="206" y="410" type="curve"/>
@@ -34,22 +33,21 @@
       <point x="80" y="335" type="curve"/>
       <point x="41" y="288"/>
       <point x="25" y="250"/>
-      <point x="25" y="187" type="curve"/>
+      <point x="25" y="187" type="curve" smooth="yes"/>
       <point x="25" y="86"/>
       <point x="85" y="20"/>
     </contour>
     <contour>
-      <point x="246" y="48" type="curve"/>
-      <point x="246" y="48" type="line"/>
+      <point x="246" y="48" type="curve" smooth="yes"/>
       <point x="180" y="48"/>
       <point x="100" y="104"/>
-      <point x="100" y="208" type="curve"/>
+      <point x="100" y="208" type="curve" smooth="yes"/>
       <point x="100" y="255"/>
       <point x="116" y="308"/>
       <point x="157" y="343" type="curve"/>
       <point x="265" y="359"/>
       <point x="348" y="290"/>
-      <point x="348" y="187" type="curve"/>
+      <point x="348" y="187" type="curve" smooth="yes"/>
       <point x="348" y="113"/>
       <point x="310" y="48"/>
     </contour>
@@ -86,7 +84,7 @@
         </dict>
       </array>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019-04-23 16:17:47 +0000</string>
+      <string>2020-01-30 16:40:26 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>o</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

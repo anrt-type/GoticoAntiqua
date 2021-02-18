@@ -4,7 +4,6 @@
 	<unicode hex="0071"/>
 	<outline>
 		<contour>
-			<point x="336" y="90" type="curve"/>
 			<point x="326" y="-180" type="line"/>
 			<point x="433" y="-180" type="line"/>
 			<point x="427" y="37"/>
@@ -21,20 +20,20 @@
 			<point x="71" y="351" type="curve"/>
 			<point x="47" y="325"/>
 			<point x="25" y="258"/>
-			<point x="25" y="199" type="curve"/>
+			<point x="25" y="199" type="curve" smooth="yes"/>
 			<point x="25" y="98"/>
 			<point x="83" y="13"/>
 			<point x="159" y="-10" type="curve"/>
 			<point x="164" y="-10" type="line"/>
 			<point x="221" y="19"/>
 			<point x="279" y="53"/>
+			<point x="336" y="90" type="curve"/>
 		</contour>
 		<contour>
-			<point x="241" y="95" type="curve"/>
-			<point x="241" y="95" type="line"/>
+			<point x="241" y="95" type="curve" smooth="yes"/>
 			<point x="159" y="95"/>
 			<point x="120" y="161"/>
-			<point x="120" y="241" type="curve"/>
+			<point x="120" y="241" type="curve" smooth="yes"/>
 			<point x="120" y="282"/>
 			<point x="131" y="341"/>
 			<point x="166" y="370" type="curve"/>
@@ -48,6 +47,8 @@
 	</outline>
 	<lib>
 		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2020-02-04 05:33:43 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>o</string>
 			<key>public.markColor</key>

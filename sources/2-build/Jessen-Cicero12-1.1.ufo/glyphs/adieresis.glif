@@ -5,7 +5,6 @@
 	<outline>
 		<contour>
 			<point x="189" y="-10" type="curve"/>
-			<point x="189" y="-10" type="line"/>
 			<point x="225" y="24"/>
 			<point x="260" y="34"/>
 			<point x="296" y="50" type="curve"/>
@@ -27,7 +26,6 @@
 			<point x="144" y="6"/>
 		</contour>
 		<contour>
-			<point x="317" y="382" type="curve"/>
 			<point x="317" y="83" type="line"/>
 			<point x="252" y="84"/>
 			<point x="194" y="92"/>
@@ -35,22 +33,25 @@
 			<point x="143" y="430" type="line"/>
 			<point x="197" y="425"/>
 			<point x="266" y="404"/>
+			<point x="317" y="382" type="curve"/>
 		</contour>
 		<contour>
-			<point x="208" y="750" type="line"/>
 			<point x="126" y="565" type="line"/>
 			<point x="169" y="565" type="line"/>
 			<point x="267" y="750" type="line"/>
+			<point x="208" y="750" type="line"/>
 		</contour>
 		<contour>
-			<point x="323" y="750" type="line"/>
 			<point x="259" y="565" type="line"/>
 			<point x="297" y="575" type="line"/>
 			<point x="392" y="750" type="line"/>
+			<point x="323" y="750" type="line"/>
 		</contour>
 	</outline>
 	<lib>
 		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2020-01-30 12:51:33 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>a</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

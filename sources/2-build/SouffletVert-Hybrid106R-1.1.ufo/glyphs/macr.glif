@@ -5,7 +5,6 @@
 	<anchor x="147" y="390" name="_top"/>
 	<outline>
 		<contour>
-			<point x="20" y="491" type="line"/>
 			<point x="48" y="485" type="line"/>
 			<point x="64" y="508"/>
 			<point x="194" y="497"/>
@@ -15,10 +14,15 @@
 			<point x="230" y="569"/>
 			<point x="119" y="572"/>
 			<point x="65" y="572" type="curve"/>
+			<point x="20" y="491" type="line"/>
 		</contour>
 	</outline>
 	<lib>
 		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-02-18 14:32:04 +0000</string>
 			<key>public.markColor</key>
 			<string>0.75,0.75,0.75,1</string>
 		</dict>

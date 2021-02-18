@@ -4,7 +4,6 @@
 	<outline>
 		<contour>
 			<point x="598" y="465" type="curve"/>
-			<point x="598" y="465" type="line"/>
 			<point x="546" y="452"/>
 			<point x="493" y="414"/>
 			<point x="454" y="364" type="curve"/>
@@ -22,7 +21,7 @@
 			<point x="35" y="675" type="line"/>
 			<point x="53" y="610"/>
 			<point x="50" y="522"/>
-			<point x="50" y="376" type="curve"/>
+			<point x="50" y="376" type="curve" smooth="yes"/>
 			<point x="50" y="282"/>
 			<point x="50" y="169"/>
 			<point x="47" y="0" type="curve"/>
@@ -32,10 +31,10 @@
 			<point x="150" y="339" type="curve"/>
 			<point x="178" y="358"/>
 			<point x="210" y="365"/>
-			<point x="247" y="365" type="curve"/>
+			<point x="247" y="365" type="curve" smooth="yes"/>
 			<point x="325" y="365"/>
 			<point x="395" y="298"/>
-			<point x="395" y="216" type="curve"/>
+			<point x="395" y="216" type="curve" smooth="yes"/>
 			<point x="395" y="89"/>
 			<point x="307" y="-49"/>
 			<point x="195" y="-144" type="curve"/>
@@ -49,19 +48,18 @@
 			<point x="637" y="-10" type="curve"/>
 			<point x="726" y="68"/>
 			<point x="823" y="108"/>
-			<point x="823" y="258" type="curve"/>
+			<point x="823" y="258" type="curve" smooth="yes"/>
 			<point x="823" y="358"/>
 			<point x="736" y="465"/>
 		</contour>
 		<contour>
 			<point x="678" y="83" type="curve"/>
-			<point x="678" y="83" type="line"/>
 			<point x="578" y="82"/>
 			<point x="497" y="146"/>
 			<point x="481" y="238" type="curve"/>
 			<point x="482" y="246"/>
 			<point x="482" y="255"/>
-			<point x="482" y="263" type="curve"/>
+			<point x="482" y="263" type="curve" smooth="yes"/>
 			<point x="482" y="272"/>
 			<point x="481" y="282"/>
 			<point x="480" y="292" type="curve"/>
@@ -70,13 +68,15 @@
 			<point x="530" y="380" type="curve"/>
 			<point x="644" y="393"/>
 			<point x="743" y="307"/>
-			<point x="743" y="217" type="curve"/>
+			<point x="743" y="217" type="curve" smooth="yes"/>
 			<point x="743" y="157"/>
 			<point x="719" y="112"/>
 		</contour>
 	</outline>
 	<lib>
 		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2020-02-10 15:42:31 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>h</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

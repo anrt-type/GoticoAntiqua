@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>com.schriftgestaltung.DisplayStrings</key>
+	<array/>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
 	<key>com.schriftgestaltung.font.customParameters</key>
@@ -92,7 +94,6 @@
 				<string>x</string>
 				<string>y</string>
 				<string>z</string>
-				<string>z.ss01</string>
 				<string>etfin</string>
 				<string>con</string>
 				<string>section</string>
@@ -225,7 +226,6 @@
 		<string>x</string>
 		<string>y</string>
 		<string>z</string>
-		<string>z.ss01</string>
 		<string>etfin</string>
 		<string>con</string>
 		<string>section</string>
@@ -326,7 +326,6 @@
 		<string>x</string>
 		<string>y</string>
 		<string>z</string>
-		<string>z.ss01</string>
 		<string>etfin</string>
 		<string>con</string>
 		<string>section</string>
@@ -359,5 +358,10 @@
 		<key>threeperemspace</key>
 		<string>uni2004</string>
 	</dict>
+	<key>public.skipExportGlyphs</key>
+	<array>
+		<string>macr</string>
+		<string>ra</string>
+	</array>
 </dict>
 </plist>

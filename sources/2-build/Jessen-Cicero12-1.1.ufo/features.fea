@@ -1,17 +1,10 @@
+# Prefix: Languagesystems
+# automatic
 languagesystem DFLT dflt;
 
 feature liga {
 sub c h by c_h;
 sub c k by c_k;
 sub f f by f_f;
-} liga ;
-
-
-feature kern {
-	lookup kern_latn {
-	lookupflag IgnoreMarks;
-		pos space V -100;
-	} kern_latn;
-	lookupflag 0;
-} kern;
+} liga;
 

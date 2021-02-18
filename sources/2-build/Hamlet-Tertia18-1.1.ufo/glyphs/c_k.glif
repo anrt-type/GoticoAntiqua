@@ -4,7 +4,6 @@
 	<outline>
 		<contour>
 			<point x="126" y="-10" type="curve"/>
-			<point x="126" y="-10" type="line"/>
 			<point x="171" y="15"/>
 			<point x="237" y="63"/>
 			<point x="273" y="82" type="curve"/>
@@ -17,7 +16,7 @@
 			<point x="389" y="15" type="line"/>
 			<point x="369" y="27"/>
 			<point x="354" y="50"/>
-			<point x="354" y="60" type="curve"/>
+			<point x="354" y="60" type="curve" smooth="yes"/>
 			<point x="354" y="184" type="line"/>
 			<point x="404" y="203"/>
 			<point x="469" y="-10"/>
@@ -31,7 +30,7 @@
 			<point x="443" y="227" type="curve"/>
 			<point x="482" y="263"/>
 			<point x="536" y="296"/>
-			<point x="536" y="330" type="curve"/>
+			<point x="536" y="330" type="curve" smooth="yes"/>
 			<point x="536" y="366"/>
 			<point x="488" y="410"/>
 			<point x="446" y="410" type="curve"/>
@@ -57,16 +56,15 @@
 			<point x="49" y="325" type="curve"/>
 			<point x="37" y="286"/>
 			<point x="30" y="240"/>
-			<point x="30" y="194" type="curve"/>
+			<point x="30" y="194" type="curve" smooth="yes"/>
 			<point x="30" y="70"/>
 			<point x="75" y="10"/>
 		</contour>
 		<contour>
-			<point x="188" y="85" type="curve"/>
-			<point x="188" y="85" type="line"/>
+			<point x="188" y="85" type="curve" smooth="yes"/>
 			<point x="120" y="85"/>
 			<point x="110" y="159"/>
-			<point x="110" y="220" type="curve"/>
+			<point x="110" y="220" type="curve" smooth="yes"/>
 			<point x="110" y="274"/>
 			<point x="117" y="311"/>
 			<point x="126" y="340" type="curve"/>
@@ -80,17 +78,18 @@
 		</contour>
 		<contour>
 			<point x="354" y="201" type="curve"/>
-			<point x="354" y="201" type="line"/>
 			<point x="354" y="320" type="line"/>
 			<point x="403" y="358"/>
 			<point x="460" y="343"/>
-			<point x="460" y="305" type="curve"/>
+			<point x="460" y="305" type="curve" smooth="yes"/>
 			<point x="460" y="286"/>
 			<point x="445" y="241"/>
 		</contour>
 	</outline>
 	<lib>
 		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2020-01-30 12:50:56 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
 			<string>k</string>
 			<key>public.markColor</key>

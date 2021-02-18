@@ -4,13 +4,12 @@
   <unicode hex="0046"/>
   <outline>
     <contour>
-      <point x="33" y="30" type="curve"/>
       <point x="33" y="0" type="line"/>
       <point x="337" y="0" type="line"/>
       <point x="337" y="30" type="line"/>
       <point x="237" y="45"/>
       <point x="221" y="47"/>
-      <point x="221" y="116" type="curve"/>
+      <point x="221" y="116" type="curve" smooth="yes"/>
       <point x="221" y="312" type="line"/>
       <point x="454" y="312" type="line" smooth="yes"/>
       <point x="518" y="312"/>
@@ -23,7 +22,7 @@
       <point x="571" y="446" type="line"/>
       <point x="560" y="372"/>
       <point x="525" y="357"/>
-      <point x="450" y="357" type="curve"/>
+      <point x="450" y="357" type="curve" smooth="yes"/>
       <point x="221" y="357" type="line"/>
       <point x="221" y="662" type="line"/>
       <point x="460" y="662" type="line" smooth="yes"/>
@@ -36,10 +35,11 @@
       <point x="20" y="670" type="line"/>
       <point x="80" y="661"/>
       <point x="112" y="654"/>
-      <point x="113" y="593" type="curve"/>
+      <point x="113" y="593" type="curve" smooth="yes"/>
       <point x="117" y="121" type="line" smooth="yes"/>
       <point x="118" y="53"/>
       <point x="95" y="32"/>
+      <point x="33" y="30" type="curve"/>
     </contour>
     <contour>
       <point x="322" y="0" type="move" name="bottom"/>
@@ -50,6 +50,8 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020-01-30 16:28:18 +0000</string>
       <key>com.typemytype.robofont.mark</key>
       <array>
         <real>0.6</real>

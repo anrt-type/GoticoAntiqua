@@ -1,5 +1,5 @@
 {
-.appVersion = "1348";
+.appVersion = "1354";
 classes = (
 {
 automatic = 1;
@@ -6885,8 +6885,9 @@ unicode = 002E;
 },
 {
 color = 10;
+export = 0;
 glyphname = bardes;
-lastChange = "2020-01-30 15:50:20 +0000";
+lastChange = "2021-02-18 14:28:45 +0000";
 layers = (
 {
 layerId = "376BBDDA-9D91-4870-B0ED-D827125DC94B";
@@ -6913,8 +6914,9 @@ width = 474;
 },
 {
 color = 10;
+export = 0;
 glyphname = macr;
-lastChange = "2020-01-30 15:50:15 +0000";
+lastChange = "2021-02-18 14:28:45 +0000";
 layers = (
 {
 layerId = "376BBDDA-9D91-4870-B0ED-D827125DC94B";

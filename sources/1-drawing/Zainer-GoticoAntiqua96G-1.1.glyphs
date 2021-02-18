@@ -1,5 +1,5 @@
 {
-.appVersion = "1290";
+.appVersion = "1354";
 classes = (
 {
 automatic = 1;
@@ -15622,8 +15622,9 @@ unicode = 003F;
 },
 {
 color = 10;
+export = 0;
 glyphname = hyphen;
-lastChange = "2020-01-30 13:06:30 +0000";
+lastChange = "2021-02-18 14:35:14 +0000";
 layers = (
 {
 layerId = "E35B076F-D533-4C92-BAB9-D65BCB0F4FA2";
@@ -15659,8 +15660,9 @@ unicode = 002D;
 },
 {
 color = 10;
+export = 0;
 glyphname = macr;
-lastChange = "2020-02-10 15:50:47 +0000";
+lastChange = "2021-02-18 14:35:14 +0000";
 layers = (
 {
 layerId = "E35B076F-D533-4C92-BAB9-D65BCB0F4FA2";
@@ -15689,8 +15691,9 @@ note = macr;
 },
 {
 color = 10;
+export = 0;
 glyphname = apomod;
-lastChange = "2020-01-30 13:06:30 +0000";
+lastChange = "2021-02-18 14:35:14 +0000";
 layers = (
 {
 layerId = "E35B076F-D533-4C92-BAB9-D65BCB0F4FA2";
@@ -15723,8 +15726,9 @@ note = apomod;
 },
 {
 color = 10;
+export = 0;
 glyphname = urrot;
-lastChange = "2020-02-10 15:50:53 +0000";
+lastChange = "2021-02-18 14:35:14 +0000";
 layers = (
 {
 layerId = "E35B076F-D533-4C92-BAB9-D65BCB0F4FA2";

@@ -5,7 +5,6 @@
 	<outline>
 		<contour>
 			<point x="644" y="662" type="curve"/>
-			<point x="644" y="662" type="line"/>
 			<point x="644" y="700" type="line"/>
 			<point x="598" y="694"/>
 			<point x="499" y="696"/>
@@ -13,7 +12,7 @@
 			<point x="409" y="662" type="line"/>
 			<point x="453" y="657"/>
 			<point x="474" y="647"/>
-			<point x="443" y="599" type="curve"/>
+			<point x="443" y="599" type="curve" smooth="yes"/>
 			<point x="300" y="375" type="line"/>
 			<point x="187" y="375" type="line"/>
 			<point x="187" y="560" type="line" smooth="yes"/>
@@ -27,7 +26,7 @@
 			<point x="52" y="663" type="line"/>
 			<point x="83" y="642"/>
 			<point x="87" y="615"/>
-			<point x="87" y="570" type="curve"/>
+			<point x="87" y="570" type="curve" smooth="yes"/>
 			<point x="87" y="100" type="line" smooth="yes"/>
 			<point x="87" y="60"/>
 			<point x="80" y="46"/>
@@ -39,7 +38,7 @@
 			<point x="237" y="32" type="line"/>
 			<point x="200" y="46"/>
 			<point x="187" y="60"/>
-			<point x="187" y="100" type="curve"/>
+			<point x="187" y="100" type="curve" smooth="yes"/>
 			<point x="187" y="335" type="line"/>
 			<point x="266" y="335" type="line"/>
 			<point x="428" y="98" type="line" smooth="yes"/>
@@ -53,7 +52,7 @@
 			<point x="636" y="35" type="line"/>
 			<point x="611" y="47"/>
 			<point x="602" y="47"/>
-			<point x="560" y="105" type="curve"/>
+			<point x="560" y="105" type="curve" smooth="yes"/>
 			<point x="355" y="386" type="line"/>
 			<point x="525" y="592" type="line" smooth="yes"/>
 			<point x="569" y="645"/>
@@ -62,6 +61,8 @@
 	</outline>
 	<lib>
 		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2020-02-04 08:02:25 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>L</string>
 			<key>public.markColor</key>

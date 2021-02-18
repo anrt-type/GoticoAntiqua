@@ -4,4 +4,10 @@
 	<unicode hex="2009"/>
 	<outline>
 	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2020-01-30 12:40:45 +0000</string>
+		</dict>
+	</lib>
 </glyph>

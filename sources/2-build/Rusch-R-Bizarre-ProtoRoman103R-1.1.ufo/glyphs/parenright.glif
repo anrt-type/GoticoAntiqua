@@ -5,18 +5,17 @@
   <outline>
     <contour>
       <point x="20" y="723" type="curve"/>
-      <point x="20" y="723" type="line"/>
       <point x="20" y="693" type="line"/>
       <point x="350" y="678"/>
       <point x="507" y="556"/>
-      <point x="507" y="330" type="curve"/>
+      <point x="507" y="330" type="curve" smooth="yes"/>
       <point x="507" y="86"/>
       <point x="319" y="-42"/>
       <point x="33" y="-42" type="curve"/>
       <point x="33" y="-80" type="line"/>
       <point x="240" y="-81"/>
       <point x="550" y="0"/>
-      <point x="550" y="331" type="curve"/>
+      <point x="550" y="331" type="curve" smooth="yes"/>
       <point x="550" y="663"/>
       <point x="251" y="706"/>
     </contour>
@@ -24,7 +23,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019-03-11 19:49:30 +0000</string>
+      <string>2020-01-30 16:49:16 +0000</string>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
     </dict>

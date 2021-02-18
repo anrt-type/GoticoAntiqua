@@ -2,13 +2,12 @@
 <glyph name="L" format="2">
 	<advance width="564"/>
 	<unicode hex="004C"/>
-	<anchor x="292" y="350" name="center"/>
+	<anchor x="292" y="0" name="bottom"/>
 	<anchor x="292" y="700" name="top"/>
 	<anchor x="557" y="700" name="topright"/>
-	<anchor x="292" y="0" name="bottom"/>
+	<anchor x="292" y="350" name="center"/>
 	<outline>
 		<contour>
-			<point x="40" y="13" type="curve"/>
 			<point x="49" y="-14" type="line"/>
 			<point x="217" y="2"/>
 			<point x="386" y="5"/>
@@ -20,7 +19,7 @@
 			<point x="509" y="228" type="line"/>
 			<point x="492" y="144"/>
 			<point x="467" y="84"/>
-			<point x="386" y="80" type="curve"/>
+			<point x="386" y="80" type="curve" smooth="yes"/>
 			<point x="195" y="70" type="line"/>
 			<point x="196" y="580" type="line" smooth="yes"/>
 			<point x="196" y="643"/>
@@ -33,14 +32,17 @@
 			<point x="45" y="687" type="line"/>
 			<point x="108" y="652"/>
 			<point x="95" y="616"/>
-			<point x="95" y="553" type="curve"/>
+			<point x="95" y="553" type="curve" smooth="yes"/>
 			<point x="95" y="120" type="line" smooth="yes"/>
 			<point x="95" y="60"/>
 			<point x="89" y="48"/>
+			<point x="40" y="13" type="curve"/>
 		</contour>
 	</outline>
 	<lib>
 		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2020-02-10 11:23:30 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>H</string>
 			<key>public.markColor</key>

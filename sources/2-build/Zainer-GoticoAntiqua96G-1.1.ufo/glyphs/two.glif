@@ -4,10 +4,9 @@
 	<unicode hex="0032"/>
 	<note>
 		two
-  </note>
+	</note>
 	<outline>
 		<contour>
-			<point x="20" y="19" type="line"/>
 			<point x="27" y="-9" type="line"/>
 			<point x="107" y="2"/>
 			<point x="228" y="3"/>
@@ -29,10 +28,13 @@
 			<point x="152" y="361"/>
 			<point x="329" y="362" type="curve"/>
 			<point x="21" y="23" type="line"/>
+			<point x="20" y="19" type="line"/>
 		</contour>
 	</outline>
 	<lib>
 		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2020-01-30 13:06:30 +0000</string>
 			<key>public.markColor</key>
 			<string>0.75,0.75,0.75,1</string>
 		</dict>

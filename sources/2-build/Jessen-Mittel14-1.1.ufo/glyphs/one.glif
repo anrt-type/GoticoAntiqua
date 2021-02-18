@@ -5,7 +5,6 @@
 	<outline>
 		<contour>
 			<point x="167" y="0" type="curve"/>
-			<point x="167" y="0" type="line"/>
 			<point x="283" y="0" type="line"/>
 			<point x="271" y="194"/>
 			<point x="268" y="393"/>
@@ -24,6 +23,8 @@
 	</outline>
 	<lib>
 		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2020-01-30 12:51:42 +0000</string>
 			<key>public.markColor</key>
 			<string>0.06,0.6,0.98,1</string>
 		</dict>

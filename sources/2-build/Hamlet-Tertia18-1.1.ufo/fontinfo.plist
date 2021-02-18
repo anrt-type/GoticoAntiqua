@@ -21,7 +21,7 @@ Type design workshop at Bauhaus Universität Weimar and Anna Amalia Bibliothek W
 
 Source: Hamlet, Shakespeare, 1929.
 
-Workshop participants: Adrian Brix, Alex Kara, Anne Pohlmann, Antonia Dieti, Carli Baumeister, Corinna Lobinger, Gabriel Dörner, Lena Vogel, Leon Lukas Plum, Marcel, Pohl, Markus Griebl, Martin Melcher, Sibo Pan, Tae Sung Park, Theresa Zingel, Zhaoyue Fan, Alexis Faudot, Rafel Ribas.
+Workshop participants: Adrian Brix, Alex Kara, Anne Pohlmann, Antonia Dieti, Carli Baumeister, Corinna Lobinger, Gabriel Dörner, Lena Vogel, Leon Lukas Plum, Marcel, Pohl, Markus Griebl, Martin Melcher, Sibo Pan, Tae Sung Park, Theresa Zingel, Zhaoyue Fan, Alexis Faudot, Rafael Ribas.
 
 Font designed and produced by Alexis Faudot and Rafael Ribas, directed by Jérôme Knebusch, Atelier National de Recherche Typographqiue (ANRT), Nancy.
 
@@ -39,7 +39,7 @@ Copyright (c) 2019 ANRT. All rights reserved.</string>
 	<key>openTypeNameManufacturerURL</key>
 	<string>http://www.anrt-nancy.fr</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
-	<string>Tertia 18</string>
+	<string>Tertia 16</string>
 	<key>openTypeNameVersion</key>
 	<string>1.1</string>
 	<key>openTypeOS2CodePageRanges</key>
@@ -74,18 +74,18 @@ Copyright (c) 2019 ANRT. All rights reserved.</string>
 		<integer>710</integer>
 	</array>
 	<key>postscriptFontName</key>
-	<string>Hamlet-Tertia18</string>
+	<string>Hamlet-Tertia16</string>
 	<key>postscriptOtherBlues</key>
 	<array>
 		<integer>-260</integer>
 		<integer>-250</integer>
 	</array>
 	<key>styleMapFamilyName</key>
-	<string>Hamlet Tertia 18</string>
+	<string>Hamlet Tertia 16</string>
 	<key>styleMapStyleName</key>
 	<string>regular</string>
 	<key>styleName</key>
-	<string>Tertia 18</string>
+	<string>Tertia 16</string>
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
 	<key>versionMajor</key>

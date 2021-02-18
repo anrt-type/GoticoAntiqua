@@ -3,18 +3,17 @@
   <advance width="559"/>
   <outline>
     <contour>
-      <point x="435" y="316" type="curve"/>
-      <point x="435" y="316" type="line"/>
+      <point x="435" y="316" type="curve" smooth="yes"/>
       <point x="454" y="316"/>
       <point x="483" y="311"/>
       <point x="517" y="288" type="curve"/>
       <point x="534" y="301" type="line"/>
       <point x="505" y="360"/>
       <point x="483" y="403"/>
-      <point x="421" y="404" type="curve"/>
+      <point x="421" y="404" type="curve" smooth="yes"/>
       <point x="298" y="406"/>
       <point x="326" y="227"/>
-      <point x="321" y="134" type="curve"/>
+      <point x="321" y="134" type="curve" smooth="yes"/>
       <point x="320" y="117"/>
       <point x="319" y="97"/>
       <point x="319" y="76" type="curve"/>
@@ -23,17 +22,17 @@
       <point x="113" y="75" type="curve"/>
       <point x="157" y="155"/>
       <point x="229" y="247"/>
-      <point x="234" y="306" type="curve"/>
+      <point x="234" y="306" type="curve" smooth="yes"/>
       <point x="239" y="367"/>
       <point x="197" y="403"/>
-      <point x="128" y="403" type="curve"/>
+      <point x="128" y="403" type="curve" smooth="yes"/>
       <point x="67" y="403"/>
       <point x="20" y="348"/>
       <point x="20" y="348" type="curve"/>
       <point x="34" y="329" type="line"/>
       <point x="98" y="361"/>
       <point x="161" y="338"/>
-      <point x="161" y="271" type="curve"/>
+      <point x="161" y="271" type="curve" smooth="yes"/>
       <point x="161" y="194"/>
       <point x="106" y="116"/>
       <point x="35" y="22" type="curve"/>
@@ -41,7 +40,7 @@
       <point x="318" y="-4" type="line"/>
       <point x="317" y="-55"/>
       <point x="317" y="-96"/>
-      <point x="317" y="-97" type="curve"/>
+      <point x="317" y="-97" type="curve" smooth="yes"/>
       <point x="317" y="-193"/>
       <point x="300" y="-226"/>
       <point x="254" y="-250" type="curve"/>
@@ -49,7 +48,7 @@
       <point x="303" y="-282" type="line"/>
       <point x="327" y="-247"/>
       <point x="363" y="-206"/>
-      <point x="362" y="-104" type="curve"/>
+      <point x="362" y="-104" type="curve" smooth="yes"/>
       <point x="361" y="-4" type="line"/>
       <point x="459" y="-4" type="line"/>
       <point x="505" y="56" type="line"/>
@@ -62,7 +61,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019-03-19 11:05:07 +0000</string>
+      <string>2020-02-10 11:16:36 +0000</string>
       <key>com.typemytype.robofont.mark</key>
       <array>
         <integer>1</integer>

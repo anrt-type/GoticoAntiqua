@@ -4,11 +4,10 @@
   <unicode hex="0047"/>
   <outline>
     <contour>
-      <point x="377" y="-16" type="curve"/>
-      <point x="377" y="-16" type="line"/>
+      <point x="377" y="-16" type="curve" smooth="yes"/>
       <point x="536" y="-13"/>
       <point x="680" y="114"/>
-      <point x="680" y="290" type="curve"/>
+      <point x="680" y="290" type="curve" smooth="yes"/>
       <point x="680" y="459"/>
       <point x="572" y="523"/>
       <point x="470" y="526" type="curve"/>
@@ -17,7 +16,7 @@
       <point x="137" y="388" type="curve"/>
       <point x="150" y="559"/>
       <point x="248" y="626"/>
-      <point x="294" y="626" type="curve"/>
+      <point x="294" y="626" type="curve" smooth="yes"/>
       <point x="353" y="626"/>
       <point x="491" y="619"/>
       <point x="543" y="599" type="curve"/>
@@ -25,25 +24,24 @@
       <point x="663" y="679" type="line"/>
       <point x="583" y="687"/>
       <point x="475" y="710"/>
-      <point x="414" y="710" type="curve"/>
+      <point x="414" y="710" type="curve" smooth="yes"/>
       <point x="266" y="710"/>
       <point x="25" y="558"/>
-      <point x="25" y="316" type="curve"/>
+      <point x="25" y="316" type="curve" smooth="yes"/>
       <point x="25" y="131"/>
       <point x="135" y="-20"/>
     </contour>
     <contour>
-      <point x="412" y="50" type="curve"/>
-      <point x="412" y="50" type="line"/>
+      <point x="412" y="50" type="curve" smooth="yes"/>
       <point x="260" y="50"/>
       <point x="145" y="144"/>
       <point x="137" y="330" type="curve"/>
       <point x="194" y="369"/>
       <point x="307" y="418"/>
-      <point x="408" y="421" type="curve"/>
+      <point x="408" y="421" type="curve" smooth="yes"/>
       <point x="511" y="424"/>
       <point x="622" y="370"/>
-      <point x="622" y="249" type="curve"/>
+      <point x="622" y="249" type="curve" smooth="yes"/>
       <point x="622" y="137"/>
       <point x="530" y="50"/>
     </contour>
@@ -56,6 +54,8 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020-02-10 10:35:48 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>O</string>
       <key>com.typemytype.robofont.mark</key>

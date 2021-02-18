@@ -1,8 +1,12 @@
-@AllLetters = [A A.ss01 B B.ss01 C D D.ss01 D.ss02 E F G H I J K L L.ss01 M M.ss01 N N.ss01 O P P.ss01 Q Q_bardes Q_strok R R.ss01 S S.ss01 T U V V.ss01 W X X.ss01 Y.ss01 Z a a_macr b b_hook c c_hook c_macr c_ra c_t d d_strok e e_hook e_macr f f_f g g_hook g_ra g_i h h_hook i idotless i.ss01 i_macr i_n j k l l_hook m m_macr n n_hook n_macr o o_macr p p_bardes p_hook p_flour p_macr p_p p_p_flour p_ra p_urrot q q_hook q_macr q_ra q_strok q_strok_ra r r.ss01 r_hook r_macr s longs longs_i longs_longs longs_strok longs_t t t_acute t_macr t_ra t_tilde u u_hook u_macr v v_hook w x y z con etfin rum usmod
-];
+# automatic
+@AllLetters = [ A A.ss01 B B.ss01 C D D.ss01 D.ss02 E F G H I J K L L.ss01 M M.ss01 N N.ss01 O P P.ss01 Q Q_bardes Q_strok R R.ss01 S S.ss01 T U V V.ss01 W X X.ss01 Y.ss01 Z a a_macr b b_hook c c_hook c_macr c_ra c_t d d_strok e e_hook e_macr f f_f g g_hook g_ra g_i h h_hook i idotless i.ss01 i_macr i_n j k l l_hook m m_macr n n_hook n_macr o o_macr p p_bardes p_hook p_flour p_macr p_p p_p_flour p_ra p_urrot q q_hook q_macr q_ra q_strok q_strok_ra r r.ss01 r_hook r_macr s longs longs_i longs_longs longs_strok longs_t t t_acute t_macr t_ra t_tilde u u_hook u_macr v v_hook w x y z con etfin rum usmod ];
+
+# Prefix: Languagesystems
+# automatic
 languagesystem DFLT dflt;
 
 feature aalt {
+# automatic
 feature hist;
 feature salt;
 feature ss01;
@@ -18,8 +22,7 @@ feature ss10;
 feature ss11;
 feature ss12;
 feature ss13;
-
-} aalt ;
+} aalt;
 
 feature hlig {
 sub c t by c_t;
@@ -29,7 +32,7 @@ sub i n by i_n;
 sub longs i by longs_i;
 sub longs longs by longs_longs;
 sub longs t by longs_t;
-} hlig ;
+} hlig;
 
 feature liga {
 sub c t by c_t;
@@ -39,7 +42,7 @@ sub i n by i_n;
 sub longs i by longs_i;
 sub longs longs by longs_longs;
 sub longs t by longs_t;
-} liga ;
+} liga;
 
 feature hist {
 sub A by A.ss01;
@@ -56,7 +59,7 @@ sub X by X.ss01;
 sub r by r.ss01;
 sub s by longs;
 sub @AllLetters longs' [emspace enspace threeperemspace fourperemspace space thinspace hairspace period comma colon] by s;
-} hist ;
+} hist;
 
 feature salt {
 sub A by A.ss01;
@@ -73,236 +76,58 @@ sub X by X.ss01;
 sub r by r.ss01;
 sub s by longs;
 sub @AllLetters longs' [emspace enspace threeperemspace fourperemspace space thinspace hairspace period comma colon] by s;
-
-} salt ;
+} salt;
 
 feature ss01 {
-featureNames {
-	name "Alternate A";
-};
 sub A by A.ss01;
-
-
-} ss01 ;
+} ss01;
 
 feature ss02 {
-featureNames {
-	name "Alternate B";
-};
 sub B by B.ss01;
-} ss02 ;
+} ss02;
 
 feature ss03 {
-featureNames {
-	name "Alternate D";
-};
 sub D by D.ss01;
-} ss03 ;
+} ss03;
 
 feature ss04 {
-featureNames {
-	name "Alternate L";
-};
 sub L by L.ss01;
-} ss04 ;
+} ss04;
 
 feature ss05 {
-featureNames {
-	name "Alternate M";
-};
 sub M by M.ss01;
-} ss05 ;
+} ss05;
 
 feature ss06 {
-featureNames {
-	name "Alternate N";
-};
 sub N by N.ss01;
-} ss06 ;
+} ss06;
 
 feature ss07 {
-featureNames {
-	name "Alternate P";
-};
 sub P by P.ss01;
-} ss07 ;
+} ss07;
 
 feature ss08 {
-featureNames {
-	name "Alternate R";
-};
 sub R by R.ss01;
-} ss08 ;
+} ss08;
 
 feature ss09 {
-featureNames {
-	name "Alternate S";
-};
 sub S by S.ss01;
-} ss09 ;
+} ss09;
 
 feature ss10 {
-featureNames {
-	name "Alternate V";
-};
 sub V by V.ss01;
-} ss10 ;
+} ss10;
 
 feature ss11 {
-featureNames {
-	name "Alternate X";
-};
 sub X by X.ss01;
-} ss11 ;
+} ss11;
 
 feature ss12 {
-featureNames {
-	name "Alternate r";
-};
 sub r by r.ss01;
-} ss12 ;
+} ss12;
 
 feature ss13 {
-featureNames {
-	name "Long s";
-};
 sub s by longs;
 sub @AllLetters longs' [emspace enspace threeperemspace fourperemspace space thinspace hairspace period comma colon] by s;
-} ss13 ;
+} ss13;
 
-
-	markClass [hook] <anchor 95 400> @mark_top;
-	markClass [macr] <anchor 170 400> @mark_top;
-feature mark {
-	lookup marklatn {
-		pos base [A]  <anchor 339 700> mark @mark_top;
-		pos base [A.ss01]  <anchor 320 700> mark @mark_top;
-		pos base [B]  <anchor 323 700> mark @mark_top;
-		pos base [B.ss01]  <anchor 333 700> mark @mark_top;
-		pos base [C]  <anchor 353 700> mark @mark_top;
-		pos base [D]  <anchor 423 700> mark @mark_top;
-		pos base [D.ss02]  <anchor 465 515> mark @mark_top;
-		pos base [E]  <anchor 338 700> mark @mark_top;
-		pos base [F]  <anchor 322 700> mark @mark_top;
-		pos base [G]  <anchor 382 700> mark @mark_top;
-		pos base [H]  <anchor 435 700> mark @mark_top;
-		pos base [I]  <anchor 182 700> mark @mark_top;
-		pos base [L]  <anchor 332 700> mark @mark_top;
-		pos base [L.ss01]  <anchor 371 696> mark @mark_top;
-		pos base [M]  <anchor 536 700> mark @mark_top;
-		pos base [M.ss01]  <anchor 396 700> mark @mark_top;
-		pos base [N]  <anchor 409 700> mark @mark_top;
-		pos base [N.ss01]  <anchor 411 700> mark @mark_top;
-		pos base [O]  <anchor 430 700> mark @mark_top;
-		pos base [P]  <anchor 365 700> mark @mark_top;
-		pos base [P.ss01]  <anchor 414 700> mark @mark_top;
-		pos base [Q]  <anchor 301 700> mark @mark_top;
-		pos base [Q_bardes]  <anchor 506 700> mark @mark_top;
-		pos base [Q_strok]  <anchor 430 700> mark @mark_top;
-		pos base [R]  <anchor 377 700> mark @mark_top;
-		pos base [R.ss01]  <anchor 320 700> mark @mark_top;
-		pos base [S]  <anchor 290 700> mark @mark_top;
-		pos base [S.ss01]  <anchor 318 700> mark @mark_top;
-		pos base [T]  <anchor 389 700> mark @mark_top;
-		pos base [V]  <anchor 426 700> mark @mark_top;
-		pos base [V.ss01]  <anchor 290 700> mark @mark_top;
-		pos base [X]  <anchor 353 700> mark @mark_top;
-		pos base [X.ss01]  <anchor 385 700> mark @mark_top;
-		pos base [Y.ss01]  <anchor 351 700> mark @mark_top;
-		pos base [Z]  <anchor 380 700> mark @mark_top;
-		pos base [a]  <anchor 197 445> mark @mark_top;
-		pos base [a_macr]  <anchor 272 645> mark @mark_top;
-		pos base [b]  <anchor 246 445> mark @mark_top;
-		pos base [b_hook]  <anchor 255 795> mark @mark_top;
-		pos base [c]  <anchor 187 445> mark @mark_top;
-		pos base [c_hook]  <anchor 177 761> mark @mark_top;
-		pos base [c_macr]  <anchor 207 687> mark @mark_top;
-		pos base [c_ra]  <anchor 187 445> mark @mark_top;
-		pos base [d]  <anchor 281 445> mark @mark_top;
-		pos base [d_strok]  <anchor 281 445> mark @mark_top;
-		pos base [e]  <anchor 199 445> mark @mark_top;
-		pos base [e_hook]  <anchor 199 445> mark @mark_top;
-		pos base [e_macr]  <anchor 262 649> mark @mark_top;
-		pos base [f]  <anchor 148 445> mark @mark_top;
-		pos base [g]  <anchor 277 445> mark @mark_top;
-		pos base [g_hook]  <anchor 277 445> mark @mark_top;
-		pos base [g_ra]  <anchor 277 445> mark @mark_top;
-		pos base [h]  <anchor 255 445> mark @mark_top;
-		pos base [h_hook]  <anchor 241 795> mark @mark_top;
-		pos base [i_macr]  <anchor 200 748> mark @mark_top;
-		pos base [k]  <anchor 206 445> mark @mark_top;
-		pos base [l]  <anchor 117 445> mark @mark_top;
-		pos base [l_hook]  <anchor 218 773> mark @mark_top;
-		pos base [m]  <anchor 345 445> mark @mark_top;
-		pos base [m_macr]  <anchor 426 670> mark @mark_top;
-		pos base [n]  <anchor 239 445> mark @mark_top;
-		pos base [n_hook]  <anchor 239 445> mark @mark_top;
-		pos base [n_macr]  <anchor 239 445> mark @mark_top;
-		pos base [o]  <anchor 235 445> mark @mark_top;
-		pos base [o_macr]  <anchor 235 445> mark @mark_top;
-		pos base [p]  <anchor 291 445> mark @mark_top;
-		pos base [p_bardes]  <anchor 321 445> mark @mark_top;
-		pos base [p_hook]  <anchor 289 445> mark @mark_top;
-		pos base [p_flour]  <anchor 334 445> mark @mark_top;
-		pos base [p_macr]  <anchor 291 445> mark @mark_top;
-		pos base [p_ra]  <anchor 291 445> mark @mark_top;
-		pos base [p_urrot]  <anchor 291 445> mark @mark_top;
-		pos base [q]  <anchor 236 445> mark @mark_top;
-		pos base [q_hook]  <anchor 364 691> mark @mark_top;
-		pos base [q_macr]  <anchor 236 445> mark @mark_top;
-		pos base [q_ra]  <anchor 236 445> mark @mark_top;
-		pos base [q_strok]  <anchor 236 445> mark @mark_top;
-		pos base [q_strok_ra]  <anchor 236 445> mark @mark_top;
-		pos base [r]  <anchor 179 445> mark @mark_top;
-		pos base [r_hook]  <anchor 179 445> mark @mark_top;
-		pos base [r_macr]  <anchor 179 445> mark @mark_top;
-		pos base [s]  <anchor 222 445> mark @mark_top;
-		pos base [longs]  <anchor 194 445> mark @mark_top;
-		pos base [longs_strok]  <anchor 194 445> mark @mark_top;
-		pos base [t]  <anchor 173 445> mark @mark_top;
-		pos base [t_acute]  <anchor 173 445> mark @mark_top;
-		pos base [t_macr]  <anchor 173 445> mark @mark_top;
-		pos base [t_ra]  <anchor 177 445> mark @mark_top;
-		pos base [t_tilde]  <anchor 153 445> mark @mark_top;
-		pos base [u]  <anchor 262 445> mark @mark_top;
-		pos base [u_hook]  <anchor 262 445> mark @mark_top;
-		pos base [u_macr]  <anchor 262 445> mark @mark_top;
-		pos base [v]  <anchor 220 445> mark @mark_top;
-		pos base [v_hook]  <anchor 220 445> mark @mark_top;
-		pos base [x]  <anchor 201 445> mark @mark_top;
-		pos base [y]  <anchor 222 445> mark @mark_top;
-		pos base [z]  <anchor 190 445> mark @mark_top;
-	} marklatn;
-	lookup mark_latn_mark2Liga {
-		pos ligature [c_t]
-			<anchor 253 445> mark @mark_top
-			ligComponent
-			<anchor 587 445> mark @mark_top
-			;
-		pos ligature [longs_longs]
-			<anchor 60 445> mark @mark_top
-			ligComponent
-			<anchor 429 445> mark @mark_top
-			;
-	} mark_latn_mark2Liga;
-	lookupflag 0;
-} mark;
-feature mkmk {
-	lookup mkmk_DFLT_top {
-		lookupflag MarkAttachmentType @mark_top;
-		pos mark [hook] <anchor 95 716> mark @mark_top;
-		pos mark [macr] <anchor 170 673> mark @mark_top;
-	} mkmk_DFLT_top;
-	lookupflag 0;
-} mkmk;
-table GDEF {
- GlyphClassDef [A A.ss01 B B.ss01 C D D.ss02 E F G H I L L.ss01 M M.ss01 N N.ss01 O P P.ss01 Q Q_bardes Q_strok R R.ss01 S S.ss01 T V V.ss01 X X.ss01 Y.ss01 Z a a_macr b b_hook c c_hook c_macr c_ra d d_strok e e_hook e_macr f g g_hook g_ra h h_hook i_macr k l l_hook m m_macr n n_hook n_macr o o_macr p p_bardes p_hook p_flour p_macr p_ra p_urrot q q_hook q_macr q_ra q_strok q_strok_ra r r_hook r_macr s longs longs_strok t t_acute t_macr t_ra t_tilde u u_hook u_macr v v_hook x y z],# Base 
- [c_t f_f g_i i_n p_p p_p_flour longs_i longs_longs longs_t], # Liga 
- [hook macr], # Mark 
- ;
- LigatureCaretByPos c_t 420;
-LigatureCaretByPos f_f 255;
-LigatureCaretByPos i_n 290;
-LigatureCaretByPos longs_longs 245;
-LigatureCaretByPos longs_t 307;
-} GDEF;

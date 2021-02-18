@@ -1,5 +1,5 @@
 {
-.appVersion = "1290";
+.appVersion = "1354";
 classes = (
 {
 automatic = 1;
@@ -10950,8 +10950,9 @@ unicode = 002D;
 },
 {
 color = 10;
+export = 0;
 glyphname = bardes;
-lastChange = "2020-01-30 16:28:18 +0000";
+lastChange = "2021-02-18 14:29:28 +0000";
 layers = (
 {
 layerId = "483C873A-D416-4B5C-89C7-58C63F6F94B2";
@@ -10979,8 +10980,9 @@ width = 440;
 },
 {
 color = 10;
+export = 0;
 glyphname = flour;
-lastChange = "2020-02-10 11:05:43 +0000";
+lastChange = "2021-02-18 14:29:28 +0000";
 layers = (
 {
 layerId = "483C873A-D416-4B5C-89C7-58C63F6F94B2";
@@ -11014,8 +11016,9 @@ width = 340;
 },
 {
 color = 10;
+export = 0;
 glyphname = hook;
-lastChange = "2020-02-10 11:05:55 +0000";
+lastChange = "2021-02-18 14:29:28 +0000";
 layers = (
 {
 anchors = (
@@ -11058,8 +11061,9 @@ unicode = 0309;
 },
 {
 color = 10;
+export = 0;
 glyphname = longhook;
-lastChange = "2020-02-10 11:06:06 +0000";
+lastChange = "2021-02-18 14:29:28 +0000";
 layers = (
 {
 layerId = "483C873A-D416-4B5C-89C7-58C63F6F94B2";
@@ -11096,8 +11100,9 @@ width = 299;
 },
 {
 color = 10;
+export = 0;
 glyphname = macr;
-lastChange = "2020-01-30 16:28:18 +0000";
+lastChange = "2021-02-18 14:29:28 +0000";
 layers = (
 {
 anchors = (
@@ -11139,8 +11144,9 @@ unicode = 0304;
 },
 {
 color = 10;
+export = 0;
 glyphname = ra;
-lastChange = "2020-02-10 11:06:13 +0000";
+lastChange = "2021-02-18 14:29:28 +0000";
 layers = (
 {
 layerId = "483C873A-D416-4B5C-89C7-58C63F6F94B2";
@@ -11182,8 +11188,9 @@ width = 345;
 },
 {
 color = 10;
+export = 0;
 glyphname = ring;
-lastChange = "2020-01-30 16:28:18 +0000";
+lastChange = "2021-02-18 14:29:28 +0000";
 layers = (
 {
 layerId = "483C873A-D416-4B5C-89C7-58C63F6F94B2";
@@ -11230,8 +11237,9 @@ unicode = 030A;
 },
 {
 color = 10;
+export = 0;
 glyphname = tilde;
-lastChange = "2020-01-30 16:28:18 +0000";
+lastChange = "2021-02-18 14:29:28 +0000";
 layers = (
 {
 layerId = "483C873A-D416-4B5C-89C7-58C63F6F94B2";
@@ -11269,8 +11277,9 @@ unicode = 02DC;
 },
 {
 color = 10;
+export = 0;
 glyphname = urrot;
-lastChange = "2020-01-30 16:28:18 +0000";
+lastChange = "2021-02-18 14:29:28 +0000";
 layers = (
 {
 layerId = "483C873A-D416-4B5C-89C7-58C63F6F94B2";

@@ -3,11 +3,10 @@
 	<advance width="388"/>
 	<outline>
 		<contour>
-			<point x="163" y="-212" type="curve"/>
-			<point x="163" y="-212" type="line"/>
+			<point x="163" y="-212" type="curve" smooth="yes"/>
 			<point x="238" y="-212"/>
 			<point x="361" y="-122"/>
-			<point x="361" y="30" type="curve"/>
+			<point x="361" y="30" type="curve" smooth="yes"/>
 			<point x="361" y="117"/>
 			<point x="306" y="200"/>
 			<point x="218" y="216" type="curve"/>
@@ -22,7 +21,7 @@
 			<point x="351" y="646" type="line"/>
 			<point x="313" y="666"/>
 			<point x="259" y="710"/>
-			<point x="192" y="710" type="curve"/>
+			<point x="192" y="710" type="curve" smooth="yes"/>
 			<point x="179" y="710"/>
 			<point x="77" y="648"/>
 			<point x="50" y="634" type="curve"/>
@@ -35,11 +34,11 @@
 			<point x="174" y="10" type="line"/>
 			<point x="145" y="22"/>
 			<point x="130" y="45"/>
-			<point x="130" y="75" type="curve"/>
+			<point x="130" y="75" type="curve" smooth="yes"/>
 			<point x="130" y="159" type="line"/>
 			<point x="239" y="164"/>
 			<point x="277" y="67"/>
-			<point x="277" y="-17" type="curve"/>
+			<point x="277" y="-17" type="curve" smooth="yes"/>
 			<point x="277" y="-70"/>
 			<point x="258" y="-147"/>
 			<point x="219" y="-172" type="curve"/>
@@ -51,15 +50,17 @@
 			<point x="126" y="-212"/>
 		</contour>
 		<contour>
-			<point x="268" y="305" type="curve"/>
 			<point x="130" y="174" type="line"/>
 			<point x="130" y="301" type="line"/>
 			<point x="155" y="307"/>
 			<point x="214" y="307"/>
+			<point x="268" y="305" type="curve"/>
 		</contour>
 	</outline>
 	<lib>
 		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2020-02-04 06:13:41 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>n</string>
 			<key>public.markColor</key>

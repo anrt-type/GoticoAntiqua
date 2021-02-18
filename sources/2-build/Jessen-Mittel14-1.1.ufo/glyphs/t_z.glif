@@ -3,7 +3,6 @@
 	<advance width="420"/>
 	<outline>
 		<contour>
-			<point x="345" y="-110" type="curve"/>
 			<point x="370" y="-112" type="line"/>
 			<point x="395" y="-10"/>
 			<point x="394" y="35"/>
@@ -34,9 +33,9 @@
 			<point x="209" y="145" type="curve"/>
 			<point x="314" y="108"/>
 			<point x="345" y="12"/>
+			<point x="345" y="-110" type="curve"/>
 		</contour>
 		<contour>
-			<point x="166" y="180" type="curve"/>
 			<point x="136" y="169" type="line"/>
 			<point x="140" y="234"/>
 			<point x="148" y="328"/>
@@ -44,10 +43,13 @@
 			<point x="314" y="390" type="line"/>
 			<point x="274" y="323"/>
 			<point x="231" y="247"/>
+			<point x="166" y="180" type="curve"/>
 		</contour>
 	</outline>
 	<lib>
 		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2020-02-04 07:10:37 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>longs</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

@@ -4,27 +4,26 @@
 	<unicode hex="03C9"/>
 	<outline>
 		<contour>
-			<point x="213" y="-10" type="curve"/>
-			<point x="213" y="-10" type="line"/>
+			<point x="213" y="-10" type="curve" smooth="yes"/>
 			<point x="266" y="-10"/>
 			<point x="307" y="11"/>
 			<point x="335" y="44" type="curve"/>
 			<point x="361" y="12"/>
 			<point x="404" y="-10"/>
-			<point x="443" y="-10" type="curve"/>
+			<point x="443" y="-10" type="curve" smooth="yes"/>
 			<point x="538" y="-10"/>
 			<point x="619" y="85"/>
-			<point x="619" y="201" type="curve"/>
+			<point x="619" y="201" type="curve" smooth="yes"/>
 			<point x="619" y="311"/>
 			<point x="545" y="400"/>
 			<point x="454" y="440" type="curve"/>
 			<point x="415" y="346" type="line"/>
 			<point x="484" y="315"/>
 			<point x="559" y="254"/>
-			<point x="559" y="174" type="curve"/>
+			<point x="559" y="174" type="curve" smooth="yes"/>
 			<point x="559" y="99"/>
 			<point x="491" y="65"/>
-			<point x="452" y="65" type="curve"/>
+			<point x="452" y="65" type="curve" smooth="yes"/>
 			<point x="421" y="65"/>
 			<point x="392" y="83"/>
 			<point x="375" y="125" type="curve"/>
@@ -35,23 +34,25 @@
 			<point x="329" y="262" type="line"/>
 			<point x="354" y="148"/>
 			<point x="282" y="65"/>
-			<point x="212" y="65" type="curve"/>
+			<point x="212" y="65" type="curve" smooth="yes"/>
 			<point x="152" y="65"/>
 			<point x="100" y="113"/>
-			<point x="100" y="173" type="curve"/>
+			<point x="100" y="173" type="curve" smooth="yes"/>
 			<point x="100" y="266"/>
 			<point x="181" y="318"/>
 			<point x="272" y="341" type="curve"/>
 			<point x="250" y="440" type="line"/>
 			<point x="123" y="406"/>
 			<point x="40" y="297"/>
-			<point x="40" y="183" type="curve"/>
+			<point x="40" y="183" type="curve" smooth="yes"/>
 			<point x="40" y="73"/>
 			<point x="103" y="-10"/>
 		</contour>
 	</outline>
 	<lib>
 		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2020-02-10 12:54:23 +0000</string>
 			<key>public.markColor</key>
 			<string>0.04,0.57,0.04,1</string>
 		</dict>

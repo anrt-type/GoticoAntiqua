@@ -66,12 +66,16 @@
 	<string>Q_.glif</string>
 	<key>Q.ss01</key>
 	<string>Q_.ss01.glif</string>
+	<key>Q.ss02</key>
+	<string>Q_.ss02.glif</string>
 	<key>Q_u</key>
 	<string>Q__u.glif</string>
 	<key>R</key>
 	<string>R_.glif</string>
 	<key>R.ss01</key>
 	<string>R_.ss01.glif</string>
+	<key>R.ss02</key>
+	<string>R_.ss02.glif</string>
 	<key>R_stroke</key>
 	<string>R__stroke.glif</string>
 	<key>S</key>

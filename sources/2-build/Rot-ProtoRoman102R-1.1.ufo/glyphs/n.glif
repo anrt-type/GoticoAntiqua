@@ -5,22 +5,21 @@
 	<outline>
 		<contour>
 			<point x="50" y="-2" type="curve"/>
-			<point x="50" y="-2" type="line"/>
 			<point x="61" y="-1"/>
 			<point x="130" y="-1"/>
 			<point x="142" y="-2" type="curve"/>
 			<point x="136" y="61"/>
 			<point x="136" y="141"/>
-			<point x="136" y="204" type="curve"/>
+			<point x="136" y="204" type="curve" smooth="yes"/>
 			<point x="136" y="236"/>
 			<point x="136" y="263"/>
 			<point x="138" y="289" type="curve"/>
 			<point x="171" y="306"/>
 			<point x="208" y="316"/>
-			<point x="244" y="316" type="curve"/>
+			<point x="244" y="316" type="curve" smooth="yes"/>
 			<point x="298" y="316"/>
 			<point x="311" y="284"/>
-			<point x="311" y="217" type="curve"/>
+			<point x="311" y="217" type="curve" smooth="yes"/>
 			<point x="311" y="157"/>
 			<point x="309" y="79"/>
 			<point x="297" y="23" type="curve"/>
@@ -31,13 +30,13 @@
 			<point x="428" y="33" type="line"/>
 			<point x="391" y="36"/>
 			<point x="387" y="41"/>
-			<point x="386" y="85" type="curve"/>
+			<point x="386" y="85" type="curve" smooth="yes"/>
 			<point x="385" y="117"/>
 			<point x="393" y="207"/>
-			<point x="393" y="265" type="curve"/>
+			<point x="393" y="265" type="curve" smooth="yes"/>
 			<point x="393" y="334"/>
 			<point x="358" y="381"/>
-			<point x="274" y="381" type="curve"/>
+			<point x="274" y="381" type="curve" smooth="yes"/>
 			<point x="253" y="381"/>
 			<point x="183" y="341"/>
 			<point x="139" y="316" type="curve"/>
@@ -49,16 +48,18 @@
 			<point x="16" y="302" type="line"/>
 			<point x="41" y="302"/>
 			<point x="54" y="291"/>
-			<point x="55" y="267" type="curve"/>
+			<point x="55" y="267" type="curve" smooth="yes"/>
 			<point x="56" y="249"/>
 			<point x="56" y="226"/>
-			<point x="56" y="204" type="curve"/>
+			<point x="56" y="204" type="curve" smooth="yes"/>
 			<point x="56" y="141"/>
 			<point x="55" y="61"/>
 		</contour>
 	</outline>
 	<lib>
 		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2020-01-30 15:56:37 +0000</string>
 			<key>public.markColor</key>
 			<string>0.67,0.95,0.38,1</string>
 		</dict>

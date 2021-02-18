@@ -38,6 +38,8 @@ Copyright (c) 2019 ANRT. All rights reserved.</string>
 	<string>ANRT</string>
 	<key>openTypeNameManufacturerURL</key>
 	<string>http://www.anrt-nancy.fr</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Gotico-Antiqua 96G</string>
 	<key>openTypeNameVersion</key>
 	<string>1.1</string>
 	<key>openTypeOS2CodePageRanges</key>
@@ -54,6 +56,10 @@ Copyright (c) 2019 ANRT. All rights reserved.</string>
 	</array>
 	<key>openTypeOS2VendorID</key>
 	<string>ANRT</string>
+	<key>openTypeOS2WeightClass</key>
+	<integer>400</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
 	<key>openTypeOS2WinAscent</key>
 	<integer>725</integer>
 	<key>openTypeOS2WinDescent</key>
@@ -68,14 +74,18 @@ Copyright (c) 2019 ANRT. All rights reserved.</string>
 		<integer>715</integer>
 	</array>
 	<key>postscriptFontName</key>
-	<string>Zainer-Regular</string>
+	<string>Zainer-Gotico-Antiqua96G</string>
 	<key>postscriptOtherBlues</key>
 	<array>
 		<integer>-265</integer>
 		<integer>-250</integer>
 	</array>
+	<key>styleMapFamilyName</key>
+	<string>Zainer Gotico-Antiqua 96G</string>
+	<key>styleMapStyleName</key>
+	<string>regular</string>
 	<key>styleName</key>
-	<string>Regular</string>
+	<string>Gotico-Antiqua 96G</string>
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
 	<key>versionMajor</key>

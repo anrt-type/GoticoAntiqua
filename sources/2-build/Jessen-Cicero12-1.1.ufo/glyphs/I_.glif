@@ -5,7 +5,6 @@
 	<outline>
 		<contour>
 			<point x="50" y="0" type="curve"/>
-			<point x="50" y="0" type="line"/>
 			<point x="198" y="0" type="line"/>
 			<point x="170" y="101"/>
 			<point x="169" y="603"/>
@@ -17,6 +16,8 @@
 	</outline>
 	<lib>
 		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2020-02-04 06:32:39 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>H</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

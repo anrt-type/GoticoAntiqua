@@ -5,7 +5,6 @@
 	<outline>
 		<contour>
 			<point x="49" y="-10" type="curve"/>
-			<point x="49" y="-10" type="line"/>
 			<point x="97" y="-1"/>
 			<point x="150" y="8"/>
 			<point x="198" y="15" type="curve"/>
@@ -27,10 +26,10 @@
 			<point x="380" y="435" type="line"/>
 			<point x="380" y="551"/>
 			<point x="404" y="653"/>
-			<point x="493" y="653" type="curve"/>
+			<point x="493" y="653" type="curve" smooth="yes"/>
 			<point x="540" y="653"/>
 			<point x="547" y="611"/>
-			<point x="580" y="611" type="curve"/>
+			<point x="580" y="611" type="curve" smooth="yes"/>
 			<point x="585" y="611" type="line"/>
 			<point x="586" y="340"/>
 			<point x="583" y="206"/>
@@ -53,13 +52,13 @@
 			<point x="585" y="678" type="curve"/>
 			<point x="568" y="687"/>
 			<point x="546" y="693"/>
-			<point x="523" y="693" type="curve"/>
+			<point x="523" y="693" type="curve" smooth="yes"/>
 			<point x="471" y="693"/>
 			<point x="431" y="674"/>
 			<point x="400" y="648" type="curve"/>
 			<point x="376" y="670"/>
 			<point x="334" y="693"/>
-			<point x="285" y="693" type="curve"/>
+			<point x="285" y="693" type="curve" smooth="yes"/>
 			<point x="128" y="693"/>
 			<point x="70" y="518"/>
 			<point x="20" y="470" type="curve"/>
@@ -70,22 +69,24 @@
 			<point x="52" y="138"/>
 		</contour>
 		<contour>
-			<point x="282" y="435" type="curve"/>
 			<point x="137" y="435" type="line"/>
 			<point x="137" y="498" type="line" smooth="yes"/>
 			<point x="137" y="609"/>
 			<point x="198" y="643"/>
-			<point x="245" y="643" type="curve"/>
+			<point x="245" y="643" type="curve" smooth="yes"/>
 			<point x="288" y="643"/>
 			<point x="330" y="615"/>
 			<point x="350" y="591" type="curve"/>
 			<point x="336" y="569" type="line" smooth="yes"/>
 			<point x="313" y="532"/>
 			<point x="290" y="450"/>
+			<point x="282" y="435" type="curve"/>
 		</contour>
 	</outline>
 	<lib>
 		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2020-01-30 12:51:55 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>f</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

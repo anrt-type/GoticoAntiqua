@@ -4,11 +4,10 @@
   <unicode hex="0075"/>
   <outline>
     <contour>
-      <point x="530" y="49" type="curve"/>
       <point x="519" y="67" type="line"/>
       <point x="478" y="53"/>
       <point x="442" y="72"/>
-      <point x="442" y="109" type="curve"/>
+      <point x="442" y="109" type="curve" smooth="yes"/>
       <point x="442" y="277" type="line" smooth="yes"/>
       <point x="442" y="310"/>
       <point x="443" y="350"/>
@@ -20,14 +19,14 @@
       <point x="292" y="372" type="line"/>
       <point x="355" y="354"/>
       <point x="362" y="336"/>
-      <point x="362" y="305" type="curve"/>
+      <point x="362" y="305" type="curve" smooth="yes"/>
       <point x="362" y="97" type="line"/>
       <point x="323" y="67"/>
       <point x="271" y="53"/>
-      <point x="239" y="53" type="curve"/>
+      <point x="239" y="53" type="curve" smooth="yes"/>
       <point x="172" y="53"/>
       <point x="167" y="87"/>
-      <point x="167" y="135" type="curve"/>
+      <point x="167" y="135" type="curve" smooth="yes"/>
       <point x="168" y="325" type="line" smooth="yes"/>
       <point x="168" y="351"/>
       <point x="172" y="384"/>
@@ -39,13 +38,13 @@
       <point x="30" y="360" type="line"/>
       <point x="76" y="349"/>
       <point x="87" y="333"/>
-      <point x="87" y="301" type="curve"/>
+      <point x="87" y="301" type="curve" smooth="yes"/>
       <point x="87" y="249"/>
       <point x="88" y="162"/>
-      <point x="88" y="80" type="curve"/>
+      <point x="88" y="80" type="curve" smooth="yes"/>
       <point x="88" y="32"/>
       <point x="104" y="-11"/>
-      <point x="195" y="-11" type="curve"/>
+      <point x="195" y="-11" type="curve" smooth="yes"/>
       <point x="223" y="-11"/>
       <point x="290" y="20"/>
       <point x="366" y="62" type="curve"/>
@@ -54,6 +53,7 @@
       <point x="452" y="-10" type="curve"/>
       <point x="476" y="6"/>
       <point x="504" y="24"/>
+      <point x="530" y="49" type="curve"/>
     </contour>
     <contour>
       <point x="273" y="0" type="move" name="bottom"/>
@@ -71,7 +71,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019-03-19 10:20:51 +0000</string>
+      <string>2020-01-30 16:39:36 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>n</string>
       <key>com.typemytype.robofont.mark</key>

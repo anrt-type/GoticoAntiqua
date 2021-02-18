@@ -1,11 +1,13 @@
+# Prefix: Languagesystems
+# automatic
 languagesystem DFLT dflt;
 
 feature aalt {
+# automatic
 feature salt;
 feature ss01;
 feature ss02;
-
-} aalt ;
+} aalt;
 
 feature liga {
 sub c h by c_h;
@@ -16,28 +18,18 @@ sub f l by f_l;
 sub f f l by f_f_l;
 sub t h by t_h;
 sub t z by t_z;
-
-} liga ;
+} liga;
 
 feature salt {
 sub germandbls by germandbls.ss01;
 sub z by z.ss01;
-
-} salt ;
+} salt;
 
 feature ss01 {
-featureNames {
-	name "Alternate \00DF";
-};
 sub germandbls by germandbls.ss01;
-
-} ss01 ;
+} ss01;
 
 feature ss02 {
-featureNames {
-	name "Alternate z";
-};
 sub z by z.ss01;
-} ss02 ;
-
+} ss02;
 

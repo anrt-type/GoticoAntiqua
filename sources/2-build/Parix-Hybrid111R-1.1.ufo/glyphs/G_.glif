@@ -4,15 +4,14 @@
 	<unicode hex="0047"/>
 	<outline>
 		<contour>
-			<point x="414" y="-10" type="curve"/>
-			<point x="414" y="-10" type="line"/>
+			<point x="414" y="-10" type="curve" smooth="yes"/>
 			<point x="524" y="-10"/>
 			<point x="635" y="19"/>
 			<point x="738" y="60" type="curve"/>
 			<point x="738" y="89" type="line"/>
 			<point x="717" y="96"/>
 			<point x="685" y="96"/>
-			<point x="685" y="141" type="curve"/>
+			<point x="685" y="141" type="curve" smooth="yes"/>
 			<point x="685" y="247" type="line" smooth="yes"/>
 			<point x="685" y="297"/>
 			<point x="715" y="310"/>
@@ -24,17 +23,17 @@
 			<point x="495" y="322" type="line"/>
 			<point x="559" y="312"/>
 			<point x="585" y="290"/>
-			<point x="585" y="250" type="curve"/>
+			<point x="585" y="250" type="curve" smooth="yes"/>
 			<point x="585" y="101" type="line"/>
 			<point x="554" y="69"/>
 			<point x="482" y="35"/>
-			<point x="414" y="35" type="curve"/>
+			<point x="414" y="35" type="curve" smooth="yes"/>
 			<point x="254" y="35"/>
 			<point x="155" y="190"/>
-			<point x="155" y="350" type="curve"/>
+			<point x="155" y="350" type="curve" smooth="yes"/>
 			<point x="155" y="540"/>
 			<point x="272" y="665"/>
-			<point x="420" y="665" type="curve"/>
+			<point x="420" y="665" type="curve" smooth="yes"/>
 			<point x="523" y="665"/>
 			<point x="592" y="598"/>
 			<point x="634" y="498" type="curve"/>
@@ -44,16 +43,18 @@
 			<point x="701" y="675" type="curve"/>
 			<point x="621" y="698"/>
 			<point x="546" y="710"/>
-			<point x="440" y="710" type="curve"/>
+			<point x="440" y="710" type="curve" smooth="yes"/>
 			<point x="237" y="710"/>
 			<point x="35" y="570"/>
-			<point x="35" y="340" type="curve"/>
+			<point x="35" y="340" type="curve" smooth="yes"/>
 			<point x="35" y="130"/>
 			<point x="214" y="-10"/>
 		</contour>
 	</outline>
 	<lib>
 		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2020-02-04 07:40:59 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>O</string>
 			<key>public.markColor</key>

@@ -1,3 +1,5 @@
+# Prefix: Languagesystems
+# automatic
 languagesystem DFLT dflt;
 
 feature liga {
@@ -7,20 +9,5 @@ sub f f by f_f;
 sub f i by f_i;
 sub f l by f_l;
 sub o e by o_e;
-
-} liga ;
-
-
-feature kern {
-	lookup kern_latn {
-	lookupflag IgnoreMarks;
-		pos A T -70;
-		pos A V -80;
-		pos T A -70;
-		pos T o -150;
-		pos V A -100;
-		pos Y A -70;
-	} kern_latn;
-	lookupflag 0;
-} kern;
+} liga;
 

@@ -4,7 +4,6 @@
 	<unicode hex="004E"/>
 	<outline>
 		<contour>
-			<point x="40" y="35" type="line"/>
 			<point x="40" y="0" type="line"/>
 			<point x="210" y="0" type="line"/>
 			<point x="210" y="35" type="line"/>
@@ -30,10 +29,13 @@
 			<point x="45" y="668" type="line"/>
 			<point x="100" y="667" type="line"/>
 			<point x="100" y="35" type="line"/>
+			<point x="40" y="35" type="line"/>
 		</contour>
 	</outline>
 	<lib>
 		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2020-01-30 12:51:55 +0000</string>
 			<key>public.markColor</key>
 			<string>0.97,0.9,0,1</string>
 		</dict>

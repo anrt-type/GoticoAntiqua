@@ -80,6 +80,15 @@ Copyright (c) 2019 ANRT. All rights reserved.</string>
 		<integer>-340</integer>
 		<integer>-330</integer>
 	</array>
+	<key>postscriptStemSnapH</key>
+	<array>
+		<integer>45</integer>
+	</array>
+	<key>postscriptStemSnapV</key>
+	<array>
+		<integer>100</integer>
+		<integer>65</integer>
+	</array>
 	<key>styleMapFamilyName</key>
 	<string>Sweynheim &amp; Pannartz Subiaco Proto-Roman 120R</string>
 	<key>styleMapStyleName</key>

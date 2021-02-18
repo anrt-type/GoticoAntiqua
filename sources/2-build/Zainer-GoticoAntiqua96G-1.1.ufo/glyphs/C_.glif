@@ -4,18 +4,17 @@
 	<unicode hex="0043"/>
 	<note>
 		C
-  </note>
+	</note>
 	<outline>
 		<contour>
 			<point x="514" y="-15" type="curve"/>
-			<point x="514" y="-15" type="line"/>
 			<point x="564" y="15"/>
 			<point x="663" y="60"/>
 			<point x="727" y="108" type="curve"/>
 			<point x="710" y="138" type="line"/>
 			<point x="643" y="114"/>
 			<point x="596" y="92"/>
-			<point x="509" y="92" type="curve"/>
+			<point x="509" y="92" type="curve" smooth="yes"/>
 			<point x="490" y="92"/>
 			<point x="471" y="93"/>
 			<point x="453" y="96" type="curve"/>
@@ -42,17 +41,19 @@
 			<point x="235" y="-6"/>
 		</contour>
 		<contour>
-			<point x="417" y="621" type="curve"/>
 			<point x="415" y="102" type="line"/>
 			<point x="278" y="134"/>
 			<point x="186" y="236"/>
-			<point x="186" y="366" type="curve"/>
+			<point x="186" y="366" type="curve" smooth="yes"/>
 			<point x="186" y="514"/>
 			<point x="285" y="621"/>
+			<point x="417" y="621" type="curve"/>
 		</contour>
 	</outline>
 	<lib>
 		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2020-02-10 15:34:10 +0000</string>
 			<key>public.markColor</key>
 			<string>0.97,0.9,0,1</string>
 		</dict>

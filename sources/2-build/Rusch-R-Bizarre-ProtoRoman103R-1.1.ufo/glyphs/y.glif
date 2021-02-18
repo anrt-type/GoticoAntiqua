@@ -4,12 +4,11 @@
   <unicode hex="0079"/>
   <outline>
     <contour>
-      <point x="422" y="400" type="line"/>
       <point x="281" y="400" type="line"/>
       <point x="281" y="375" type="line"/>
       <point x="345" y="360"/>
       <point x="345" y="343"/>
-      <point x="337" y="319" type="curve"/>
+      <point x="337" y="319" type="curve" smooth="yes"/>
       <point x="316" y="258"/>
       <point x="268" y="147"/>
       <point x="218" y="40" type="curve"/>
@@ -31,6 +30,7 @@
       <point x="184" y="-123"/>
       <point x="396" y="348"/>
       <point x="422" y="377" type="curve"/>
+      <point x="422" y="400" type="line"/>
     </contour>
     <contour>
       <point x="214" y="0" type="move" name="bottom"/>
@@ -42,7 +42,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019-03-11 19:27:02 +0000</string>
+      <string>2020-01-30 16:39:36 +0000</string>
       <key>com.typemytype.robofont.mark</key>
       <array>
         <integer>1</integer>

@@ -4,8 +4,7 @@
   <unicode hex="A769"/>
   <outline>
     <contour>
-      <point x="387" y="588" type="curve"/>
-      <point x="387" y="588" type="line"/>
+      <point x="387" y="588" type="curve" smooth="yes"/>
       <point x="387" y="629"/>
       <point x="349" y="670"/>
       <point x="314" y="688" type="curve"/>
@@ -22,10 +21,10 @@
       <point x="15" y="580" type="line"/>
       <point x="60" y="571"/>
       <point x="84" y="538"/>
-      <point x="85" y="422" type="curve"/>
+      <point x="85" y="422" type="curve" smooth="yes"/>
       <point x="86" y="326"/>
       <point x="91" y="128"/>
-      <point x="84" y="68" type="curve"/>
+      <point x="84" y="68" type="curve" smooth="yes"/>
       <point x="81" y="43"/>
       <point x="68" y="33"/>
       <point x="30" y="17" type="curve"/>
@@ -36,7 +35,7 @@
       <point x="235" y="18" type="line"/>
       <point x="184" y="40"/>
       <point x="176" y="40"/>
-      <point x="171" y="63" type="curve"/>
+      <point x="171" y="63" type="curve" smooth="yes"/>
       <point x="167" y="81"/>
       <point x="166" y="238"/>
       <point x="165" y="359" type="curve"/>
@@ -45,17 +44,16 @@
     </contour>
     <contour>
       <point x="165" y="388" type="curve"/>
-      <point x="165" y="388" type="line"/>
       <point x="165" y="497" type="line" smooth="yes"/>
       <point x="165" y="521"/>
       <point x="166" y="543"/>
       <point x="167" y="563" type="curve"/>
       <point x="191" y="582"/>
       <point x="215" y="598"/>
-      <point x="241" y="598" type="curve"/>
+      <point x="241" y="598" type="curve" smooth="yes"/>
       <point x="281" y="598"/>
       <point x="303" y="573"/>
-      <point x="303" y="542" type="curve"/>
+      <point x="303" y="542" type="curve" smooth="yes"/>
       <point x="303" y="486"/>
       <point x="235" y="420"/>
     </contour>
@@ -86,7 +84,7 @@
         </dict>
       </array>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019-04-23 16:17:56 +0000</string>
+      <string>2020-01-30 16:39:35 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>l</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

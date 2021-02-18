@@ -4,7 +4,6 @@
 	<unicode hex="EBA6"/>
 	<outline>
 		<contour>
-			<point x="34" y="18" type="curve"/>
 			<point x="34" y="-2" type="line"/>
 			<point x="77" y="0"/>
 			<point x="135" y="0"/>
@@ -12,7 +11,7 @@
 			<point x="202" y="23" type="line"/>
 			<point x="139" y="32"/>
 			<point x="138" y="37"/>
-			<point x="138" y="92" type="curve"/>
+			<point x="138" y="92" type="curve" smooth="yes"/>
 			<point x="140" y="360" type="line" smooth="yes"/>
 			<point x="141" y="480"/>
 			<point x="146" y="544"/>
@@ -22,7 +21,7 @@
 			<point x="311" y="553" type="curve"/>
 			<point x="310" y="550"/>
 			<point x="310" y="548"/>
-			<point x="310" y="545" type="curve"/>
+			<point x="310" y="545" type="curve" smooth="yes"/>
 			<point x="310" y="411"/>
 			<point x="313" y="375"/>
 			<point x="262" y="336" type="curve"/>
@@ -39,7 +38,7 @@
 			<point x="439" y="23" type="line"/>
 			<point x="386" y="32"/>
 			<point x="385" y="37"/>
-			<point x="385" y="92" type="curve"/>
+			<point x="385" y="92" type="curve" smooth="yes"/>
 			<point x="385" y="315" type="line" smooth="yes"/>
 			<point x="385" y="507"/>
 			<point x="386" y="542"/>
@@ -61,10 +60,10 @@
 			<point x="342" y="602" type="curve"/>
 			<point x="301" y="619"/>
 			<point x="250" y="631"/>
-			<point x="222" y="631" type="curve"/>
+			<point x="222" y="631" type="curve" smooth="yes"/>
 			<point x="206" y="631"/>
 			<point x="63" y="576"/>
-			<point x="63" y="476" type="curve"/>
+			<point x="63" y="476" type="curve" smooth="yes"/>
 			<point x="63" y="422"/>
 			<point x="66" y="375"/>
 			<point x="15" y="336" type="curve"/>
@@ -73,10 +72,13 @@
 			<point x="59" y="95" type="line" smooth="yes"/>
 			<point x="59" y="29"/>
 			<point x="59" y="29"/>
+			<point x="34" y="18" type="curve"/>
 		</contour>
 	</outline>
 	<lib>
 		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2020-01-30 15:49:33 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>longs</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

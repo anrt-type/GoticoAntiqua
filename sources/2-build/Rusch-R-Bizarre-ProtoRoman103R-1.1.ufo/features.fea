@@ -1,13 +1,16 @@
-@AllLetters = [A B C D E F G H I J K L M N O P Q Q_P Q_u R S T U V W X Y Z a a_hook a_macr a_e b b_hook c c_hook c_ra c_t d d_strok e e_hook e_macr f f_f g g_ra h h_strok i idotless i_macr j k l l_strok m n n_hook n_macr o o_hook o_macr o_e p p_bardes p_hook p_flour p_ra q q_bardes q_ring q_etfin q_etfin_ring q_etfin_ra q_strok r r_hook r_macr r_ra s s_ra longs longs_i longs_longs longs_strok longs_t longs_z t t_acute t_hook t_ra u u_macr v w x y z con etfin rum usmod o_exp r_exp t_exp
-];
+# automatic
+@AllLetters = [ A B C D E F G H I J K L M N O P Q Q_P Q_u R S T U V W X Y Z a a_hook a_macr a_e b b_hook c c_hook c_ra c_t d d_strok e e_hook e_macr f f_f g g_ra h h_strok i idotless i_macr j k l l_strok m n n_hook n_macr o o_hook o_macr o_e p p_bardes p_hook p_flour p_ra q q_bardes q_ring q_etfin q_etfin_ring q_etfin_ra q_strok r r_hook r_macr r_ra s s_ra longs longs_i longs_longs longs_strok longs_t longs_z t t_acute t_hook t_ra u u_macr v w x y z con etfin rum usmod o_exp r_exp t_exp ];
+
+# Prefix: Languagesystems
 languagesystem DFLT dflt;
+
 feature hlig {
 sub c t by c_t;
 sub f f by f_f;
 sub longs i by longs_i;
 sub longs longs by longs_longs;
 sub longs t by longs_t;
-} hlig ;
+} hlig;
 
 feature liga {
 sub c t by c_t;
@@ -15,37 +18,20 @@ sub f f by f_f;
 sub longs i by longs_i;
 sub longs longs by longs_longs;
 sub longs t by longs_t;
-} liga ;
+} liga;
 
 feature hist {
 sub s by longs;
 sub @AllLetters longs' [emspace enspace threeperemspace fourperemspace space thinspace hairspace period colon] by s;
-} hist ;
+} hist;
 
 feature salt {
 sub s by longs;
 sub @AllLetters longs' [emspace enspace threeperemspace fourperemspace space thinspace hairspace period colon] by s;
-} salt ;
+} salt;
 
 feature ss01 {
-featureNames {
-	name "Long s";
-};
 sub s by longs;
 sub @AllLetters longs' [emspace enspace threeperemspace fourperemspace space thinspace hairspace period colon] by s;
-} ss01 ;
+} ss01;
 
-
-table GDEF {
- GlyphClassDef ,# Base 
- [Q_P Q_u a_e c_t f_f o_e longs_i longs_longs longs_t longs_z], # Liga 
- , # Mark 
- ;
- LigatureCaretByPos Q_P 638;
-LigatureCaretByPos Q_u 638;
-LigatureCaretByPos c_t 321;
-LigatureCaretByPos f_f 394;
-LigatureCaretByPos longs_longs 524;
-LigatureCaretByPos longs_t 365;
-LigatureCaretByPos longs_z 400;
-} GDEF;

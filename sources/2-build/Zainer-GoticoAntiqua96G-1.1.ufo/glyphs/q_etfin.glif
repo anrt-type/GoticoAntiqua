@@ -3,11 +3,10 @@
 	<advance width="745"/>
 	<note>
 		q_z
-  </note>
+	</note>
 	<outline>
 		<contour>
 			<point x="730" y="342" type="curve"/>
-			<point x="730" y="342" type="line"/>
 			<point x="730" y="363" type="line"/>
 			<point x="664" y="389"/>
 			<point x="608" y="432"/>
@@ -21,7 +20,7 @@
 			<point x="267" y="468" type="curve"/>
 			<point x="172" y="428"/>
 			<point x="25" y="314"/>
-			<point x="25" y="177" type="curve"/>
+			<point x="25" y="177" type="curve" smooth="yes"/>
 			<point x="25" y="87"/>
 			<point x="72" y="9"/>
 			<point x="192" y="-10" type="curve"/>
@@ -53,14 +52,13 @@
 			<point x="679" y="302"/>
 		</contour>
 		<contour>
-			<point x="228" y="85" type="curve"/>
-			<point x="228" y="85" type="line"/>
+			<point x="228" y="85" type="curve" smooth="yes"/>
 			<point x="148" y="85"/>
 			<point x="110" y="162"/>
-			<point x="110" y="232" type="curve"/>
+			<point x="110" y="232" type="curve" smooth="yes"/>
 			<point x="110" y="312"/>
 			<point x="167" y="375"/>
-			<point x="236" y="375" type="curve"/>
+			<point x="236" y="375" type="curve" smooth="yes"/>
 			<point x="276" y="375"/>
 			<point x="334" y="351"/>
 			<point x="353" y="324" type="curve"/>
@@ -72,7 +70,6 @@
 		</contour>
 		<contour>
 			<point x="452" y="136" type="curve"/>
-			<point x="452" y="136" type="line"/>
 			<point x="452" y="209"/>
 			<point x="454" y="281"/>
 			<point x="456" y="353" type="curve"/>
@@ -84,8 +81,7 @@
 			<point x="516" y="188"/>
 		</contour>
 		<contour>
-			<point x="613" y="42" type="curve"/>
-			<point x="613" y="42" type="line"/>
+			<point x="613" y="42" type="curve" smooth="yes"/>
 			<point x="613" y="-16"/>
 			<point x="564" y="-68"/>
 			<point x="454" y="-122" type="curve"/>
@@ -101,6 +97,8 @@
 	</outline>
 	<lib>
 		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2020-02-10 15:47:49 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>q</string>
 			<key>public.markColor</key>

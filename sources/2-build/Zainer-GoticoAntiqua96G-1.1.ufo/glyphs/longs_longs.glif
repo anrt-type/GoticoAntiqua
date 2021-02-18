@@ -3,11 +3,10 @@
 	<advance width="377"/>
 	<note>
 		s_s
-  </note>
+	</note>
 	<outline>
 		<contour>
 			<point x="20" y="0" type="curve"/>
-			<point x="20" y="0" type="line"/>
 			<point x="123" y="0" type="line"/>
 			<point x="123" y="618" type="line"/>
 			<point x="164" y="622"/>
@@ -24,7 +23,6 @@
 		</contour>
 		<contour>
 			<point x="236" y="0" type="curve"/>
-			<point x="236" y="0" type="line"/>
 			<point x="339" y="0" type="line"/>
 			<point x="337" y="620" type="line"/>
 			<point x="368" y="620"/>
@@ -42,6 +40,8 @@
 	</outline>
 	<lib>
 		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2020-01-30 13:06:30 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>longs</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

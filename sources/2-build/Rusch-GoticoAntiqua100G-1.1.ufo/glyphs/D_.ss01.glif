@@ -3,48 +3,49 @@
   <advance width="813"/>
   <outline>
     <contour>
-      <point x="25" y="27" type="curve"/>
       <point x="37" y="-6" type="line"/>
       <point x="37" y="-6"/>
       <point x="81" y="26"/>
-      <point x="164" y="26" type="curve"/>
+      <point x="164" y="26" type="curve" smooth="yes"/>
       <point x="202" y="26"/>
       <point x="301" y="10"/>
       <point x="435" y="-5" type="curve"/>
       <point x="492" y="17"/>
       <point x="788" y="137"/>
-      <point x="788" y="387" type="curve"/>
+      <point x="788" y="387" type="curve" smooth="yes"/>
       <point x="788" y="638"/>
       <point x="578" y="711"/>
-      <point x="408" y="711" type="curve"/>
+      <point x="408" y="711" type="curve" smooth="yes"/>
       <point x="295" y="711"/>
       <point x="113" y="700"/>
       <point x="30" y="718" type="curve"/>
       <point x="20" y="689" type="line"/>
       <point x="93" y="668"/>
       <point x="123" y="646"/>
-      <point x="126" y="593" type="curve"/>
+      <point x="126" y="593" type="curve" smooth="yes"/>
       <point x="135" y="440"/>
       <point x="127" y="296"/>
-      <point x="124" y="108" type="curve"/>
+      <point x="124" y="108" type="curve" smooth="yes"/>
       <point x="123" y="40"/>
       <point x="56" y="37"/>
+      <point x="25" y="27" type="curve"/>
     </contour>
     <contour>
       <point x="238" y="64" type="curve"/>
-      <point x="238" y="64" type="line"/>
       <point x="232" y="227"/>
       <point x="228" y="458"/>
       <point x="242" y="670" type="curve"/>
       <point x="529" y="698"/>
       <point x="670" y="590"/>
-      <point x="670" y="351" type="curve"/>
+      <point x="670" y="351" type="curve" smooth="yes"/>
       <point x="670" y="90"/>
       <point x="462" y="13"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020-02-10 10:35:30 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>D</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

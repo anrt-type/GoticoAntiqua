@@ -4,33 +4,32 @@
 	<unicode hex="0044"/>
 	<outline>
 		<contour>
-			<point x="57" y="24" type="curve"/>
 			<point x="60" y="-10" type="line"/>
 			<point x="140" y="31"/>
 			<point x="223" y="-10"/>
-			<point x="356" y="-10" type="curve"/>
+			<point x="356" y="-10" type="curve" smooth="yes"/>
 			<point x="546" y="-10"/>
 			<point x="710" y="151"/>
-			<point x="710" y="361" type="curve"/>
+			<point x="710" y="361" type="curve" smooth="yes"/>
 			<point x="710" y="571"/>
 			<point x="542" y="710"/>
-			<point x="321" y="710" type="curve"/>
+			<point x="321" y="710" type="curve" smooth="yes"/>
 			<point x="211" y="710"/>
 			<point x="151" y="672"/>
 			<point x="59" y="700" type="curve"/>
 			<point x="40" y="669" type="line"/>
 			<point x="81" y="647"/>
 			<point x="93" y="632"/>
-			<point x="95" y="590" type="curve"/>
+			<point x="95" y="590" type="curve" smooth="yes"/>
 			<point x="105" y="389"/>
 			<point x="95" y="155"/>
-			<point x="91" y="101" type="curve"/>
+			<point x="91" y="101" type="curve" smooth="yes"/>
 			<point x="88" y="62"/>
 			<point x="78" y="34"/>
+			<point x="57" y="24" type="curve"/>
 		</contour>
 		<contour>
-			<point x="359" y="41" type="curve"/>
-			<point x="359" y="41" type="line"/>
+			<point x="359" y="41" type="curve" smooth="yes"/>
 			<point x="293" y="41"/>
 			<point x="256" y="48"/>
 			<point x="202" y="59" type="curve"/>
@@ -39,16 +38,18 @@
 			<point x="204" y="642" type="curve"/>
 			<point x="237" y="654"/>
 			<point x="272" y="659"/>
-			<point x="332" y="659" type="curve"/>
+			<point x="332" y="659" type="curve" smooth="yes"/>
 			<point x="494" y="659"/>
 			<point x="593" y="523"/>
-			<point x="593" y="351" type="curve"/>
+			<point x="593" y="351" type="curve" smooth="yes"/>
 			<point x="593" y="161"/>
 			<point x="508" y="41"/>
 		</contour>
 	</outline>
 	<lib>
 		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2020-02-11 12:03:57 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>H</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

@@ -4,24 +4,23 @@
   <unicode hex="0043"/>
   <outline>
     <contour>
-      <point x="430" y="-9" type="curve"/>
-      <point x="430" y="-9" type="line"/>
+      <point x="430" y="-9" type="curve" smooth="yes"/>
       <point x="504" y="-9"/>
       <point x="589" y="3"/>
-      <point x="674" y="7" type="curve"/>
+      <point x="674" y="7" type="curve" smooth="yes"/>
       <point x="672" y="7"/>
       <point x="687" y="98"/>
       <point x="694" y="163" type="curve"/>
       <point x="667" y="164" type="line"/>
       <point x="623" y="61"/>
       <point x="532" y="26"/>
-      <point x="418" y="26" type="curve"/>
+      <point x="418" y="26" type="curve" smooth="yes"/>
       <point x="244" y="26"/>
       <point x="140" y="153"/>
-      <point x="140" y="355" type="curve"/>
+      <point x="140" y="355" type="curve" smooth="yes"/>
       <point x="140" y="529"/>
       <point x="257" y="670"/>
-      <point x="433" y="670" type="curve"/>
+      <point x="433" y="670" type="curve" smooth="yes"/>
       <point x="568" y="670"/>
       <point x="623" y="610"/>
       <point x="676" y="521" type="curve"/>
@@ -29,10 +28,10 @@
       <point x="694" y="689" type="line"/>
       <point x="613" y="691"/>
       <point x="523" y="708"/>
-      <point x="442" y="708" type="curve"/>
+      <point x="442" y="708" type="curve" smooth="yes"/>
       <point x="178" y="708"/>
       <point x="40" y="536"/>
-      <point x="40" y="355" type="curve"/>
+      <point x="40" y="355" type="curve" smooth="yes"/>
       <point x="40" y="92"/>
       <point x="220" y="-9"/>
     </contour>
@@ -46,7 +45,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019-04-24 16:49:01 +0000</string>
+      <string>2020-02-10 11:08:10 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>O</string>
       <key>com.typemytype.robofont.mark</key>
