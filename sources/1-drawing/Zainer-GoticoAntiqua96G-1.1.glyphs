@@ -15622,9 +15622,8 @@ unicode = 003F;
 },
 {
 color = 10;
-export = 0;
 glyphname = hyphen;
-lastChange = "2021-02-18 14:35:14 +0000";
+lastChange = "2021-02-19 18:06:37 +0000";
 layers = (
 {
 layerId = "E35B076F-D533-4C92-BAB9-D65BCB0F4FA2";

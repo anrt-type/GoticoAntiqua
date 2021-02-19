@@ -706,7 +706,6 @@
 	</dict>
 	<key>public.skipExportGlyphs</key>
 	<array>
-		<string>hyphen</string>
 		<string>macr</string>
 		<string>apomod</string>
 		<string>urrot</string>
