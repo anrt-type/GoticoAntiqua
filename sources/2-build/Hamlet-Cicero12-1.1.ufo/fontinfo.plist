@@ -13,7 +13,7 @@
 	<key>familyName</key>
 	<string>Hamlet</string>
 	<key>openTypeHeadCreated</key>
-	<string>2019/04/19 18:10:13</string>
+	<string>2021/04/23 18:48:57</string>
 	<key>openTypeNameDescription</key>
 	<string>Hamlet (also named Kessler-Blackletter), designed by Edward Johnston, cut in three sizes (10, 12 and 16 pt) by Edward Prince for William Shakespeare’s Hamlet. Published by Harry Kessler’s Cranach Press in Weimar in 1929. The type is based on the Durandus for the lowercases, and Sweynheim &amp; Pannartz’ Subiaco type for the capitals. The type was used for trials in other books, none of which were completed.
 
@@ -91,7 +91,7 @@ Copyright (c) 2019 ANRT. All rights reserved.</string>
 	<key>versionMajor</key>
 	<integer>1</integer>
 	<key>versionMinor</key>
-	<integer>0</integer>
+	<integer>1</integer>
 	<key>xHeight</key>
 	<integer>450</integer>
 </dict>

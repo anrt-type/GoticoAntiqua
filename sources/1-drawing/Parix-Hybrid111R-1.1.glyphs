@@ -1,5 +1,5 @@
 {
-.appVersion = "1354";
+.appVersion = "1356";
 classes = (
 {
 automatic = 1;
@@ -231,7 +231,7 @@ name = versionString;
 value = "1.1";
 }
 );
-date = "2019-04-24 19:07:41 +0000";
+date = "2021-04-23 16:51:26 +0000";
 designer = "Alexis Faudot, Rafael Ribas";
 designerURL = "http://www.anrt-nancy.fr";
 familyName = Parix;
@@ -13132,5 +13132,5 @@ manufacturer = ANRT;
 manufacturerURL = "http://www.anrt-nancy.fr";
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 0;
+versionMinor = 1;
 }

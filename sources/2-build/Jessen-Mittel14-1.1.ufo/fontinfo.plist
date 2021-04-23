@@ -13,7 +13,7 @@
 	<key>familyName</key>
 	<string>Jessen</string>
 	<key>openTypeHeadCreated</key>
-	<string>2019/04/19 19:20:54</string>
+	<string>2021/04/23 18:38:35</string>
 	<key>openTypeNameDescription</key>
 	<string>Jessen, hybrid of gothic minuscules and roman capitals designed and cut without preliminary drawings in Offenbach am Main by Rudolf Koch for The Four Gospels. Printed at the Klingspor press in 1926 and published by Koch himself. Formerly named Bibel-Gotisch, the type was released as Jessen in several sizes by the Klingspor foundry in 1930.
 
@@ -95,7 +95,7 @@ Copyright (c) 2019 ANRT. All rights reserved.</string>
 	<key>versionMajor</key>
 	<integer>1</integer>
 	<key>versionMinor</key>
-	<integer>0</integer>
+	<integer>1</integer>
 	<key>xHeight</key>
 	<integer>450</integer>
 </dict>

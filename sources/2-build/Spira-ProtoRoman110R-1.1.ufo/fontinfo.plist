@@ -13,7 +13,7 @@
 	<key>familyName</key>
 	<string>Spira</string>
 	<key>openTypeHeadCreated</key>
-	<string>2019/04/19 17:59:52</string>
+	<string>2021/04/23 18:47:37</string>
 	<key>openTypeNameDescription</key>
 	<string>Spira 110R, Proto-Roman first used in Venice by Johannes and Vindelinus de Spira for Cicero’s Epistolae ad familiares in 1469 and used until 1473 by Vindelinus.
 
@@ -93,7 +93,7 @@ Copyright (c) 2019 ANRT. All rights reserved.</string>
 	<key>versionMajor</key>
 	<integer>1</integer>
 	<key>versionMinor</key>
-	<integer>0</integer>
+	<integer>1</integer>
 	<key>xHeight</key>
 	<integer>390</integer>
 </dict>

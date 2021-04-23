@@ -1,5 +1,5 @@
 {
-.appVersion = "1354";
+.appVersion = "1356";
 copyright = "Copyright (c) 2019 ANRT. All rights reserved.";
 customParameters = (
 {
@@ -177,7 +177,7 @@ name = versionString;
 value = "1.1";
 }
 );
-date = "2019-04-19 16:10:13 +0000";
+date = "2021-04-23 16:48:57 +0000";
 designer = "Alexis Faudot, Rafael Ribas";
 designerURL = "http://www.anrt-nancy.fr";
 familyName = Hamlet;
@@ -14852,5 +14852,5 @@ nV = "100";
 };
 };
 versionMajor = 1;
-versionMinor = 0;
+versionMinor = 1;
 }

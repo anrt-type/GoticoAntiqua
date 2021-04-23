@@ -13,7 +13,7 @@
 	<key>familyName</key>
 	<string>Fust &amp; Schoeffer</string>
 	<key>openTypeHeadCreated</key>
-	<string>2019/04/24 07:03:55</string>
+	<string>2021/04/23 18:38:18</string>
 	<key>openTypeNameDescription</key>
 	<string>Fust &amp; Schöffer ‘Durandus’ 118G, Gotico-Antiqua first used in Mainz by Peter Schöffer &amp; Johann Fust for Guillaume Durand’s Rationale Divinorum Officorum in 1459. The book displays two sizes, the smaller 92G for the main text and the bigger and more contrasted 118G used only for the colophon and later for the famous 48-line Bible in 1462. Used until the end of the century.
 
@@ -80,6 +80,20 @@ Copyright (c) 2019 ANRT. All rights reserved.</string>
 	<key>postscriptOtherBlues</key>
 	<array>
 	</array>
+	<key>postscriptStemSnapH</key>
+	<array>
+		<integer>30</integer>
+		<integer>120</integer>
+		<integer>130</integer>
+	</array>
+	<key>postscriptStemSnapV</key>
+	<array>
+		<integer>105</integer>
+		<integer>110</integer>
+		<integer>115</integer>
+		<integer>125</integer>
+		<integer>145</integer>
+	</array>
 	<key>styleMapFamilyName</key>
 	<string>Fust &amp; Schoeffer Durandus Gotico-Antiqua 118G</string>
 	<key>styleMapStyleName</key>
@@ -91,7 +105,7 @@ Copyright (c) 2019 ANRT. All rights reserved.</string>
 	<key>versionMajor</key>
 	<integer>1</integer>
 	<key>versionMinor</key>
-	<integer>0</integer>
+	<integer>1</integer>
 	<key>xHeight</key>
 	<integer>430</integer>
 </dict>

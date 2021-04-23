@@ -1,5 +1,5 @@
 {
-.appVersion = "1354";
+.appVersion = "1356";
 copyright = "Copyright (c) 2019 ANRT. All rights reserved.";
 customParameters = (
 {
@@ -115,7 +115,7 @@ Y
 );
 }
 );
-date = "2019-04-19 16:04:28 +0000";
+date = "2021-04-23 16:57:22 +0000";
 designer = "Alexis Faudot, Rafael Ribas";
 designerURL = "http://www.anrt-nancy.fr";
 familyName = Zainer;
@@ -86279,5 +86279,5 @@ manufacturer = ANRT;
 manufacturerURL = "http://www.anrt-nancy.fr";
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 0;
+versionMinor = 1;
 }

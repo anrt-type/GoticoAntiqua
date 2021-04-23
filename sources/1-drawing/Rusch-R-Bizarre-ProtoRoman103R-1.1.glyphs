@@ -1,5 +1,5 @@
 {
-.appVersion = "1354";
+.appVersion = "1356";
 classes = (
 {
 automatic = 1;
@@ -189,7 +189,7 @@ name = versionString;
 value = "1.1";
 }
 );
-date = "2019-04-19 16:25:02 +0000";
+date = "2021-04-23 16:54:49 +0000";
 designer = "Alexis Faudot, Rafael Ribas";
 designerURL = "http://www.anrt-nancy.fr";
 disablesNiceNames = 1;
@@ -10975,5 +10975,5 @@ com.schriftgestaltung.font.licenseURL = "https://opensource.org/licenses/OFL-1.1
 UFOFormat = 2;
 };
 versionMajor = 1;
-versionMinor = 0;
+versionMinor = 1;
 }

@@ -4,6 +4,10 @@
 <dict>
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
+		<string>H</string>
+		<string>G</string>
+		<string>r</string>
+		<string>/i_m</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
